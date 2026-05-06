@@ -1,0 +1,24 @@
+R13 → R14 conversion report
+
+Inputs emitted:        216
+Library actions:       451
+
+Action types in library:
+  change-mode           7
+  description           1
+  double-tap            1
+  macro                 1
+  map-to-mouse          2
+  map-to-vjoy           213
+  response-curve        6
+  root                  216
+  tempo                 4
+
+Dropped — text-to-speech:  4
+    'SCM Mode Enabled'
+    'NAV Mode Enabled'
+    'SCM Mode Enabled'
+    'Auxiliary Mode Enabled'
+Dropped — other:           1
+    noop converted to description action
+Warnings:                  0
