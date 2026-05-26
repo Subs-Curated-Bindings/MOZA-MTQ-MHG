@@ -70,17 +70,8 @@
   <action name="v_set_salvage_mode">
    <rebind input="js1_button126"/>
   </action>
-  <action name="v_toggle_guns_mode">
-   <rebind input="js1_button123"/>
-  </action>
-  <action name="v_toggle_mining_mode">
-   <rebind input="js1_button125"/>
-  </action>
   <action name="v_toggle_missile_mode">
    <rebind input="js2_button2"/>
-  </action>
-  <action name="v_toggle_salvage_mode">
-   <rebind input="js1_button125"/>
   </action>
   <action name="v_view_look_behind">
    <rebind input="js1_button50"/>
