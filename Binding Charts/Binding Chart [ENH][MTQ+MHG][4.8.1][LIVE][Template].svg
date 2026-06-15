@@ -20,9 +20,6 @@
             </g>
         </g>
         <g id="Right-Stick" serif:id="Right Stick" transform="matrix(1,0,0,1,-233.788497,0)">
-            <g id="MOZA_AB6_MHG.png" transform="matrix(2.159852,0,0,2.159852,2261.242673,801.411348)">
-                <use xlink:href="#_Image4" x="0" y="0" width="711px" height="711px"/>
-            </g>
             <g id="THROTTLE-LEVERS-RT1-RT2" serif:id="THROTTLE LEVERS RT1/RT2" transform="matrix(1,0,0,1,-566.751192,-16.019898)">
                 <g transform="matrix(-1,0,0,1,5113.597554,431.498239)">
                     <g transform="matrix(1,0,0,1,208.198243,-13.336965)">
@@ -49,6 +46,43 @@
                 </g>
                 <g id="RT1">
                 </g>
+            </g>
+            <g id="PINKY-BUTTON" transform="matrix(1,0,0,1,28.000783,-277.955689)">
+                <g transform="matrix(1,0,0,1,348.385621,190.980951)">
+                    <g>
+                        <g>
+                            <g transform="matrix(1,0,0,1,2300.9722,1294.0141)">
+                                <path d="M5.784,325.198L67.478,325.198C67.478,325.198 251.837,344.136 322.368,205.062" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:4px;"/>
+                            </g>
+                            <g transform="matrix(0,-1,-1,0,2804.780349,1718.575054)">
+                                <path d="M219.499,176.44C216.738,176.44 214.499,178.679 214.499,181.44C214.499,184.201 216.738,186.44 219.499,186.44C222.26,186.44 224.499,184.201 224.499,181.44C224.499,178.679 222.26,176.44 219.499,176.44" style="fill:white;fill-rule:nonzero;"/>
+                            </g>
+                        </g>
+                        <g transform="matrix(1,0,0,1,661.351389,12.357592)">
+                            <g id="Press-In" serif:id="Press In" transform="matrix(1,0,0,1,-585.178082,1047.837614)">
+                                <g transform="matrix(3.942055,0,0,3.942055,-6582.186179,-5617.879924)">
+                                    <rect x="2224.627" y="1567.923" width="2" height="8" style="fill:white;"/>
+                                </g>
+                                <g transform="matrix(3.942055,0,0,3.942055,2207.127458,606.32124)">
+                                    <path d="M0,-4L-4,0L-8,-4L0,-4Z" style="fill:white;fill-rule:nonzero;"/>
+                                </g>
+                                <g transform="matrix(3.942055,0,0,3.942055,-6582.186179,-1739.504969)">
+                                    <g opacity="0.3">
+                                        <g transform="matrix(1,0,0,1,2220.6274,578.077)">
+                                            <path d="M0,11L2,11L2,5C2,4.4 2.4,4 3,4L7,4C7.6,4 8,4.4 8,5L8,11L10,11C10.6,11 11,11.4 11,12L11,13C12.2,11.6 13,8 13,6C13,1.6 9.4,-2 5,-2C0.6,-2 -3,1.6 -3,6C-3,8 -2.2,11.6 -1,13L-1,12C-1,11.4 -0.6,11 0,11" style="fill:white;fill-rule:nonzero;"/>
+                                        </g>
+                                    </g>
+                                </g>
+                                <g transform="matrix(3.942055,0,0,3.942055,2167.706909,531.422196)">
+                                    <path d="M0,14C0,13.8 0.1,13.6 0.2,13.5C-1.2,12 -2,10.1 -2,8C-2,3.6 1.6,0 6,0C10.4,0 14,3.6 14,8C14,10.1 13.2,12 11.8,13.5C11.9,13.7 12,13.8 12,14L12,16C14.4,14.2 16,11.3 16,8C16,2.5 11.5,-2 6,-2C0.5,-2 -4,2.5 -4,8C-4,11.3 -2.4,14.2 0,16L0,14Z" style="fill:white;fill-rule:nonzero;"/>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <g id="MOZA_AB6_MHG.png" transform="matrix(2.159852,0,0,2.159852,2261.242673,801.411348)">
+                <use xlink:href="#_Image4" x="0" y="0" width="711px" height="711px"/>
             </g>
             <g id="POV-ANALOG-HAT" transform="matrix(1,0,0,1,-56.374787,-55.714393)">
                 <g>
@@ -96,40 +130,6 @@
                         </g>
                         <g transform="matrix(0,-0.213363,0.213363,0,70.790383,496.294529)">
                             <path d="M2269.812,-200.806L2269.812,-230.996" style="fill:none;stroke:white;stroke-width:4px;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:1.5;"/>
-                        </g>
-                    </g>
-                </g>
-            </g>
-            <g id="PINKY-BUTTON" transform="matrix(1,0,0,1,28.000783,-277.955689)">
-                <g transform="matrix(1,0,0,1,348.385621,190.980951)">
-                    <g>
-                        <g>
-                            <g transform="matrix(1,0,0,1,2300.9722,1294.0141)">
-                                <path d="M5.784,325.198L67.478,325.198C67.478,325.198 240.042,337.846 309,-129.136" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:4px;"/>
-                            </g>
-                            <g transform="matrix(0,-1,-1,0,2791.412437,1384.377256)">
-                                <path d="M219.499,176.44C216.738,176.44 214.499,178.679 214.499,181.44C214.499,184.201 216.738,186.44 219.499,186.44C222.26,186.44 224.499,184.201 224.499,181.44C224.499,178.679 222.26,176.44 219.499,176.44" style="fill:white;fill-rule:nonzero;"/>
-                            </g>
-                        </g>
-                        <g transform="matrix(1,0,0,1,661.351389,12.357592)">
-                            <g id="Press-In" serif:id="Press In" transform="matrix(1,0,0,1,-585.178082,1047.837614)">
-                                <g transform="matrix(3.942055,0,0,3.942055,-6582.186179,-5617.879924)">
-                                    <rect x="2224.627" y="1567.923" width="2" height="8" style="fill:white;"/>
-                                </g>
-                                <g transform="matrix(3.942055,0,0,3.942055,2207.127458,606.32124)">
-                                    <path d="M0,-4L-4,0L-8,-4L0,-4Z" style="fill:white;fill-rule:nonzero;"/>
-                                </g>
-                                <g transform="matrix(3.942055,0,0,3.942055,-6582.186179,-1739.504969)">
-                                    <g opacity="0.3">
-                                        <g transform="matrix(1,0,0,1,2220.6274,578.077)">
-                                            <path d="M0,11L2,11L2,5C2,4.4 2.4,4 3,4L7,4C7.6,4 8,4.4 8,5L8,11L10,11C10.6,11 11,11.4 11,12L11,13C12.2,11.6 13,8 13,6C13,1.6 9.4,-2 5,-2C0.6,-2 -3,1.6 -3,6C-3,8 -2.2,11.6 -1,13L-1,12C-1,11.4 -0.6,11 0,11" style="fill:white;fill-rule:nonzero;"/>
-                                        </g>
-                                    </g>
-                                </g>
-                                <g transform="matrix(3.942055,0,0,3.942055,2167.706909,531.422196)">
-                                    <path d="M0,14C0,13.8 0.1,13.6 0.2,13.5C-1.2,12 -2,10.1 -2,8C-2,3.6 1.6,0 6,0C10.4,0 14,3.6 14,8C14,10.1 13.2,12 11.8,13.5C11.9,13.7 12,13.8 12,14L12,16C14.4,14.2 16,11.3 16,8C16,2.5 11.5,-2 6,-2C0.5,-2 -4,2.5 -4,8C-4,11.3 -2.4,14.2 0,16L0,14Z" style="fill:white;fill-rule:nonzero;"/>
-                                </g>
-                            </g>
                         </g>
                     </g>
                 </g>
@@ -212,9 +212,9 @@
             </g>
             <g id="LNCH-BTN" transform="matrix(1,0,0,1,993.40745,-1097.998653)">
                 <g transform="matrix(1,0,0,1,-246.391226,-42.011407)">
-                    <g transform="matrix(-1,0,0,1,4559.552312,-3.778217)">
+                    <g transform="matrix(-0.972775,0,0,0.972775,4497.484657,51.723745)">
                         <g transform="matrix(1,0,0,1.024773,2300.9722,1278.207925)">
-                            <path d="M-21.196,475.11L-21.196,737.107" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:3.95px;"/>
+                            <path d="M-21.196,475.11L-21.196,737.107" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:4.06px;"/>
                         </g>
                         <g transform="matrix(0,-1,-1,0,2279.776156,2028.621456)">
                             <path d="M-4.954,-4.954C-2.169,-4.954 0.087,-2.736 0.087,-0C0.087,2.736 -2.169,4.954 -4.954,4.954C-7.738,4.954 -9.994,2.736 -9.994,-0C-9.994,-2.736 -7.738,-4.954 -4.954,-4.954" style="fill:white;fill-rule:nonzero;"/>
@@ -236,6 +236,9 @@
                         </g>
                         <g transform="matrix(3.942055,0,0,3.942055,2167.706909,531.422196)">
                             <path d="M0,14C0,13.8 0.1,13.6 0.2,13.5C-1.2,12 -2,10.1 -2,8C-2,3.6 1.6,0 6,0C10.4,0 14,3.6 14,8C14,10.1 13.2,12 11.8,13.5C11.9,13.7 12,13.8 12,14L12,16C14.4,14.2 16,11.3 16,8C16,2.5 11.5,-2 6,-2C0.5,-2 -4,2.5 -4,8C-4,11.3 -2.4,14.2 0,16L0,14Z" style="fill:white;fill-rule:nonzero;"/>
+                        </g>
+                        <g transform="matrix(1,0,0,1,-78.454388,719.218879)">
+                            <path d="M2269.812,-200.806L2269.812,-230.996" style="fill:none;stroke:white;stroke-width:4px;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:1.5;"/>
                         </g>
                     </g>
                 </g>
@@ -596,11 +599,6 @@
             </g>
             <g id="COM-4-WAY-HAT" transform="matrix(1,0,0,1,-495.929466,-325.344295)">
                 <g transform="matrix(1,0,0,1,1712.339867,-533.963611)">
-                    <g transform="matrix(1,-0,-0,-1,0.582597,3043.736045)">
-                        <g transform="matrix(1,0,0,1,464.2937,1083)">
-                            <path d="M-137.858,413.08L-194.388,375.938C-194.388,375.938 -267.522,413.057 -380.586,306.636" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:4px;"/>
-                        </g>
-                    </g>
                     <g transform="matrix(4.686842,0,0,4.686842,305.695537,1462.415597)">
                         <path d="M12,22C6.5,22 2,17.5 2,12C2,6.5 6.5,2 12,2C17.5,2 22,6.5 22,12C22,17.5 17.5,22 12,22ZM12,4C7.6,4 4,7.6 4,12C4,16.4 7.6,20 12,20C16.4,20 20,16.4 20,12C20,7.6 16.4,4 12,4Z" style="fill:white;fill-rule:nonzero;"/>
                         <path d="M12,3C7.063,3 3,7.063 3,12C3,16.937 7.063,21 12,21C16.937,21 21,16.937 21,12C21,7.063 16.937,3 12,3Z" style="fill:white;fill-opacity:0.3;fill-rule:nonzero;"/>
@@ -640,9 +638,12 @@
                         <g transform="matrix(0,-0.213363,0.213363,0,70.747831,496.251976)">
                             <path d="M2269.812,-200.806L2269.812,-230.996" style="fill:none;stroke:white;stroke-width:4px;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:1.5;"/>
                         </g>
-                    </g>
-                    <g transform="matrix(0,-1,-1,-0,84.290351,1659.100006)">
-                        <path d="M5,-5C2.239,-5 0,-2.761 0,0C0,2.761 2.239,5 5,5C7.761,5 10,2.761 10,0C10,-2.761 7.761,-5 5,-5" style="fill:white;fill-rule:nonzero;"/>
+                        <g transform="matrix(0.213363,-0,-0,-0.213363,33.963328,106.323282)">
+                            <path d="M-145.12,442.278L-346.404,441.052C-346.404,441.052 -438.833,421.014 -380.586,306.636" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:4px;"/>
+                        </g>
+                        <g transform="matrix(0,-0.213363,-0.213363,-0,-47.239735,41.965229)">
+                            <path d="M5,-5C2.239,-5 0,-2.761 0,0C0,2.761 2.239,5 5,5C7.761,5 10,2.761 10,0C10,-2.761 7.761,-5 5,-5" style="fill:white;fill-rule:nonzero;"/>
+                        </g>
                     </g>
                 </g>
             </g>
