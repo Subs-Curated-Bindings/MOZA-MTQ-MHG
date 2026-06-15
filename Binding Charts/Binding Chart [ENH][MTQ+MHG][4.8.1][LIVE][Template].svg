@@ -20,33 +20,6 @@
             </g>
         </g>
         <g id="Right-Stick" serif:id="Right Stick" transform="matrix(1,0,0,1,-233.788497,0)">
-            <g id="THROTTLE-LEVERS-RT1-RT2" serif:id="THROTTLE LEVERS RT1/RT2" transform="matrix(1,0,0,1,-566.751192,-16.019898)">
-                <g transform="matrix(-1,0,0,1,5113.597554,431.498239)">
-                    <g transform="matrix(1,0,0,1,208.198243,-13.336965)">
-                        <g>
-                            <g transform="matrix(1,0,0,1,1533.0137,1293.9998)">
-                                <path d="M-220.63,350.667C-236.411,290.12 -25.746,246.536 -68.987,145.171" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:4px;"/>
-                            </g>
-                            <g transform="matrix(1,0,0,1,1533.0137,1293.9998)">
-                                <path d="M-323.406,350.865C-323.406,350.865 -121.454,350.801 -117.854,350.667" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:4px;"/>
-                            </g>
-                            <g transform="matrix(0,1,1,0,1464.026283,1434.170417)">
-                                <path d="M5,-5C7.761,-5 10,-2.761 10,0C10,2.761 7.761,5 5,5C2.239,5 0,2.761 0,0C0,-2.761 2.239,-5 5,-5" style="fill:white;fill-rule:nonzero;"/>
-                            </g>
-                        </g>
-                    </g>
-                    <g transform="matrix(4.906464,0,0,4.906464,1358.928353,1572.650365)">
-                        <path d="M11,6L8,6L12,2L16,6L13,6L13,18L16,18L12,22L8,18L11,18L11,6Z" style="fill:white;"/>
-                    </g>
-                    <g transform="matrix(4.906464,0,0,4.906464,1564.480295,1572.650365)">
-                        <path d="M11,6L8,6L12,2L16,6L13,6L13,18L16,18L12,22L8,18L11,18L11,6Z" style="fill:white;"/>
-                    </g>
-                </g>
-                <g id="RT2">
-                </g>
-                <g id="RT1">
-                </g>
-            </g>
             <g id="PINKY-BUTTON" transform="matrix(1,0,0,1,28.000783,-277.955689)">
                 <g transform="matrix(1,0,0,1,348.385621,190.980951)">
                     <g>
@@ -83,6 +56,33 @@
             </g>
             <g id="MOZA_AB6_MHG.png" transform="matrix(2.159852,0,0,2.159852,2261.242673,801.411348)">
                 <use xlink:href="#_Image4" x="0" y="0" width="711px" height="711px"/>
+            </g>
+            <g id="THROTTLE-LEVERS-RT1-RT2" serif:id="THROTTLE LEVERS RT1/RT2" transform="matrix(1,0,0,1,-566.751192,-16.019898)">
+                <g transform="matrix(-1,0,0,1,5113.597554,431.498239)">
+                    <g transform="matrix(1,0,0,1,208.198243,-13.336965)">
+                        <g>
+                            <g transform="matrix(1,0,0,1,1533.0137,1293.9998)">
+                                <path d="M-220.63,350.667C-236.411,290.12 -25.746,246.536 -68.987,145.171" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:4px;"/>
+                            </g>
+                            <g transform="matrix(1,0,0,1,1533.0137,1293.9998)">
+                                <path d="M-323.406,350.865C-323.406,350.865 -121.454,350.801 -117.854,350.667" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:4px;"/>
+                            </g>
+                            <g transform="matrix(0,1,1,0,1464.026283,1434.170417)">
+                                <path d="M5,-5C7.761,-5 10,-2.761 10,0C10,2.761 7.761,5 5,5C2.239,5 0,2.761 0,0C0,-2.761 2.239,-5 5,-5" style="fill:white;fill-rule:nonzero;"/>
+                            </g>
+                        </g>
+                    </g>
+                    <g transform="matrix(4.906464,0,0,4.906464,1358.928353,1572.650365)">
+                        <path d="M11,6L8,6L12,2L16,6L13,6L13,18L16,18L12,22L8,18L11,18L11,6Z" style="fill:white;"/>
+                    </g>
+                    <g transform="matrix(4.906464,0,0,4.906464,1564.480295,1572.650365)">
+                        <path d="M11,6L8,6L12,2L16,6L13,6L13,18L16,18L12,22L8,18L11,18L11,6Z" style="fill:white;"/>
+                    </g>
+                </g>
+                <g id="RT2">
+                </g>
+                <g id="RT1">
+                </g>
             </g>
             <g id="POV-ANALOG-HAT" transform="matrix(1,0,0,1,-56.374787,-55.714393)">
                 <g>
