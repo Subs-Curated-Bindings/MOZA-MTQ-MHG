@@ -5995,7 +5995,7 @@
             </property>
             <property type="string">
                 <name>action-label</name>
-                <value>T-SPBRK.armed</value>
+                <value>T-DIAL.armed</value>
             </property>
             <property type="activation-mode">
                 <name>activation-mode</name>
@@ -6177,7 +6177,7 @@
             </property>
             <property type="string">
                 <name>action-label</name>
-                <value>T-SPBRK.down</value>
+                <value>T-DIAL.down</value>
             </property>
             <property type="activation-mode">
                 <name>activation-mode</name>
@@ -6865,7 +6865,7 @@
             </property>
             <property type="string">
                 <name>action-label</name>
-                <value>T-FLAP.1</value>
+                <value>T-SLIDER.full</value>
             </property>
             <property type="activation-mode">
                 <name>activation-mode</name>
@@ -9419,7 +9419,7 @@
             </property>
             <property type="string">
                 <name>action-label</name>
-                <value>T-FLAP.2</value>
+                <value>T-SLIDER.3</value>
             </property>
             <property type="activation-mode">
                 <name>activation-mode</name>
@@ -9458,7 +9458,7 @@
             </property>
             <property type="string">
                 <name>action-label</name>
-                <value>T-FLAP.3</value>
+                <value>T-SLIDER.2</value>
             </property>
             <property type="activation-mode">
                 <name>activation-mode</name>
@@ -9497,7 +9497,7 @@
             </property>
             <property type="string">
                 <name>action-label</name>
-                <value>T-FLAP.4</value>
+                <value>T-SLIDER.1</value>
             </property>
             <property type="activation-mode">
                 <name>activation-mode</name>
@@ -9536,7 +9536,7 @@
             </property>
             <property type="string">
                 <name>action-label</name>
-                <value>T-FLAP.5</value>
+                <value>T-SLIDER.0</value>
             </property>
             <property type="activation-mode">
                 <name>activation-mode</name>
