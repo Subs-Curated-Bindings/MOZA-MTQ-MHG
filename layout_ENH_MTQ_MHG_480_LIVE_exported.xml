@@ -59,10 +59,10 @@
    <rebind input="js1_button75"/>
   </action>
   <action name="v_operator_mode_cycle_back">
-   <rebind input="js1_button23"/>
+   <rebind input="js1_button11"/>
   </action>
   <action name="v_operator_mode_cycle_forward">
-   <rebind input="js1_button24"/>
+   <rebind input="js1_button12"/>
   </action>
   <action name="v_set_mining_mode">
    <rebind input="js1_button126"/>
