@@ -47,7 +47,7 @@
                 <g id="RT1">
                 </g>
             </g>
-            <g id="POV-ANALOG-HAT" transform="matrix(1,0,0,1,-87.065318,-143.094823)">
+            <g id="POV-ANALOG-HAT" transform="matrix(1,0,0,1,-56.374787,-124.973807)">
                 <g transform="matrix(0.565733,0,0,0.565733,3234.521137,519.651145)">
                     <g transform="matrix(1,0,0,1,-502.201047,-126.210568)">
                         <g transform="matrix(1,0,0,1,1182.4247,457.377)">
@@ -154,7 +154,7 @@
                     </g>
                 </g>
             </g>
-            <g id="AUX-BTN" transform="matrix(1,0,0,1,1449.157924,-668.429566)">
+            <g id="AUX-BTN" transform="matrix(1,0,0,1,1454.157924,-653.808642)">
                 <g transform="matrix(1,0,0,1,-246.391226,-42.011407)">
                     <g>
                         <g>
@@ -188,7 +188,7 @@
                     </g>
                 </g>
             </g>
-            <g id="CTL-2-WAY" transform="matrix(1,0,0,1,1793.905146,-882.020715)">
+            <g id="CTL-2-WAY" transform="matrix(1,0,0,1,1798.905146,-848.985725)">
                 <g transform="matrix(1,0,0,1,-246.391226,-42.011407)">
                     <g transform="matrix(1,0,0,-1,0,3460.484871)">
                         <g>
@@ -218,7 +218,7 @@
                     </g>
                 </g>
             </g>
-            <g id="LNCH-BTN" transform="matrix(1,0,0,1,955.209641,-1121.43467)">
+            <g id="LNCH-BTN" transform="matrix(1,0,0,1,993.40745,-1097.998653)">
                 <g transform="matrix(1,0,0,1,-246.391226,-42.011407)">
                     <g transform="matrix(-1,0,0,1,4559.552312,-3.778217)">
                         <g transform="matrix(1,0,0,1.024773,2300.9722,1278.207925)">
@@ -248,7 +248,7 @@
                     </g>
                 </g>
             </g>
-            <g id="DEF-HAT" transform="matrix(1,0,0,1,-884.313651,-377.47037)">
+            <g id="DEF-HAT" transform="matrix(1,0,0,1,-835.057882,-377.131198)">
                 <g>
                     <g transform="matrix(1.012266,0,0,1.012266,-49.523991,-13.7138)">
                         <g transform="matrix(-1,0,0,1,6890.643554,-0.81255)">
@@ -290,7 +290,7 @@
                     </g>
                 </g>
             </g>
-            <g id="MAIN-TRIGGER" serif:id="MAIN TRIGGER" transform="matrix(1,0,0,1,1131.672445,373.628687)">
+            <g id="MAIN-TRIGGER" serif:id="MAIN TRIGGER" transform="matrix(1,0,0,1,1148.990731,368.250867)">
                 <g>
                     <g transform="matrix(-1,0,0,1,4454.352717,1.303986)">
                         <g transform="matrix(1,0,0,1,2072,1031.1372)">
@@ -386,7 +386,7 @@
                     </g>
                 </g>
             </g>
-            <g id="TGT-HAT" transform="matrix(1,0,0,1,-44.890931,250.682595)">
+            <g id="TGT-HAT" transform="matrix(1,0,0,1,-9.695362,267.416456)">
                 <g transform="matrix(0.565733,0,0,0.565733,1742.45654,90.264725)">
                     <g transform="matrix(1.767618,0,0,1.767618,-3079.997791,-159.553565)">
                         <g>
@@ -428,7 +428,7 @@
                     </g>
                 </g>
             </g>
-            <g id="DATA-HAT" transform="matrix(1,0,0,1,482.952654,178.023941)">
+            <g id="DATA-HAT" transform="matrix(1,0,0,1,503.605295,200.259015)">
                 <g>
                     <g transform="matrix(1,0,0,1,16.50869,-2.4278)">
                         <g>
@@ -470,7 +470,7 @@
                     </g>
                 </g>
             </g>
-            <g id="REV-BTN" transform="matrix(1,0,0,1,1177.348021,-507.730353)">
+            <g id="REV-BTN" transform="matrix(1,0,0,1,1199.994124,-497.730353)">
                 <g transform="matrix(1,0,0,1,-246.391226,-42.011407)">
                     <g>
                         <g>
@@ -951,7 +951,7 @@
             </g>
         </g>
         <g id="Header" transform="matrix(1,0,0,1,-28.29502,-7.44539)">
-            <g transform="matrix(1,0,0,1,3312,225)">
+            <g transform="matrix(1,0,0,1,3379.004808,225)">
                 <path d="M0,-163L619,-163C625.627,-163 631,-157.627 631,-151L631,-12C631,-5.373 625.627,0 619,0L0,0C-6.627,0 -12,-5.373 -12,-12L-12,-151C-12,-157.627 -6.627,-163 0,-163" style="fill:rgb(255,143,48);fill-rule:nonzero;"/>
             </g>
             <g transform="matrix(1,0,0,1,-75.104303,0)">
