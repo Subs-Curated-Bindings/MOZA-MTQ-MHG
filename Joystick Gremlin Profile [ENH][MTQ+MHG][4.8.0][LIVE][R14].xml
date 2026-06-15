@@ -875,596 +875,6 @@
             <device-id>b3167000-d436-11f0-8001-444553540000</device-id>
             <input-type>button</input-type>
             <mode>Modifier</mode>
-            <input-id>1</input-id>
-            <action-configuration>
-                <root-action>cf23fd62-59e7-4042-b9e2-6a94c7da486c</root-action>
-                <behavior>button</behavior>
-            </action-configuration>
-        </input>
-        <input>
-            <device-id>b3167000-d436-11f0-8001-444553540000</device-id>
-            <input-type>button</input-type>
-            <mode>Modifier</mode>
-            <input-id>2</input-id>
-            <action-configuration>
-                <root-action>de37dbf0-3fca-416b-a16b-94b8b92625a2</root-action>
-                <behavior>button</behavior>
-            </action-configuration>
-        </input>
-        <input>
-            <device-id>b3167000-d436-11f0-8001-444553540000</device-id>
-            <input-type>button</input-type>
-            <mode>Modifier</mode>
-            <input-id>3</input-id>
-            <action-configuration>
-                <root-action>e58ef349-0f25-4145-8739-db0d72d6a014</root-action>
-                <behavior>button</behavior>
-            </action-configuration>
-        </input>
-        <input>
-            <device-id>b3167000-d436-11f0-8001-444553540000</device-id>
-            <input-type>button</input-type>
-            <mode>Modifier</mode>
-            <input-id>4</input-id>
-            <action-configuration>
-                <root-action>11914fe1-9ab6-4300-8e98-6fe72e4e3aad</root-action>
-                <behavior>button</behavior>
-            </action-configuration>
-        </input>
-        <input>
-            <device-id>b3167000-d436-11f0-8001-444553540000</device-id>
-            <input-type>button</input-type>
-            <mode>Modifier</mode>
-            <input-id>5</input-id>
-            <action-configuration>
-                <root-action>256931a9-2f1f-4647-ac36-4c732b8ccbfb</root-action>
-                <behavior>button</behavior>
-            </action-configuration>
-        </input>
-        <input>
-            <device-id>b3167000-d436-11f0-8001-444553540000</device-id>
-            <input-type>button</input-type>
-            <mode>Modifier</mode>
-            <input-id>6</input-id>
-            <action-configuration>
-                <root-action>f9ecd74b-6f21-4924-9fe2-2b49932b0a78</root-action>
-                <behavior>button</behavior>
-            </action-configuration>
-        </input>
-        <input>
-            <device-id>b3167000-d436-11f0-8001-444553540000</device-id>
-            <input-type>button</input-type>
-            <mode>Modifier</mode>
-            <input-id>7</input-id>
-            <action-configuration>
-                <root-action>4d6b3d40-e711-44db-8413-d02c03b014d1</root-action>
-                <behavior>button</behavior>
-            </action-configuration>
-        </input>
-        <input>
-            <device-id>b3167000-d436-11f0-8001-444553540000</device-id>
-            <input-type>button</input-type>
-            <mode>Modifier</mode>
-            <input-id>8</input-id>
-            <action-configuration>
-                <root-action>44f43544-d87b-4551-b87c-8341355f1cfa</root-action>
-                <behavior>button</behavior>
-            </action-configuration>
-        </input>
-        <input>
-            <device-id>b3167000-d436-11f0-8001-444553540000</device-id>
-            <input-type>button</input-type>
-            <mode>Modifier</mode>
-            <input-id>9</input-id>
-            <action-configuration>
-                <root-action>d43bc675-df0e-4ba0-bed7-f9cbb7d2bf1d</root-action>
-                <behavior>button</behavior>
-            </action-configuration>
-        </input>
-        <input>
-            <device-id>b3167000-d436-11f0-8001-444553540000</device-id>
-            <input-type>button</input-type>
-            <mode>Modifier</mode>
-            <input-id>10</input-id>
-            <action-configuration>
-                <root-action>a82ea12b-7161-418b-ae32-849ffe9b260f</root-action>
-                <behavior>button</behavior>
-            </action-configuration>
-        </input>
-        <input>
-            <device-id>b3167000-d436-11f0-8001-444553540000</device-id>
-            <input-type>button</input-type>
-            <mode>Modifier</mode>
-            <input-id>11</input-id>
-            <action-configuration>
-                <root-action>6f57cb20-85ed-4785-a2de-790723b08dcc</root-action>
-                <behavior>button</behavior>
-            </action-configuration>
-        </input>
-        <input>
-            <device-id>b3167000-d436-11f0-8001-444553540000</device-id>
-            <input-type>button</input-type>
-            <mode>Modifier</mode>
-            <input-id>12</input-id>
-            <action-configuration>
-                <root-action>90e92a14-d832-4a10-8f94-f4da69f06846</root-action>
-                <behavior>button</behavior>
-            </action-configuration>
-        </input>
-        <input>
-            <device-id>b3167000-d436-11f0-8001-444553540000</device-id>
-            <input-type>button</input-type>
-            <mode>Modifier</mode>
-            <input-id>13</input-id>
-            <action-configuration>
-                <root-action>f275d365-3f63-4465-a56c-64e711440e6b</root-action>
-                <behavior>button</behavior>
-            </action-configuration>
-        </input>
-        <input>
-            <device-id>b3167000-d436-11f0-8001-444553540000</device-id>
-            <input-type>button</input-type>
-            <mode>Modifier</mode>
-            <input-id>14</input-id>
-            <action-configuration>
-                <root-action>831c250a-5358-4e71-a4e0-ca4b04bffcad</root-action>
-                <behavior>button</behavior>
-            </action-configuration>
-        </input>
-        <input>
-            <device-id>b3167000-d436-11f0-8001-444553540000</device-id>
-            <input-type>button</input-type>
-            <mode>Modifier</mode>
-            <input-id>15</input-id>
-            <action-configuration>
-                <root-action>dee2c4b0-4651-4d1b-b9bc-b1cd77f01efa</root-action>
-                <behavior>button</behavior>
-            </action-configuration>
-        </input>
-        <input>
-            <device-id>b3167000-d436-11f0-8001-444553540000</device-id>
-            <input-type>button</input-type>
-            <mode>Modifier</mode>
-            <input-id>16</input-id>
-            <action-configuration>
-                <root-action>861a3556-dfcb-4632-a756-417f9f327ecf</root-action>
-                <behavior>button</behavior>
-            </action-configuration>
-        </input>
-        <input>
-            <device-id>b3167000-d436-11f0-8001-444553540000</device-id>
-            <input-type>button</input-type>
-            <mode>Modifier</mode>
-            <input-id>17</input-id>
-            <action-configuration>
-                <root-action>f28c1c4a-341e-4fce-b810-7b220e0d3131</root-action>
-                <behavior>button</behavior>
-            </action-configuration>
-        </input>
-        <input>
-            <device-id>b3167000-d436-11f0-8001-444553540000</device-id>
-            <input-type>button</input-type>
-            <mode>Modifier</mode>
-            <input-id>18</input-id>
-            <action-configuration>
-                <root-action>f34dda01-f553-4c1b-a20c-85730dacf40e</root-action>
-                <behavior>button</behavior>
-            </action-configuration>
-        </input>
-        <input>
-            <device-id>b3167000-d436-11f0-8001-444553540000</device-id>
-            <input-type>button</input-type>
-            <mode>Modifier</mode>
-            <input-id>19</input-id>
-            <action-configuration>
-                <root-action>d62cf983-fdcc-4445-ad76-1e7e7c79d7f1</root-action>
-                <behavior>button</behavior>
-            </action-configuration>
-        </input>
-        <input>
-            <device-id>b3167000-d436-11f0-8001-444553540000</device-id>
-            <input-type>button</input-type>
-            <mode>Modifier</mode>
-            <input-id>20</input-id>
-            <action-configuration>
-                <root-action>451674aa-1f8c-4272-9761-51a0adeaf20a</root-action>
-                <behavior>button</behavior>
-            </action-configuration>
-        </input>
-        <input>
-            <device-id>b3167000-d436-11f0-8001-444553540000</device-id>
-            <input-type>button</input-type>
-            <mode>Modifier</mode>
-            <input-id>21</input-id>
-            <action-configuration>
-                <root-action>299332de-f2ee-450c-963e-43b9895cb22a</root-action>
-                <behavior>button</behavior>
-            </action-configuration>
-        </input>
-        <input>
-            <device-id>b3167000-d436-11f0-8001-444553540000</device-id>
-            <input-type>button</input-type>
-            <mode>Modifier</mode>
-            <input-id>22</input-id>
-            <action-configuration>
-                <root-action>e1a8eb0b-7565-45a7-820e-f945b2d82ddb</root-action>
-                <behavior>button</behavior>
-            </action-configuration>
-        </input>
-        <input>
-            <device-id>b3167000-d436-11f0-8001-444553540000</device-id>
-            <input-type>button</input-type>
-            <mode>Modifier</mode>
-            <input-id>23</input-id>
-            <action-configuration>
-                <root-action>4962d1a2-de5d-4e32-87cf-8d6bc5b4f2ea</root-action>
-                <behavior>button</behavior>
-            </action-configuration>
-        </input>
-        <input>
-            <device-id>b3167000-d436-11f0-8001-444553540000</device-id>
-            <input-type>button</input-type>
-            <mode>Modifier</mode>
-            <input-id>24</input-id>
-            <action-configuration>
-                <root-action>d536d8bc-7e4c-48e9-847c-c9cc3a0aef3c</root-action>
-                <behavior>button</behavior>
-            </action-configuration>
-        </input>
-        <input>
-            <device-id>b3167000-d436-11f0-8001-444553540000</device-id>
-            <input-type>button</input-type>
-            <mode>Modifier</mode>
-            <input-id>25</input-id>
-            <action-configuration>
-                <root-action>f5dd2aeb-64bf-4602-9334-9f52c54367b1</root-action>
-                <behavior>button</behavior>
-            </action-configuration>
-        </input>
-        <input>
-            <device-id>b3167000-d436-11f0-8001-444553540000</device-id>
-            <input-type>button</input-type>
-            <mode>Modifier</mode>
-            <input-id>26</input-id>
-            <action-configuration>
-                <root-action>2c199fd8-ddc6-4152-97c1-2cca802205ec</root-action>
-                <behavior>button</behavior>
-            </action-configuration>
-        </input>
-        <input>
-            <device-id>b3167000-d436-11f0-8001-444553540000</device-id>
-            <input-type>button</input-type>
-            <mode>Modifier</mode>
-            <input-id>27</input-id>
-            <action-configuration>
-                <root-action>f5ee04ad-84fe-42f8-b744-e5a6413667bc</root-action>
-                <behavior>button</behavior>
-            </action-configuration>
-        </input>
-        <input>
-            <device-id>b3167000-d436-11f0-8001-444553540000</device-id>
-            <input-type>button</input-type>
-            <mode>Modifier</mode>
-            <input-id>28</input-id>
-            <action-configuration>
-                <root-action>3761ae7c-ad5d-414e-87d7-5141a664a73b</root-action>
-                <behavior>button</behavior>
-            </action-configuration>
-        </input>
-        <input>
-            <device-id>b3167000-d436-11f0-8001-444553540000</device-id>
-            <input-type>button</input-type>
-            <mode>Modifier</mode>
-            <input-id>29</input-id>
-            <action-configuration>
-                <root-action>34164f58-57c5-413c-9719-644f779334f2</root-action>
-                <behavior>button</behavior>
-            </action-configuration>
-        </input>
-        <input>
-            <device-id>b3167000-d436-11f0-8001-444553540000</device-id>
-            <input-type>button</input-type>
-            <mode>Modifier</mode>
-            <input-id>30</input-id>
-            <action-configuration>
-                <root-action>f77ef695-8fcc-44bb-84bf-9e50e0c622ec</root-action>
-                <behavior>button</behavior>
-            </action-configuration>
-        </input>
-        <input>
-            <device-id>b3167000-d436-11f0-8001-444553540000</device-id>
-            <input-type>button</input-type>
-            <mode>Modifier</mode>
-            <input-id>31</input-id>
-            <action-configuration>
-                <root-action>a1db339c-855f-4170-b340-e2055fcdf84a</root-action>
-                <behavior>button</behavior>
-            </action-configuration>
-        </input>
-        <input>
-            <device-id>b3167000-d436-11f0-8001-444553540000</device-id>
-            <input-type>button</input-type>
-            <mode>Modifier</mode>
-            <input-id>32</input-id>
-            <action-configuration>
-                <root-action>cab80e9d-fecd-4ad8-b13e-7c450e1882bf</root-action>
-                <behavior>button</behavior>
-            </action-configuration>
-        </input>
-        <input>
-            <device-id>b3167000-d436-11f0-8001-444553540000</device-id>
-            <input-type>button</input-type>
-            <mode>Modifier</mode>
-            <input-id>33</input-id>
-            <action-configuration>
-                <root-action>89c5d4e0-deef-4273-90e2-7f9435065cfb</root-action>
-                <behavior>button</behavior>
-            </action-configuration>
-        </input>
-        <input>
-            <device-id>b3167000-d436-11f0-8001-444553540000</device-id>
-            <input-type>button</input-type>
-            <mode>Modifier</mode>
-            <input-id>34</input-id>
-            <action-configuration>
-                <root-action>0380999c-2ad0-4ab8-b7a9-67775d118e8b</root-action>
-                <behavior>button</behavior>
-            </action-configuration>
-        </input>
-        <input>
-            <device-id>b3167000-d436-11f0-8001-444553540000</device-id>
-            <input-type>button</input-type>
-            <mode>Modifier</mode>
-            <input-id>35</input-id>
-            <action-configuration>
-                <root-action>08d55a60-ff4e-46fa-b0d9-6b2c98fdb5d6</root-action>
-                <behavior>button</behavior>
-            </action-configuration>
-        </input>
-        <input>
-            <device-id>b3167000-d436-11f0-8001-444553540000</device-id>
-            <input-type>button</input-type>
-            <mode>Modifier</mode>
-            <input-id>41</input-id>
-            <action-configuration>
-                <root-action>8013a605-8aa5-4b79-8e8c-ce81a0750846</root-action>
-                <behavior>button</behavior>
-            </action-configuration>
-        </input>
-        <input>
-            <device-id>b3167000-d436-11f0-8001-444553540000</device-id>
-            <input-type>button</input-type>
-            <mode>Modifier</mode>
-            <input-id>42</input-id>
-            <action-configuration>
-                <root-action>3c530b0c-9961-4d55-a1d0-03ff2cceb44a</root-action>
-                <behavior>button</behavior>
-            </action-configuration>
-        </input>
-        <input>
-            <device-id>b3167000-d436-11f0-8001-444553540000</device-id>
-            <input-type>button</input-type>
-            <mode>Modifier</mode>
-            <input-id>43</input-id>
-            <action-configuration>
-                <root-action>a3b03346-8417-4875-b276-8779b9e44d34</root-action>
-                <behavior>button</behavior>
-            </action-configuration>
-        </input>
-        <input>
-            <device-id>b3167000-d436-11f0-8001-444553540000</device-id>
-            <input-type>button</input-type>
-            <mode>Modifier</mode>
-            <input-id>44</input-id>
-            <action-configuration>
-                <root-action>a6cd1613-7722-40f5-84ca-c7b95b5b1332</root-action>
-                <behavior>button</behavior>
-            </action-configuration>
-        </input>
-        <input>
-            <device-id>b3167000-d436-11f0-8001-444553540000</device-id>
-            <input-type>button</input-type>
-            <mode>Modifier</mode>
-            <input-id>45</input-id>
-            <action-configuration>
-                <root-action>4b08f027-bb73-4e70-b028-bfe47e2065a7</root-action>
-                <behavior>button</behavior>
-            </action-configuration>
-        </input>
-        <input>
-            <device-id>b3167000-d436-11f0-8001-444553540000</device-id>
-            <input-type>button</input-type>
-            <mode>Modifier</mode>
-            <input-id>46</input-id>
-            <action-configuration>
-                <root-action>3a495649-cef2-4a2a-84a7-202ff87332c0</root-action>
-                <behavior>button</behavior>
-            </action-configuration>
-        </input>
-        <input>
-            <device-id>b3167000-d436-11f0-8001-444553540000</device-id>
-            <input-type>button</input-type>
-            <mode>Modifier</mode>
-            <input-id>47</input-id>
-            <action-configuration>
-                <root-action>bfb310c1-620c-4df4-a52e-ae58b79f4483</root-action>
-                <behavior>button</behavior>
-            </action-configuration>
-        </input>
-        <input>
-            <device-id>b3167000-d436-11f0-8001-444553540000</device-id>
-            <input-type>button</input-type>
-            <mode>Modifier</mode>
-            <input-id>48</input-id>
-            <action-configuration>
-                <root-action>9a9509ae-144a-46e1-91d7-bf0f3e009a9f</root-action>
-                <behavior>button</behavior>
-            </action-configuration>
-        </input>
-        <input>
-            <device-id>b3167000-d436-11f0-8001-444553540000</device-id>
-            <input-type>button</input-type>
-            <mode>Modifier</mode>
-            <input-id>49</input-id>
-            <action-configuration>
-                <root-action>2cee4cfe-75a4-4643-9d16-6db258ca8b63</root-action>
-                <behavior>button</behavior>
-            </action-configuration>
-        </input>
-        <input>
-            <device-id>b3167000-d436-11f0-8001-444553540000</device-id>
-            <input-type>button</input-type>
-            <mode>Modifier</mode>
-            <input-id>50</input-id>
-            <action-configuration>
-                <root-action>9d39f00f-e202-4d15-96a6-df16834c5bab</root-action>
-                <behavior>button</behavior>
-            </action-configuration>
-        </input>
-        <input>
-            <device-id>b3167000-d436-11f0-8001-444553540000</device-id>
-            <input-type>button</input-type>
-            <mode>Modifier</mode>
-            <input-id>51</input-id>
-            <action-configuration>
-                <root-action>30d2d02e-03f4-41fb-be21-aa71d95af132</root-action>
-                <behavior>button</behavior>
-            </action-configuration>
-        </input>
-        <input>
-            <device-id>b3167000-d436-11f0-8001-444553540000</device-id>
-            <input-type>button</input-type>
-            <mode>Modifier</mode>
-            <input-id>52</input-id>
-            <action-configuration>
-                <root-action>057610b8-998d-4ce1-b81b-98ebb2120a89</root-action>
-                <behavior>button</behavior>
-            </action-configuration>
-        </input>
-        <input>
-            <device-id>b3167000-d436-11f0-8001-444553540000</device-id>
-            <input-type>button</input-type>
-            <mode>Modifier</mode>
-            <input-id>53</input-id>
-            <action-configuration>
-                <root-action>29e4a648-2f46-4a4d-b489-ad0dce02a56a</root-action>
-                <behavior>button</behavior>
-            </action-configuration>
-        </input>
-        <input>
-            <device-id>b3167000-d436-11f0-8001-444553540000</device-id>
-            <input-type>button</input-type>
-            <mode>Modifier</mode>
-            <input-id>54</input-id>
-            <action-configuration>
-                <root-action>576931e4-809f-4d6b-85a5-767848e7edaa</root-action>
-                <behavior>button</behavior>
-            </action-configuration>
-        </input>
-        <input>
-            <device-id>b3167000-d436-11f0-8001-444553540000</device-id>
-            <input-type>button</input-type>
-            <mode>Modifier</mode>
-            <input-id>55</input-id>
-            <action-configuration>
-                <root-action>b06a1f3c-634c-4a73-a15c-d3b0ef8025ee</root-action>
-                <behavior>button</behavior>
-            </action-configuration>
-        </input>
-        <input>
-            <device-id>b3167000-d436-11f0-8001-444553540000</device-id>
-            <input-type>button</input-type>
-            <mode>Modifier</mode>
-            <input-id>56</input-id>
-            <action-configuration>
-                <root-action>dca20f37-8a6c-4984-bbc4-aaf8d14b906a</root-action>
-                <behavior>button</behavior>
-            </action-configuration>
-        </input>
-        <input>
-            <device-id>b3167000-d436-11f0-8001-444553540000</device-id>
-            <input-type>button</input-type>
-            <mode>Modifier</mode>
-            <input-id>57</input-id>
-            <action-configuration>
-                <root-action>520b983a-6ca3-42ca-bdaa-f22f1dd1de17</root-action>
-                <behavior>button</behavior>
-            </action-configuration>
-        </input>
-        <input>
-            <device-id>b3167000-d436-11f0-8001-444553540000</device-id>
-            <input-type>button</input-type>
-            <mode>Modifier</mode>
-            <input-id>58</input-id>
-            <action-configuration>
-                <root-action>6ae587fb-b19a-438f-b859-46bdcd15b9bc</root-action>
-                <behavior>button</behavior>
-            </action-configuration>
-        </input>
-        <input>
-            <device-id>b3167000-d436-11f0-8001-444553540000</device-id>
-            <input-type>button</input-type>
-            <mode>Modifier</mode>
-            <input-id>59</input-id>
-            <action-configuration>
-                <root-action>d83cdd2f-5285-4dcd-a7ea-4ac8a775202a</root-action>
-                <behavior>button</behavior>
-            </action-configuration>
-        </input>
-        <input>
-            <device-id>b3167000-d436-11f0-8001-444553540000</device-id>
-            <input-type>button</input-type>
-            <mode>Modifier</mode>
-            <input-id>60</input-id>
-            <action-configuration>
-                <root-action>93b91e51-7a06-470c-87f2-e43eae44eb09</root-action>
-                <behavior>button</behavior>
-            </action-configuration>
-        </input>
-        <input>
-            <device-id>b3167000-d436-11f0-8001-444553540000</device-id>
-            <input-type>button</input-type>
-            <mode>Modifier</mode>
-            <input-id>61</input-id>
-            <action-configuration>
-                <root-action>a56faa94-bb49-437b-b095-0b19c85a99ed</root-action>
-                <behavior>button</behavior>
-            </action-configuration>
-        </input>
-        <input>
-            <device-id>b3167000-d436-11f0-8001-444553540000</device-id>
-            <input-type>button</input-type>
-            <mode>Modifier</mode>
-            <input-id>62</input-id>
-            <action-configuration>
-                <root-action>e6814edb-7f9c-4129-8df6-17758988847a</root-action>
-                <behavior>button</behavior>
-            </action-configuration>
-        </input>
-        <input>
-            <device-id>b3167000-d436-11f0-8001-444553540000</device-id>
-            <input-type>button</input-type>
-            <mode>Modifier</mode>
-            <input-id>63</input-id>
-            <action-configuration>
-                <root-action>1a248cfd-3470-46e5-9c66-fc1a4f000804</root-action>
-                <behavior>button</behavior>
-            </action-configuration>
-        </input>
-        <input>
-            <device-id>b3167000-d436-11f0-8001-444553540000</device-id>
-            <input-type>button</input-type>
-            <mode>Modifier</mode>
-            <input-id>64</input-id>
-            <action-configuration>
-                <root-action>0cd8900c-0ba3-46a1-bf32-34a147922ec7</root-action>
-                <behavior>button</behavior>
-            </action-configuration>
-        </input>
-        <input>
-            <device-id>b3167000-d436-11f0-8001-444553540000</device-id>
-            <input-type>button</input-type>
-            <mode>Modifier</mode>
             <input-id>65</input-id>
             <action-configuration>
                 <root-action>7b19a441-4b33-4722-8860-71ea6c3b3b7e</root-action>
@@ -1933,6 +1343,46 @@
             <device-id>b3167000-d436-11f0-8001-444553540000</device-id>
             <input-type>button</input-type>
             <mode>SCM Mode</mode>
+            <input-id>37</input-id>
+            <action-configuration>
+                <root-action>745fc8e6-7e02-4a04-aac2-488d67e5f35d</root-action>
+                <behavior>button</behavior>
+            </action-configuration>
+        </input>
+        <input>
+            <device-id>b3167000-d436-11f0-8001-444553540000</device-id>
+            <input-type>button</input-type>
+            <mode>SCM Mode</mode>
+            <input-id>38</input-id>
+            <action-configuration>
+                <root-action>913348a1-fb3a-4b14-990e-138f7b094b82</root-action>
+                <behavior>button</behavior>
+            </action-configuration>
+        </input>
+        <input>
+            <device-id>b3167000-d436-11f0-8001-444553540000</device-id>
+            <input-type>button</input-type>
+            <mode>SCM Mode</mode>
+            <input-id>39</input-id>
+            <action-configuration>
+                <root-action>0e0f06f3-e396-4d48-946e-d3b10bbe60f9</root-action>
+                <behavior>button</behavior>
+            </action-configuration>
+        </input>
+        <input>
+            <device-id>b3167000-d436-11f0-8001-444553540000</device-id>
+            <input-type>button</input-type>
+            <mode>SCM Mode</mode>
+            <input-id>40</input-id>
+            <action-configuration>
+                <root-action>ba7dc3b0-3bc6-48d6-877f-2f07292e587e</root-action>
+                <behavior>button</behavior>
+            </action-configuration>
+        </input>
+        <input>
+            <device-id>b3167000-d436-11f0-8001-444553540000</device-id>
+            <input-type>button</input-type>
+            <mode>SCM Mode</mode>
             <input-id>41</input-id>
             <action-configuration>
                 <root-action>a588fade-b85b-45a1-bd1e-13173cd6261e</root-action>
@@ -2176,6 +1626,166 @@
             <input-id>65</input-id>
             <action-configuration>
                 <root-action>4aa4d56e-9405-48dd-97f5-d80f4c789eec</root-action>
+                <behavior>button</behavior>
+            </action-configuration>
+        </input>
+        <input>
+            <device-id>b3167000-d436-11f0-8001-444553540000</device-id>
+            <input-type>button</input-type>
+            <mode>Modifier</mode>
+            <input-id>49</input-id>
+            <action-configuration>
+                <root-action>e575e5e2-de3d-4786-8642-a711e8a4b72a</root-action>
+                <behavior>button</behavior>
+            </action-configuration>
+        </input>
+        <input>
+            <device-id>b3167000-d436-11f0-8001-444553540000</device-id>
+            <input-type>button</input-type>
+            <mode>Modifier</mode>
+            <input-id>50</input-id>
+            <action-configuration>
+                <root-action>81cf9e4f-3ba5-4f06-a881-a5536829b10b</root-action>
+                <behavior>button</behavior>
+            </action-configuration>
+        </input>
+        <input>
+            <device-id>b3167000-d436-11f0-8001-444553540000</device-id>
+            <input-type>button</input-type>
+            <mode>Modifier</mode>
+            <input-id>51</input-id>
+            <action-configuration>
+                <root-action>c6f5e043-3f52-482f-a361-ddd7a7ba39a4</root-action>
+                <behavior>button</behavior>
+            </action-configuration>
+        </input>
+        <input>
+            <device-id>b3167000-d436-11f0-8001-444553540000</device-id>
+            <input-type>button</input-type>
+            <mode>Modifier</mode>
+            <input-id>52</input-id>
+            <action-configuration>
+                <root-action>eb53ab69-ce90-416e-8ab1-4ee7b000bfc0</root-action>
+                <behavior>button</behavior>
+            </action-configuration>
+        </input>
+        <input>
+            <device-id>b3167000-d436-11f0-8001-444553540000</device-id>
+            <input-type>button</input-type>
+            <mode>Modifier</mode>
+            <input-id>53</input-id>
+            <action-configuration>
+                <root-action>ef28c202-8930-4a4f-b37f-4bbc8ec4d351</root-action>
+                <behavior>button</behavior>
+            </action-configuration>
+        </input>
+        <input>
+            <device-id>b3167000-d436-11f0-8001-444553540000</device-id>
+            <input-type>button</input-type>
+            <mode>Modifier</mode>
+            <input-id>54</input-id>
+            <action-configuration>
+                <root-action>bdd3bae2-f8a0-4323-844c-a045823db781</root-action>
+                <behavior>button</behavior>
+            </action-configuration>
+        </input>
+        <input>
+            <device-id>b3167000-d436-11f0-8001-444553540000</device-id>
+            <input-type>button</input-type>
+            <mode>Modifier</mode>
+            <input-id>55</input-id>
+            <action-configuration>
+                <root-action>ffde3245-77ac-4268-a016-f181d919e085</root-action>
+                <behavior>button</behavior>
+            </action-configuration>
+        </input>
+        <input>
+            <device-id>b3167000-d436-11f0-8001-444553540000</device-id>
+            <input-type>button</input-type>
+            <mode>Modifier</mode>
+            <input-id>56</input-id>
+            <action-configuration>
+                <root-action>fc8948ec-9c42-46d0-95ba-2c3d0a034ac5</root-action>
+                <behavior>button</behavior>
+            </action-configuration>
+        </input>
+        <input>
+            <device-id>b3167000-d436-11f0-8001-444553540000</device-id>
+            <input-type>button</input-type>
+            <mode>Modifier</mode>
+            <input-id>57</input-id>
+            <action-configuration>
+                <root-action>dd03afb3-41c8-4cfc-ac3f-e7d9d6f7f44f</root-action>
+                <behavior>button</behavior>
+            </action-configuration>
+        </input>
+        <input>
+            <device-id>b3167000-d436-11f0-8001-444553540000</device-id>
+            <input-type>button</input-type>
+            <mode>Modifier</mode>
+            <input-id>58</input-id>
+            <action-configuration>
+                <root-action>1a51085c-a112-4761-9153-ea4ad72d01b4</root-action>
+                <behavior>button</behavior>
+            </action-configuration>
+        </input>
+        <input>
+            <device-id>b3167000-d436-11f0-8001-444553540000</device-id>
+            <input-type>button</input-type>
+            <mode>Modifier</mode>
+            <input-id>59</input-id>
+            <action-configuration>
+                <root-action>18f87d77-7e33-456c-8a39-72779f07550b</root-action>
+                <behavior>button</behavior>
+            </action-configuration>
+        </input>
+        <input>
+            <device-id>b3167000-d436-11f0-8001-444553540000</device-id>
+            <input-type>button</input-type>
+            <mode>Modifier</mode>
+            <input-id>60</input-id>
+            <action-configuration>
+                <root-action>a85a4002-46e5-4230-99c5-13b77354c144</root-action>
+                <behavior>button</behavior>
+            </action-configuration>
+        </input>
+        <input>
+            <device-id>b3167000-d436-11f0-8001-444553540000</device-id>
+            <input-type>button</input-type>
+            <mode>Modifier</mode>
+            <input-id>61</input-id>
+            <action-configuration>
+                <root-action>062a7124-53cb-444e-b7da-a9c6ab37a4d2</root-action>
+                <behavior>button</behavior>
+            </action-configuration>
+        </input>
+        <input>
+            <device-id>b3167000-d436-11f0-8001-444553540000</device-id>
+            <input-type>button</input-type>
+            <mode>Modifier</mode>
+            <input-id>62</input-id>
+            <action-configuration>
+                <root-action>95d2c52a-2702-42a6-9b3a-310709e08373</root-action>
+                <behavior>button</behavior>
+            </action-configuration>
+        </input>
+        <input>
+            <device-id>b3167000-d436-11f0-8001-444553540000</device-id>
+            <input-type>button</input-type>
+            <mode>Modifier</mode>
+            <input-id>63</input-id>
+            <action-configuration>
+                <root-action>b3d35c19-b5c5-443e-9af7-0ae70b8b4190</root-action>
+                <behavior>button</behavior>
+            </action-configuration>
+        </input>
+        <input>
+            <device-id>b3167000-d436-11f0-8001-444553540000</device-id>
+            <input-type>button</input-type>
+            <mode>Modifier</mode>
+            <input-id>64</input-id>
+            <action-configuration>
+                <root-action>7a3466f1-1e08-43a9-a492-2b1dcd2fa377</root-action>
                 <behavior>button</behavior>
             </action-configuration>
         </input>
@@ -2487,7 +2097,7 @@
             </property>
             <property type="int">
                 <name>vjoy-input-id</name>
-                <value>31</value>
+                <value>61</value>
             </property>
             <property type="input_type">
                 <name>vjoy-input-type</name>
@@ -2513,7 +2123,7 @@
             </property>
             <property type="int">
                 <name>vjoy-input-id</name>
-                <value>32</value>
+                <value>62</value>
             </property>
             <property type="input_type">
                 <name>vjoy-input-type</name>
@@ -2539,7 +2149,7 @@
             </property>
             <property type="int">
                 <name>vjoy-input-id</name>
-                <value>33</value>
+                <value>63</value>
             </property>
             <property type="input_type">
                 <name>vjoy-input-type</name>
@@ -2565,7 +2175,7 @@
             </property>
             <property type="int">
                 <name>vjoy-input-id</name>
-                <value>34</value>
+                <value>64</value>
             </property>
             <property type="input_type">
                 <name>vjoy-input-type</name>
@@ -2591,7 +2201,7 @@
             </property>
             <property type="int">
                 <name>vjoy-input-id</name>
-                <value>35</value>
+                <value>65</value>
             </property>
             <property type="input_type">
                 <name>vjoy-input-type</name>
@@ -2617,7 +2227,7 @@
             </property>
             <property type="int">
                 <name>vjoy-input-id</name>
-                <value>36</value>
+                <value>66</value>
             </property>
             <property type="input_type">
                 <name>vjoy-input-type</name>
@@ -2643,7 +2253,7 @@
             </property>
             <property type="int">
                 <name>vjoy-input-id</name>
-                <value>37</value>
+                <value>67</value>
             </property>
             <property type="input_type">
                 <name>vjoy-input-type</name>
@@ -2669,7 +2279,7 @@
             </property>
             <property type="int">
                 <name>vjoy-input-id</name>
-                <value>38</value>
+                <value>68</value>
             </property>
             <property type="input_type">
                 <name>vjoy-input-type</name>
@@ -2695,7 +2305,7 @@
             </property>
             <property type="int">
                 <name>vjoy-input-id</name>
-                <value>39</value>
+                <value>69</value>
             </property>
             <property type="input_type">
                 <name>vjoy-input-type</name>
@@ -2721,7 +2331,7 @@
             </property>
             <property type="int">
                 <name>vjoy-input-id</name>
-                <value>40</value>
+                <value>70</value>
             </property>
             <property type="input_type">
                 <name>vjoy-input-type</name>
@@ -2747,7 +2357,7 @@
             </property>
             <property type="int">
                 <name>vjoy-input-id</name>
-                <value>41</value>
+                <value>71</value>
             </property>
             <property type="input_type">
                 <name>vjoy-input-type</name>
@@ -2773,7 +2383,7 @@
             </property>
             <property type="int">
                 <name>vjoy-input-id</name>
-                <value>42</value>
+                <value>72</value>
             </property>
             <property type="input_type">
                 <name>vjoy-input-type</name>
@@ -2799,7 +2409,7 @@
             </property>
             <property type="int">
                 <name>vjoy-input-id</name>
-                <value>43</value>
+                <value>73</value>
             </property>
             <property type="input_type">
                 <name>vjoy-input-type</name>
@@ -2825,7 +2435,7 @@
             </property>
             <property type="int">
                 <name>vjoy-input-id</name>
-                <value>44</value>
+                <value>74</value>
             </property>
             <property type="input_type">
                 <name>vjoy-input-type</name>
@@ -2851,7 +2461,7 @@
             </property>
             <property type="int">
                 <name>vjoy-input-id</name>
-                <value>45</value>
+                <value>75</value>
             </property>
             <property type="input_type">
                 <name>vjoy-input-type</name>
@@ -2877,7 +2487,7 @@
             </property>
             <property type="int">
                 <name>vjoy-input-id</name>
-                <value>46</value>
+                <value>76</value>
             </property>
             <property type="input_type">
                 <name>vjoy-input-type</name>
@@ -2903,7 +2513,7 @@
             </property>
             <property type="int">
                 <name>vjoy-input-id</name>
-                <value>47</value>
+                <value>77</value>
             </property>
             <property type="input_type">
                 <name>vjoy-input-type</name>
@@ -2929,7 +2539,7 @@
             </property>
             <property type="int">
                 <name>vjoy-input-id</name>
-                <value>48</value>
+                <value>78</value>
             </property>
             <property type="input_type">
                 <name>vjoy-input-type</name>
@@ -2955,7 +2565,7 @@
             </property>
             <property type="int">
                 <name>vjoy-input-id</name>
-                <value>49</value>
+                <value>79</value>
             </property>
             <property type="input_type">
                 <name>vjoy-input-type</name>
@@ -2981,7 +2591,7 @@
             </property>
             <property type="int">
                 <name>vjoy-input-id</name>
-                <value>50</value>
+                <value>80</value>
             </property>
             <property type="input_type">
                 <name>vjoy-input-type</name>
@@ -3007,7 +2617,7 @@
             </property>
             <property type="int">
                 <name>vjoy-input-id</name>
-                <value>51</value>
+                <value>81</value>
             </property>
             <property type="input_type">
                 <name>vjoy-input-type</name>
@@ -3033,7 +2643,7 @@
             </property>
             <property type="int">
                 <name>vjoy-input-id</name>
-                <value>52</value>
+                <value>82</value>
             </property>
             <property type="input_type">
                 <name>vjoy-input-type</name>
@@ -3059,7 +2669,7 @@
             </property>
             <property type="int">
                 <name>vjoy-input-id</name>
-                <value>53</value>
+                <value>83</value>
             </property>
             <property type="input_type">
                 <name>vjoy-input-type</name>
@@ -3085,7 +2695,7 @@
             </property>
             <property type="int">
                 <name>vjoy-input-id</name>
-                <value>54</value>
+                <value>84</value>
             </property>
             <property type="input_type">
                 <name>vjoy-input-type</name>
@@ -3111,7 +2721,7 @@
             </property>
             <property type="int">
                 <name>vjoy-input-id</name>
-                <value>55</value>
+                <value>85</value>
             </property>
             <property type="input_type">
                 <name>vjoy-input-type</name>
@@ -3137,7 +2747,7 @@
             </property>
             <property type="int">
                 <name>vjoy-input-id</name>
-                <value>56</value>
+                <value>86</value>
             </property>
             <property type="input_type">
                 <name>vjoy-input-type</name>
@@ -3163,7 +2773,7 @@
             </property>
             <property type="int">
                 <name>vjoy-input-id</name>
-                <value>57</value>
+                <value>87</value>
             </property>
             <property type="input_type">
                 <name>vjoy-input-type</name>
@@ -3189,7 +2799,7 @@
             </property>
             <property type="int">
                 <name>vjoy-input-id</name>
-                <value>58</value>
+                <value>88</value>
             </property>
             <property type="input_type">
                 <name>vjoy-input-type</name>
@@ -3215,7 +2825,7 @@
             </property>
             <property type="int">
                 <name>vjoy-input-id</name>
-                <value>59</value>
+                <value>89</value>
             </property>
             <property type="input_type">
                 <name>vjoy-input-type</name>
@@ -3227,7 +2837,7 @@
             </property>
             <property type="string">
                 <name>action-label</name>
-                <value>Map to vJoy</value>
+                <value>R-POV.press-in</value>
             </property>
             <property type="activation-mode">
                 <name>activation-mode</name>
@@ -3241,7 +2851,7 @@
             </property>
             <property type="int">
                 <name>vjoy-input-id</name>
-                <value>60</value>
+                <value>109</value>
             </property>
             <property type="input_type">
                 <name>vjoy-input-type</name>
@@ -3267,7 +2877,7 @@
             </property>
             <property type="int">
                 <name>vjoy-input-id</name>
-                <value>61</value>
+                <value>110</value>
             </property>
             <property type="input_type">
                 <name>vjoy-input-type</name>
@@ -3293,7 +2903,7 @@
             </property>
             <property type="int">
                 <name>vjoy-input-id</name>
-                <value>62</value>
+                <value>111</value>
             </property>
             <property type="input_type">
                 <name>vjoy-input-type</name>
@@ -3319,7 +2929,7 @@
             </property>
             <property type="int">
                 <name>vjoy-input-id</name>
-                <value>63</value>
+                <value>112</value>
             </property>
             <property type="input_type">
                 <name>vjoy-input-type</name>
@@ -3345,7 +2955,7 @@
             </property>
             <property type="int">
                 <name>vjoy-input-id</name>
-                <value>64</value>
+                <value>113</value>
             </property>
             <property type="input_type">
                 <name>vjoy-input-type</name>
@@ -3371,7 +2981,7 @@
             </property>
             <property type="int">
                 <name>vjoy-input-id</name>
-                <value>65</value>
+                <value>114</value>
             </property>
             <property type="input_type">
                 <name>vjoy-input-type</name>
@@ -3397,7 +3007,7 @@
             </property>
             <property type="int">
                 <name>vjoy-input-id</name>
-                <value>66</value>
+                <value>115</value>
             </property>
             <property type="input_type">
                 <name>vjoy-input-type</name>
@@ -3423,7 +3033,7 @@
             </property>
             <property type="int">
                 <name>vjoy-input-id</name>
-                <value>67</value>
+                <value>116</value>
             </property>
             <property type="input_type">
                 <name>vjoy-input-type</name>
@@ -3449,7 +3059,7 @@
             </property>
             <property type="int">
                 <name>vjoy-input-id</name>
-                <value>68</value>
+                <value>117</value>
             </property>
             <property type="input_type">
                 <name>vjoy-input-type</name>
@@ -3475,7 +3085,7 @@
             </property>
             <property type="int">
                 <name>vjoy-input-id</name>
-                <value>69</value>
+                <value>118</value>
             </property>
             <property type="input_type">
                 <name>vjoy-input-type</name>
@@ -3501,7 +3111,7 @@
             </property>
             <property type="int">
                 <name>vjoy-input-id</name>
-                <value>70</value>
+                <value>119</value>
             </property>
             <property type="input_type">
                 <name>vjoy-input-type</name>
@@ -4577,7 +4187,7 @@
             </property>
             <property type="string">
                 <name>action-label</name>
-                <value>Map to vJoy</value>
+                <value>R-POV.press-in</value>
             </property>
             <property type="activation-mode">
                 <name>activation-mode</name>
@@ -4591,33 +4201,7 @@
             </property>
             <property type="int">
                 <name>vjoy-input-id</name>
-                <value>30</value>
-            </property>
-            <property type="input_type">
-                <name>vjoy-input-type</name>
-                <value>button</value>
-            </property>
-            <property type="bool">
-                <name>button-inverted</name>
-                <value>False</value>
-            </property>
-            <property type="string">
-                <name>action-label</name>
-                <value>Map to vJoy</value>
-            </property>
-            <property type="activation-mode">
-                <name>activation-mode</name>
-                <value>both</value>
-            </property>
-        </action>
-        <action id="4be6b1ad-66d0-457a-9ed8-503710aad4a1" type="map-to-vjoy">
-            <property type="int">
-                <name>vjoy-device-id</name>
-                <value>2</value>
-            </property>
-            <property type="int">
-                <name>vjoy-input-id</name>
-                <value>31</value>
+                <value>49</value>
             </property>
             <property type="input_type">
                 <name>vjoy-input-type</name>
@@ -4636,6 +4220,32 @@
                 <value>both</value>
             </property>
         </action>
+        <action id="4be6b1ad-66d0-457a-9ed8-503710aad4a1" type="map-to-vjoy">
+            <property type="int">
+                <name>vjoy-device-id</name>
+                <value>2</value>
+            </property>
+            <property type="int">
+                <name>vjoy-input-id</name>
+                <value>50</value>
+            </property>
+            <property type="input_type">
+                <name>vjoy-input-type</name>
+                <value>button</value>
+            </property>
+            <property type="bool">
+                <name>button-inverted</name>
+                <value>False</value>
+            </property>
+            <property type="string">
+                <name>action-label</name>
+                <value>R-BB-2</value>
+            </property>
+            <property type="activation-mode">
+                <name>activation-mode</name>
+                <value>both</value>
+            </property>
+        </action>
         <action id="d42ae3f3-b6aa-4670-a5f8-9c53d02f0a35" type="map-to-vjoy">
             <property type="int">
                 <name>vjoy-device-id</name>
@@ -4643,7 +4253,7 @@
             </property>
             <property type="int">
                 <name>vjoy-input-id</name>
-                <value>33</value>
+                <value>51</value>
             </property>
             <property type="input_type">
                 <name>vjoy-input-type</name>
@@ -4669,7 +4279,7 @@
             </property>
             <property type="int">
                 <name>vjoy-input-id</name>
-                <value>34</value>
+                <value>52</value>
             </property>
             <property type="input_type">
                 <name>vjoy-input-type</name>
@@ -4695,7 +4305,7 @@
             </property>
             <property type="int">
                 <name>vjoy-input-id</name>
-                <value>35</value>
+                <value>53</value>
             </property>
             <property type="input_type">
                 <name>vjoy-input-type</name>
@@ -4721,7 +4331,7 @@
             </property>
             <property type="int">
                 <name>vjoy-input-id</name>
-                <value>36</value>
+                <value>54</value>
             </property>
             <property type="input_type">
                 <name>vjoy-input-type</name>
@@ -4747,7 +4357,7 @@
             </property>
             <property type="int">
                 <name>vjoy-input-id</name>
-                <value>37</value>
+                <value>55</value>
             </property>
             <property type="input_type">
                 <name>vjoy-input-type</name>
@@ -4773,7 +4383,7 @@
             </property>
             <property type="int">
                 <name>vjoy-input-id</name>
-                <value>38</value>
+                <value>56</value>
             </property>
             <property type="input_type">
                 <name>vjoy-input-type</name>
@@ -4799,7 +4409,7 @@
             </property>
             <property type="int">
                 <name>vjoy-input-id</name>
-                <value>39</value>
+                <value>57</value>
             </property>
             <property type="input_type">
                 <name>vjoy-input-type</name>
@@ -4825,7 +4435,7 @@
             </property>
             <property type="int">
                 <name>vjoy-input-id</name>
-                <value>40</value>
+                <value>58</value>
             </property>
             <property type="input_type">
                 <name>vjoy-input-type</name>
@@ -4851,7 +4461,7 @@
             </property>
             <property type="int">
                 <name>vjoy-input-id</name>
-                <value>41</value>
+                <value>59</value>
             </property>
             <property type="input_type">
                 <name>vjoy-input-type</name>
@@ -4864,1540 +4474,6 @@
             <property type="string">
                 <name>action-label</name>
                 <value>Map to vJoy</value>
-            </property>
-            <property type="activation-mode">
-                <name>activation-mode</name>
-                <value>both</value>
-            </property>
-        </action>
-        <action id="5dfa41e4-7a3e-4584-adbb-9ea0030868de" type="map-to-vjoy">
-            <property type="int">
-                <name>vjoy-device-id</name>
-                <value>1</value>
-            </property>
-            <property type="int">
-                <name>vjoy-input-id</name>
-                <value>61</value>
-            </property>
-            <property type="input_type">
-                <name>vjoy-input-type</name>
-                <value>button</value>
-            </property>
-            <property type="bool">
-                <name>button-inverted</name>
-                <value>False</value>
-            </property>
-            <property type="string">
-                <name>action-label</name>
-                <value>T-A1</value>
-            </property>
-            <property type="activation-mode">
-                <name>activation-mode</name>
-                <value>both</value>
-            </property>
-        </action>
-        <action id="c164fdb0-6c94-4c8d-b4d4-36553ec31c14" type="map-to-vjoy">
-            <property type="int">
-                <name>vjoy-device-id</name>
-                <value>1</value>
-            </property>
-            <property type="int">
-                <name>vjoy-input-id</name>
-                <value>62</value>
-            </property>
-            <property type="input_type">
-                <name>vjoy-input-type</name>
-                <value>button</value>
-            </property>
-            <property type="bool">
-                <name>button-inverted</name>
-                <value>False</value>
-            </property>
-            <property type="string">
-                <name>action-label</name>
-                <value>T-A2</value>
-            </property>
-            <property type="activation-mode">
-                <name>activation-mode</name>
-                <value>both</value>
-            </property>
-        </action>
-        <action id="2d17cab1-8107-445f-a798-026902d1d297" type="map-to-vjoy">
-            <property type="int">
-                <name>vjoy-device-id</name>
-                <value>1</value>
-            </property>
-            <property type="int">
-                <name>vjoy-input-id</name>
-                <value>63</value>
-            </property>
-            <property type="input_type">
-                <name>vjoy-input-type</name>
-                <value>button</value>
-            </property>
-            <property type="bool">
-                <name>button-inverted</name>
-                <value>False</value>
-            </property>
-            <property type="string">
-                <name>action-label</name>
-                <value>T-A3</value>
-            </property>
-            <property type="activation-mode">
-                <name>activation-mode</name>
-                <value>both</value>
-            </property>
-        </action>
-        <action id="32f3fc53-6319-427f-b199-8532022c22c4" type="map-to-vjoy">
-            <property type="int">
-                <name>vjoy-device-id</name>
-                <value>1</value>
-            </property>
-            <property type="int">
-                <name>vjoy-input-id</name>
-                <value>64</value>
-            </property>
-            <property type="input_type">
-                <name>vjoy-input-type</name>
-                <value>button</value>
-            </property>
-            <property type="bool">
-                <name>button-inverted</name>
-                <value>False</value>
-            </property>
-            <property type="string">
-                <name>action-label</name>
-                <value>T-A4</value>
-            </property>
-            <property type="activation-mode">
-                <name>activation-mode</name>
-                <value>both</value>
-            </property>
-        </action>
-        <action id="3a075f73-e5e3-4f99-8fd6-6a4327c6a7d2" type="map-to-vjoy">
-            <property type="int">
-                <name>vjoy-device-id</name>
-                <value>1</value>
-            </property>
-            <property type="int">
-                <name>vjoy-input-id</name>
-                <value>65</value>
-            </property>
-            <property type="input_type">
-                <name>vjoy-input-type</name>
-                <value>button</value>
-            </property>
-            <property type="bool">
-                <name>button-inverted</name>
-                <value>False</value>
-            </property>
-            <property type="string">
-                <name>action-label</name>
-                <value>T-NAV-1</value>
-            </property>
-            <property type="activation-mode">
-                <name>activation-mode</name>
-                <value>both</value>
-            </property>
-        </action>
-        <action id="d664ab8b-f5b7-4e01-bf20-f6d59f07dc90" type="map-to-vjoy">
-            <property type="int">
-                <name>vjoy-device-id</name>
-                <value>1</value>
-            </property>
-            <property type="int">
-                <name>vjoy-input-id</name>
-                <value>66</value>
-            </property>
-            <property type="input_type">
-                <name>vjoy-input-type</name>
-                <value>button</value>
-            </property>
-            <property type="bool">
-                <name>button-inverted</name>
-                <value>False</value>
-            </property>
-            <property type="string">
-                <name>action-label</name>
-                <value>T-HDG-4</value>
-            </property>
-            <property type="activation-mode">
-                <name>activation-mode</name>
-                <value>both</value>
-            </property>
-        </action>
-        <action id="a3840415-9621-452c-bbc1-2b19900455d8" type="map-to-vjoy">
-            <property type="int">
-                <name>vjoy-device-id</name>
-                <value>1</value>
-            </property>
-            <property type="int">
-                <name>vjoy-input-id</name>
-                <value>67</value>
-            </property>
-            <property type="input_type">
-                <name>vjoy-input-type</name>
-                <value>button</value>
-            </property>
-            <property type="bool">
-                <name>button-inverted</name>
-                <value>False</value>
-            </property>
-            <property type="string">
-                <name>action-label</name>
-                <value>T-SPD-2</value>
-            </property>
-            <property type="activation-mode">
-                <name>activation-mode</name>
-                <value>both</value>
-            </property>
-        </action>
-        <action id="a5bc5de0-2246-46f2-bac7-8c6325f4390c" type="map-to-vjoy">
-            <property type="int">
-                <name>vjoy-device-id</name>
-                <value>1</value>
-            </property>
-            <property type="int">
-                <name>vjoy-input-id</name>
-                <value>68</value>
-            </property>
-            <property type="input_type">
-                <name>vjoy-input-type</name>
-                <value>button</value>
-            </property>
-            <property type="bool">
-                <name>button-inverted</name>
-                <value>False</value>
-            </property>
-            <property type="string">
-                <name>action-label</name>
-                <value>T-ALT-5</value>
-            </property>
-            <property type="activation-mode">
-                <name>activation-mode</name>
-                <value>both</value>
-            </property>
-        </action>
-        <action id="500e613f-ec55-4777-afe9-41b7c913c27f" type="map-to-vjoy">
-            <property type="int">
-                <name>vjoy-device-id</name>
-                <value>1</value>
-            </property>
-            <property type="int">
-                <name>vjoy-input-id</name>
-                <value>69</value>
-            </property>
-            <property type="input_type">
-                <name>vjoy-input-type</name>
-                <value>button</value>
-            </property>
-            <property type="bool">
-                <name>button-inverted</name>
-                <value>False</value>
-            </property>
-            <property type="string">
-                <name>action-label</name>
-                <value>T-FD-3</value>
-            </property>
-            <property type="activation-mode">
-                <name>activation-mode</name>
-                <value>both</value>
-            </property>
-        </action>
-        <action id="d66e7884-ce44-4356-b804-30b4e08889af" type="map-to-vjoy">
-            <property type="int">
-                <name>vjoy-device-id</name>
-                <value>1</value>
-            </property>
-            <property type="int">
-                <name>vjoy-input-id</name>
-                <value>70</value>
-            </property>
-            <property type="input_type">
-                <name>vjoy-input-type</name>
-                <value>button</value>
-            </property>
-            <property type="bool">
-                <name>button-inverted</name>
-                <value>False</value>
-            </property>
-            <property type="string">
-                <name>action-label</name>
-                <value>T-AP-6</value>
-            </property>
-            <property type="activation-mode">
-                <name>activation-mode</name>
-                <value>both</value>
-            </property>
-        </action>
-        <action id="a1a92872-651c-4ea7-87d4-bb9e7fca08a5" type="map-to-vjoy">
-            <property type="int">
-                <name>vjoy-device-id</name>
-                <value>1</value>
-            </property>
-            <property type="int">
-                <name>vjoy-input-id</name>
-                <value>71</value>
-            </property>
-            <property type="input_type">
-                <name>vjoy-input-type</name>
-                <value>button</value>
-            </property>
-            <property type="bool">
-                <name>button-inverted</name>
-                <value>False</value>
-            </property>
-            <property type="string">
-                <name>action-label</name>
-                <value>Map to vJoy</value>
-            </property>
-            <property type="activation-mode">
-                <name>activation-mode</name>
-                <value>both</value>
-            </property>
-        </action>
-        <action id="e563ef98-25e4-4ae0-95ef-ef63e3041fe7" type="map-to-vjoy">
-            <property type="int">
-                <name>vjoy-device-id</name>
-                <value>1</value>
-            </property>
-            <property type="int">
-                <name>vjoy-input-id</name>
-                <value>72</value>
-            </property>
-            <property type="input_type">
-                <name>vjoy-input-type</name>
-                <value>button</value>
-            </property>
-            <property type="bool">
-                <name>button-inverted</name>
-                <value>False</value>
-            </property>
-            <property type="string">
-                <name>action-label</name>
-                <value>Map to vJoy</value>
-            </property>
-            <property type="activation-mode">
-                <name>activation-mode</name>
-                <value>both</value>
-            </property>
-        </action>
-        <action id="bb33c4ab-a812-45eb-8659-ccfc08a8265a" type="map-to-vjoy">
-            <property type="int">
-                <name>vjoy-device-id</name>
-                <value>1</value>
-            </property>
-            <property type="int">
-                <name>vjoy-input-id</name>
-                <value>73</value>
-            </property>
-            <property type="input_type">
-                <name>vjoy-input-type</name>
-                <value>button</value>
-            </property>
-            <property type="bool">
-                <name>button-inverted</name>
-                <value>False</value>
-            </property>
-            <property type="string">
-                <name>action-label</name>
-                <value>T-E1.press-in</value>
-            </property>
-            <property type="activation-mode">
-                <name>activation-mode</name>
-                <value>both</value>
-            </property>
-        </action>
-        <action id="fd9dc16e-42e4-43f6-af2d-fc275689514f" type="map-to-vjoy">
-            <property type="int">
-                <name>vjoy-device-id</name>
-                <value>1</value>
-            </property>
-            <property type="int">
-                <name>vjoy-input-id</name>
-                <value>74</value>
-            </property>
-            <property type="input_type">
-                <name>vjoy-input-type</name>
-                <value>button</value>
-            </property>
-            <property type="bool">
-                <name>button-inverted</name>
-                <value>False</value>
-            </property>
-            <property type="string">
-                <name>action-label</name>
-                <value>T-E2.down</value>
-            </property>
-            <property type="activation-mode">
-                <name>activation-mode</name>
-                <value>both</value>
-            </property>
-        </action>
-        <action id="55ce4685-1954-416d-8c53-ee8d376207b3" type="map-to-vjoy">
-            <property type="int">
-                <name>vjoy-device-id</name>
-                <value>1</value>
-            </property>
-            <property type="int">
-                <name>vjoy-input-id</name>
-                <value>75</value>
-            </property>
-            <property type="input_type">
-                <name>vjoy-input-type</name>
-                <value>button</value>
-            </property>
-            <property type="bool">
-                <name>button-inverted</name>
-                <value>False</value>
-            </property>
-            <property type="string">
-                <name>action-label</name>
-                <value>T-E2.up</value>
-            </property>
-            <property type="activation-mode">
-                <name>activation-mode</name>
-                <value>both</value>
-            </property>
-        </action>
-        <action id="fe348c1f-58e7-4e3d-aa26-a4e1552aa63f" type="map-to-vjoy">
-            <property type="int">
-                <name>vjoy-device-id</name>
-                <value>1</value>
-            </property>
-            <property type="int">
-                <name>vjoy-input-id</name>
-                <value>76</value>
-            </property>
-            <property type="input_type">
-                <name>vjoy-input-type</name>
-                <value>button</value>
-            </property>
-            <property type="bool">
-                <name>button-inverted</name>
-                <value>False</value>
-            </property>
-            <property type="string">
-                <name>action-label</name>
-                <value>T-E2.press-in</value>
-            </property>
-            <property type="activation-mode">
-                <name>activation-mode</name>
-                <value>both</value>
-            </property>
-        </action>
-        <action id="99dde20c-6440-482b-9d97-2093723f6be9" type="map-to-vjoy">
-            <property type="int">
-                <name>vjoy-device-id</name>
-                <value>1</value>
-            </property>
-            <property type="int">
-                <name>vjoy-input-id</name>
-                <value>77</value>
-            </property>
-            <property type="input_type">
-                <name>vjoy-input-type</name>
-                <value>button</value>
-            </property>
-            <property type="bool">
-                <name>button-inverted</name>
-                <value>False</value>
-            </property>
-            <property type="string">
-                <name>action-label</name>
-                <value>T-MODE.nav</value>
-            </property>
-            <property type="activation-mode">
-                <name>activation-mode</name>
-                <value>both</value>
-            </property>
-        </action>
-        <action id="f2bb27a1-ceb9-474e-91df-b0256f7a6d1f" type="map-to-vjoy">
-            <property type="int">
-                <name>vjoy-device-id</name>
-                <value>1</value>
-            </property>
-            <property type="int">
-                <name>vjoy-input-id</name>
-                <value>78</value>
-            </property>
-            <property type="input_type">
-                <name>vjoy-input-type</name>
-                <value>button</value>
-            </property>
-            <property type="bool">
-                <name>button-inverted</name>
-                <value>False</value>
-            </property>
-            <property type="string">
-                <name>action-label</name>
-                <value>T-MODE.2</value>
-            </property>
-            <property type="activation-mode">
-                <name>activation-mode</name>
-                <value>both</value>
-            </property>
-        </action>
-        <action id="19c1099d-cb3c-4d61-8efa-5ed57307b51c" type="map-to-vjoy">
-            <property type="int">
-                <name>vjoy-device-id</name>
-                <value>1</value>
-            </property>
-            <property type="int">
-                <name>vjoy-input-id</name>
-                <value>79</value>
-            </property>
-            <property type="input_type">
-                <name>vjoy-input-type</name>
-                <value>button</value>
-            </property>
-            <property type="bool">
-                <name>button-inverted</name>
-                <value>False</value>
-            </property>
-            <property type="string">
-                <name>action-label</name>
-                <value>T-MODE.scm</value>
-            </property>
-            <property type="activation-mode">
-                <name>activation-mode</name>
-                <value>both</value>
-            </property>
-        </action>
-        <action id="c5b6a322-3ab4-490b-be38-b0ab657b69e5" type="map-to-vjoy">
-            <property type="int">
-                <name>vjoy-device-id</name>
-                <value>1</value>
-            </property>
-            <property type="int">
-                <name>vjoy-input-id</name>
-                <value>80</value>
-            </property>
-            <property type="input_type">
-                <name>vjoy-input-type</name>
-                <value>button</value>
-            </property>
-            <property type="bool">
-                <name>button-inverted</name>
-                <value>False</value>
-            </property>
-            <property type="string">
-                <name>action-label</name>
-                <value>T-MODE.4</value>
-            </property>
-            <property type="activation-mode">
-                <name>activation-mode</name>
-                <value>both</value>
-            </property>
-        </action>
-        <action id="d46d9eb7-b9c8-4773-8fd5-6c455ff00076" type="map-to-vjoy">
-            <property type="int">
-                <name>vjoy-device-id</name>
-                <value>1</value>
-            </property>
-            <property type="int">
-                <name>vjoy-input-id</name>
-                <value>81</value>
-            </property>
-            <property type="input_type">
-                <name>vjoy-input-type</name>
-                <value>button</value>
-            </property>
-            <property type="bool">
-                <name>button-inverted</name>
-                <value>False</value>
-            </property>
-            <property type="string">
-                <name>action-label</name>
-                <value>T-MODE.mining</value>
-            </property>
-            <property type="activation-mode">
-                <name>activation-mode</name>
-                <value>both</value>
-            </property>
-        </action>
-        <action id="14806e43-387c-4910-b943-f9f10a7bedb3" type="map-to-vjoy">
-            <property type="int">
-                <name>vjoy-device-id</name>
-                <value>1</value>
-            </property>
-            <property type="int">
-                <name>vjoy-input-id</name>
-                <value>82</value>
-            </property>
-            <property type="input_type">
-                <name>vjoy-input-type</name>
-                <value>button</value>
-            </property>
-            <property type="bool">
-                <name>button-inverted</name>
-                <value>False</value>
-            </property>
-            <property type="string">
-                <name>action-label</name>
-                <value>Map to vJoy</value>
-            </property>
-            <property type="activation-mode">
-                <name>activation-mode</name>
-                <value>both</value>
-            </property>
-        </action>
-        <action id="5aa96907-ccae-46cf-b959-90622e81f99b" type="map-to-vjoy">
-            <property type="int">
-                <name>vjoy-device-id</name>
-                <value>1</value>
-            </property>
-            <property type="int">
-                <name>vjoy-input-id</name>
-                <value>83</value>
-            </property>
-            <property type="input_type">
-                <name>vjoy-input-type</name>
-                <value>button</value>
-            </property>
-            <property type="bool">
-                <name>button-inverted</name>
-                <value>False</value>
-            </property>
-            <property type="string">
-                <name>action-label</name>
-                <value>Map to vJoy</value>
-            </property>
-            <property type="activation-mode">
-                <name>activation-mode</name>
-                <value>both</value>
-            </property>
-        </action>
-        <action id="4d2b44cb-4483-4528-b151-84eee1744831" type="map-to-vjoy">
-            <property type="int">
-                <name>vjoy-device-id</name>
-                <value>1</value>
-            </property>
-            <property type="int">
-                <name>vjoy-input-id</name>
-                <value>84</value>
-            </property>
-            <property type="input_type">
-                <name>vjoy-input-type</name>
-                <value>button</value>
-            </property>
-            <property type="bool">
-                <name>button-inverted</name>
-                <value>False</value>
-            </property>
-            <property type="string">
-                <name>action-label</name>
-                <value>Map to vJoy</value>
-            </property>
-            <property type="activation-mode">
-                <name>activation-mode</name>
-                <value>both</value>
-            </property>
-        </action>
-        <action id="2766e752-242a-4815-bd77-3e20fa1ab4f8" type="map-to-vjoy">
-            <property type="int">
-                <name>vjoy-device-id</name>
-                <value>1</value>
-            </property>
-            <property type="int">
-                <name>vjoy-input-id</name>
-                <value>85</value>
-            </property>
-            <property type="input_type">
-                <name>vjoy-input-type</name>
-                <value>button</value>
-            </property>
-            <property type="bool">
-                <name>button-inverted</name>
-                <value>False</value>
-            </property>
-            <property type="string">
-                <name>action-label</name>
-                <value>T-SW1.up</value>
-            </property>
-            <property type="activation-mode">
-                <name>activation-mode</name>
-                <value>both</value>
-            </property>
-        </action>
-        <action id="bc67029c-5bb7-442f-8f61-5339086db0d6" type="map-to-vjoy">
-            <property type="int">
-                <name>vjoy-device-id</name>
-                <value>1</value>
-            </property>
-            <property type="int">
-                <name>vjoy-input-id</name>
-                <value>86</value>
-            </property>
-            <property type="input_type">
-                <name>vjoy-input-type</name>
-                <value>button</value>
-            </property>
-            <property type="bool">
-                <name>button-inverted</name>
-                <value>False</value>
-            </property>
-            <property type="string">
-                <name>action-label</name>
-                <value>T-SW1.down</value>
-            </property>
-            <property type="activation-mode">
-                <name>activation-mode</name>
-                <value>both</value>
-            </property>
-        </action>
-        <action id="c6f645f3-9e26-44a0-9512-fd4d1fbf8fe0" type="map-to-vjoy">
-            <property type="int">
-                <name>vjoy-device-id</name>
-                <value>1</value>
-            </property>
-            <property type="int">
-                <name>vjoy-input-id</name>
-                <value>87</value>
-            </property>
-            <property type="input_type">
-                <name>vjoy-input-type</name>
-                <value>button</value>
-            </property>
-            <property type="bool">
-                <name>button-inverted</name>
-                <value>False</value>
-            </property>
-            <property type="string">
-                <name>action-label</name>
-                <value>T-SW2.up</value>
-            </property>
-            <property type="activation-mode">
-                <name>activation-mode</name>
-                <value>both</value>
-            </property>
-        </action>
-        <action id="8c6ded73-35e2-45d6-98aa-7e7ddc08c742" type="map-to-vjoy">
-            <property type="int">
-                <name>vjoy-device-id</name>
-                <value>1</value>
-            </property>
-            <property type="int">
-                <name>vjoy-input-id</name>
-                <value>88</value>
-            </property>
-            <property type="input_type">
-                <name>vjoy-input-type</name>
-                <value>button</value>
-            </property>
-            <property type="bool">
-                <name>button-inverted</name>
-                <value>False</value>
-            </property>
-            <property type="string">
-                <name>action-label</name>
-                <value>T-SW2.down</value>
-            </property>
-            <property type="activation-mode">
-                <name>activation-mode</name>
-                <value>both</value>
-            </property>
-        </action>
-        <action id="defccd7e-58d4-4617-99aa-b7f6ca68035e" type="map-to-vjoy">
-            <property type="int">
-                <name>vjoy-device-id</name>
-                <value>1</value>
-            </property>
-            <property type="int">
-                <name>vjoy-input-id</name>
-                <value>89</value>
-            </property>
-            <property type="input_type">
-                <name>vjoy-input-type</name>
-                <value>button</value>
-            </property>
-            <property type="bool">
-                <name>button-inverted</name>
-                <value>False</value>
-            </property>
-            <property type="string">
-                <name>action-label</name>
-                <value>T-SW3.up</value>
-            </property>
-            <property type="activation-mode">
-                <name>activation-mode</name>
-                <value>both</value>
-            </property>
-        </action>
-        <action id="fed38281-2f8b-4bb7-bc75-961168900924" type="map-to-vjoy">
-            <property type="int">
-                <name>vjoy-device-id</name>
-                <value>1</value>
-            </property>
-            <property type="int">
-                <name>vjoy-input-id</name>
-                <value>90</value>
-            </property>
-            <property type="input_type">
-                <name>vjoy-input-type</name>
-                <value>button</value>
-            </property>
-            <property type="bool">
-                <name>button-inverted</name>
-                <value>False</value>
-            </property>
-            <property type="string">
-                <name>action-label</name>
-                <value>T-SW3.down</value>
-            </property>
-            <property type="activation-mode">
-                <name>activation-mode</name>
-                <value>both</value>
-            </property>
-        </action>
-        <action id="67ab884b-9553-401c-8072-cf1e0d8894ee" type="map-to-vjoy">
-            <property type="int">
-                <name>vjoy-device-id</name>
-                <value>1</value>
-            </property>
-            <property type="int">
-                <name>vjoy-input-id</name>
-                <value>91</value>
-            </property>
-            <property type="input_type">
-                <name>vjoy-input-type</name>
-                <value>button</value>
-            </property>
-            <property type="bool">
-                <name>button-inverted</name>
-                <value>False</value>
-            </property>
-            <property type="string">
-                <name>action-label</name>
-                <value>Map to vJoy</value>
-            </property>
-            <property type="activation-mode">
-                <name>activation-mode</name>
-                <value>both</value>
-            </property>
-        </action>
-        <action id="9f30e757-2ee6-4406-a2ca-92c34860a1b0" type="map-to-vjoy">
-            <property type="int">
-                <name>vjoy-device-id</name>
-                <value>1</value>
-            </property>
-            <property type="int">
-                <name>vjoy-input-id</name>
-                <value>92</value>
-            </property>
-            <property type="input_type">
-                <name>vjoy-input-type</name>
-                <value>button</value>
-            </property>
-            <property type="bool">
-                <name>button-inverted</name>
-                <value>False</value>
-            </property>
-            <property type="string">
-                <name>action-label</name>
-                <value>Map to vJoy</value>
-            </property>
-            <property type="activation-mode">
-                <name>activation-mode</name>
-                <value>both</value>
-            </property>
-        </action>
-        <action id="8fae700e-918a-4786-aa67-b3455ac9e0cf" type="map-to-vjoy">
-            <property type="int">
-                <name>vjoy-device-id</name>
-                <value>1</value>
-            </property>
-            <property type="int">
-                <name>vjoy-input-id</name>
-                <value>93</value>
-            </property>
-            <property type="input_type">
-                <name>vjoy-input-type</name>
-                <value>button</value>
-            </property>
-            <property type="bool">
-                <name>button-inverted</name>
-                <value>False</value>
-            </property>
-            <property type="string">
-                <name>action-label</name>
-                <value>Map to vJoy</value>
-            </property>
-            <property type="activation-mode">
-                <name>activation-mode</name>
-                <value>both</value>
-            </property>
-        </action>
-        <action id="549f1d3c-0a5b-4643-a8cb-87581720f508" type="map-to-vjoy">
-            <property type="int">
-                <name>vjoy-device-id</name>
-                <value>1</value>
-            </property>
-            <property type="int">
-                <name>vjoy-input-id</name>
-                <value>94</value>
-            </property>
-            <property type="input_type">
-                <name>vjoy-input-type</name>
-                <value>button</value>
-            </property>
-            <property type="bool">
-                <name>button-inverted</name>
-                <value>False</value>
-            </property>
-            <property type="string">
-                <name>action-label</name>
-                <value>Map to vJoy</value>
-            </property>
-            <property type="activation-mode">
-                <name>activation-mode</name>
-                <value>both</value>
-            </property>
-        </action>
-        <action id="63fd7423-3085-43e7-9331-d2c766155843" type="map-to-vjoy">
-            <property type="int">
-                <name>vjoy-device-id</name>
-                <value>1</value>
-            </property>
-            <property type="int">
-                <name>vjoy-input-id</name>
-                <value>95</value>
-            </property>
-            <property type="input_type">
-                <name>vjoy-input-type</name>
-                <value>button</value>
-            </property>
-            <property type="bool">
-                <name>button-inverted</name>
-                <value>False</value>
-            </property>
-            <property type="string">
-                <name>action-label</name>
-                <value>Map to vJoy</value>
-            </property>
-            <property type="activation-mode">
-                <name>activation-mode</name>
-                <value>both</value>
-            </property>
-        </action>
-        <action id="070be362-d856-42c4-93ac-3aef2b6b1f65" type="map-to-vjoy">
-            <property type="int">
-                <name>vjoy-device-id</name>
-                <value>1</value>
-            </property>
-            <property type="int">
-                <name>vjoy-input-id</name>
-                <value>96</value>
-            </property>
-            <property type="input_type">
-                <name>vjoy-input-type</name>
-                <value>button</value>
-            </property>
-            <property type="bool">
-                <name>button-inverted</name>
-                <value>False</value>
-            </property>
-            <property type="string">
-                <name>action-label</name>
-                <value>Map to vJoy</value>
-            </property>
-            <property type="activation-mode">
-                <name>activation-mode</name>
-                <value>both</value>
-            </property>
-        </action>
-        <action id="7e7c9420-5076-4e78-8a36-b7d6bcdcd54f" type="map-to-vjoy">
-            <property type="int">
-                <name>vjoy-device-id</name>
-                <value>1</value>
-            </property>
-            <property type="int">
-                <name>vjoy-input-id</name>
-                <value>97</value>
-            </property>
-            <property type="input_type">
-                <name>vjoy-input-type</name>
-                <value>button</value>
-            </property>
-            <property type="bool">
-                <name>button-inverted</name>
-                <value>False</value>
-            </property>
-            <property type="string">
-                <name>action-label</name>
-                <value>Map to vJoy</value>
-            </property>
-            <property type="activation-mode">
-                <name>activation-mode</name>
-                <value>both</value>
-            </property>
-        </action>
-        <action id="176079dc-51e9-4616-82dd-7adc745624c6" type="map-to-vjoy">
-            <property type="int">
-                <name>vjoy-device-id</name>
-                <value>1</value>
-            </property>
-            <property type="int">
-                <name>vjoy-input-id</name>
-                <value>98</value>
-            </property>
-            <property type="input_type">
-                <name>vjoy-input-type</name>
-                <value>button</value>
-            </property>
-            <property type="bool">
-                <name>button-inverted</name>
-                <value>False</value>
-            </property>
-            <property type="string">
-                <name>action-label</name>
-                <value>Map to vJoy</value>
-            </property>
-            <property type="activation-mode">
-                <name>activation-mode</name>
-                <value>both</value>
-            </property>
-        </action>
-        <action id="6c952512-8444-4855-b7f8-4382a4bb5fd3" type="map-to-vjoy">
-            <property type="int">
-                <name>vjoy-device-id</name>
-                <value>1</value>
-            </property>
-            <property type="int">
-                <name>vjoy-input-id</name>
-                <value>99</value>
-            </property>
-            <property type="input_type">
-                <name>vjoy-input-type</name>
-                <value>button</value>
-            </property>
-            <property type="bool">
-                <name>button-inverted</name>
-                <value>False</value>
-            </property>
-            <property type="string">
-                <name>action-label</name>
-                <value>Map to vJoy</value>
-            </property>
-            <property type="activation-mode">
-                <name>activation-mode</name>
-                <value>both</value>
-            </property>
-        </action>
-        <action id="ffef133c-106b-4605-8560-95cd2e9825ec" type="map-to-vjoy">
-            <property type="int">
-                <name>vjoy-device-id</name>
-                <value>1</value>
-            </property>
-            <property type="int">
-                <name>vjoy-input-id</name>
-                <value>100</value>
-            </property>
-            <property type="input_type">
-                <name>vjoy-input-type</name>
-                <value>button</value>
-            </property>
-            <property type="bool">
-                <name>button-inverted</name>
-                <value>False</value>
-            </property>
-            <property type="string">
-                <name>action-label</name>
-                <value>Map to vJoy</value>
-            </property>
-            <property type="activation-mode">
-                <name>activation-mode</name>
-                <value>both</value>
-            </property>
-        </action>
-        <action id="57d5eeec-57e8-40c7-9171-2bddf29f9b06" type="map-to-vjoy">
-            <property type="int">
-                <name>vjoy-device-id</name>
-                <value>1</value>
-            </property>
-            <property type="int">
-                <name>vjoy-input-id</name>
-                <value>101</value>
-            </property>
-            <property type="input_type">
-                <name>vjoy-input-type</name>
-                <value>button</value>
-            </property>
-            <property type="bool">
-                <name>button-inverted</name>
-                <value>False</value>
-            </property>
-            <property type="string">
-                <name>action-label</name>
-                <value>Map to vJoy</value>
-            </property>
-            <property type="activation-mode">
-                <name>activation-mode</name>
-                <value>both</value>
-            </property>
-        </action>
-        <action id="3eec368c-e228-43ca-b0f8-4d963b5fa4bc" type="map-to-vjoy">
-            <property type="int">
-                <name>vjoy-device-id</name>
-                <value>1</value>
-            </property>
-            <property type="int">
-                <name>vjoy-input-id</name>
-                <value>102</value>
-            </property>
-            <property type="input_type">
-                <name>vjoy-input-type</name>
-                <value>button</value>
-            </property>
-            <property type="bool">
-                <name>button-inverted</name>
-                <value>False</value>
-            </property>
-            <property type="string">
-                <name>action-label</name>
-                <value>Map to vJoy</value>
-            </property>
-            <property type="activation-mode">
-                <name>activation-mode</name>
-                <value>both</value>
-            </property>
-        </action>
-        <action id="a12a44ea-a5ac-43f7-89a3-56d09468d6a2" type="map-to-vjoy">
-            <property type="int">
-                <name>vjoy-device-id</name>
-                <value>1</value>
-            </property>
-            <property type="int">
-                <name>vjoy-input-id</name>
-                <value>103</value>
-            </property>
-            <property type="input_type">
-                <name>vjoy-input-type</name>
-                <value>button</value>
-            </property>
-            <property type="bool">
-                <name>button-inverted</name>
-                <value>False</value>
-            </property>
-            <property type="string">
-                <name>action-label</name>
-                <value>Map to vJoy</value>
-            </property>
-            <property type="activation-mode">
-                <name>activation-mode</name>
-                <value>both</value>
-            </property>
-        </action>
-        <action id="e8c9732e-21ab-42e3-a67e-a07cc311a228" type="map-to-vjoy">
-            <property type="int">
-                <name>vjoy-device-id</name>
-                <value>1</value>
-            </property>
-            <property type="int">
-                <name>vjoy-input-id</name>
-                <value>104</value>
-            </property>
-            <property type="input_type">
-                <name>vjoy-input-type</name>
-                <value>button</value>
-            </property>
-            <property type="bool">
-                <name>button-inverted</name>
-                <value>False</value>
-            </property>
-            <property type="string">
-                <name>action-label</name>
-                <value>Map to vJoy</value>
-            </property>
-            <property type="activation-mode">
-                <name>activation-mode</name>
-                <value>both</value>
-            </property>
-        </action>
-        <action id="79d9b444-dfcc-4792-8b94-a39fcd0529cf" type="map-to-vjoy">
-            <property type="int">
-                <name>vjoy-device-id</name>
-                <value>1</value>
-            </property>
-            <property type="int">
-                <name>vjoy-input-id</name>
-                <value>105</value>
-            </property>
-            <property type="input_type">
-                <name>vjoy-input-type</name>
-                <value>button</value>
-            </property>
-            <property type="bool">
-                <name>button-inverted</name>
-                <value>False</value>
-            </property>
-            <property type="string">
-                <name>action-label</name>
-                <value>T-BRK.right</value>
-            </property>
-            <property type="activation-mode">
-                <name>activation-mode</name>
-                <value>both</value>
-            </property>
-        </action>
-        <action id="f4590065-65b0-4401-a742-dd5c878bba3b" type="map-to-vjoy">
-            <property type="int">
-                <name>vjoy-device-id</name>
-                <value>1</value>
-            </property>
-            <property type="int">
-                <name>vjoy-input-id</name>
-                <value>106</value>
-            </property>
-            <property type="input_type">
-                <name>vjoy-input-type</name>
-                <value>button</value>
-            </property>
-            <property type="bool">
-                <name>button-inverted</name>
-                <value>False</value>
-            </property>
-            <property type="string">
-                <name>action-label</name>
-                <value>T-BRK.left</value>
-            </property>
-            <property type="activation-mode">
-                <name>activation-mode</name>
-                <value>both</value>
-            </property>
-        </action>
-        <action id="583cc797-9e84-42ce-8876-189dbabc61bc" type="map-to-vjoy">
-            <property type="int">
-                <name>vjoy-device-id</name>
-                <value>1</value>
-            </property>
-            <property type="int">
-                <name>vjoy-input-id</name>
-                <value>107</value>
-            </property>
-            <property type="input_type">
-                <name>vjoy-input-type</name>
-                <value>button</value>
-            </property>
-            <property type="bool">
-                <name>button-inverted</name>
-                <value>False</value>
-            </property>
-            <property type="string">
-                <name>action-label</name>
-                <value>T-WPN.press-in</value>
-            </property>
-            <property type="activation-mode">
-                <name>activation-mode</name>
-                <value>both</value>
-            </property>
-        </action>
-        <action id="9b55371e-3af5-4618-aff3-c097a0b8eb66" type="map-to-vjoy">
-            <property type="int">
-                <name>vjoy-device-id</name>
-                <value>1</value>
-            </property>
-            <property type="int">
-                <name>vjoy-input-id</name>
-                <value>108</value>
-            </property>
-            <property type="input_type">
-                <name>vjoy-input-type</name>
-                <value>button</value>
-            </property>
-            <property type="bool">
-                <name>button-inverted</name>
-                <value>False</value>
-            </property>
-            <property type="string">
-                <name>action-label</name>
-                <value>T-WPN.right</value>
-            </property>
-            <property type="activation-mode">
-                <name>activation-mode</name>
-                <value>both</value>
-            </property>
-        </action>
-        <action id="a7c358f1-123d-4212-8b39-e359062e83cd" type="map-to-vjoy">
-            <property type="int">
-                <name>vjoy-device-id</name>
-                <value>1</value>
-            </property>
-            <property type="int">
-                <name>vjoy-input-id</name>
-                <value>109</value>
-            </property>
-            <property type="input_type">
-                <name>vjoy-input-type</name>
-                <value>button</value>
-            </property>
-            <property type="bool">
-                <name>button-inverted</name>
-                <value>False</value>
-            </property>
-            <property type="string">
-                <name>action-label</name>
-                <value>T-WPN.left</value>
-            </property>
-            <property type="activation-mode">
-                <name>activation-mode</name>
-                <value>both</value>
-            </property>
-        </action>
-        <action id="625b9bd4-39b7-462a-a2dc-33a5289f69b2" type="map-to-vjoy">
-            <property type="int">
-                <name>vjoy-device-id</name>
-                <value>1</value>
-            </property>
-            <property type="int">
-                <name>vjoy-input-id</name>
-                <value>110</value>
-            </property>
-            <property type="input_type">
-                <name>vjoy-input-type</name>
-                <value>button</value>
-            </property>
-            <property type="bool">
-                <name>button-inverted</name>
-                <value>False</value>
-            </property>
-            <property type="string">
-                <name>action-label</name>
-                <value>T-WPN.down</value>
-            </property>
-            <property type="activation-mode">
-                <name>activation-mode</name>
-                <value>both</value>
-            </property>
-        </action>
-        <action id="8c9f2299-3ee3-42f8-bb60-29377af8dd86" type="map-to-vjoy">
-            <property type="int">
-                <name>vjoy-device-id</name>
-                <value>1</value>
-            </property>
-            <property type="int">
-                <name>vjoy-input-id</name>
-                <value>111</value>
-            </property>
-            <property type="input_type">
-                <name>vjoy-input-type</name>
-                <value>button</value>
-            </property>
-            <property type="bool">
-                <name>button-inverted</name>
-                <value>False</value>
-            </property>
-            <property type="string">
-                <name>action-label</name>
-                <value>T-WPN.up</value>
-            </property>
-            <property type="activation-mode">
-                <name>activation-mode</name>
-                <value>both</value>
-            </property>
-        </action>
-        <action id="c2051132-4544-48f6-9652-9993886a40b2" type="map-to-vjoy">
-            <property type="int">
-                <name>vjoy-device-id</name>
-                <value>1</value>
-            </property>
-            <property type="int">
-                <name>vjoy-input-id</name>
-                <value>112</value>
-            </property>
-            <property type="input_type">
-                <name>vjoy-input-type</name>
-                <value>button</value>
-            </property>
-            <property type="bool">
-                <name>button-inverted</name>
-                <value>False</value>
-            </property>
-            <property type="string">
-                <name>action-label</name>
-                <value>T-COM.press-in</value>
-            </property>
-            <property type="activation-mode">
-                <name>activation-mode</name>
-                <value>both</value>
-            </property>
-        </action>
-        <action id="fe04e133-dfd4-46bc-b4af-48b121b8acb4" type="map-to-vjoy">
-            <property type="int">
-                <name>vjoy-device-id</name>
-                <value>1</value>
-            </property>
-            <property type="int">
-                <name>vjoy-input-id</name>
-                <value>113</value>
-            </property>
-            <property type="input_type">
-                <name>vjoy-input-type</name>
-                <value>button</value>
-            </property>
-            <property type="bool">
-                <name>button-inverted</name>
-                <value>False</value>
-            </property>
-            <property type="string">
-                <name>action-label</name>
-                <value>T-COM.right</value>
-            </property>
-            <property type="activation-mode">
-                <name>activation-mode</name>
-                <value>both</value>
-            </property>
-        </action>
-        <action id="5b1c24ca-af99-439a-9409-ed4ecc418719" type="map-to-vjoy">
-            <property type="int">
-                <name>vjoy-device-id</name>
-                <value>1</value>
-            </property>
-            <property type="int">
-                <name>vjoy-input-id</name>
-                <value>114</value>
-            </property>
-            <property type="input_type">
-                <name>vjoy-input-type</name>
-                <value>button</value>
-            </property>
-            <property type="bool">
-                <name>button-inverted</name>
-                <value>False</value>
-            </property>
-            <property type="string">
-                <name>action-label</name>
-                <value>T-COM.left</value>
-            </property>
-            <property type="activation-mode">
-                <name>activation-mode</name>
-                <value>both</value>
-            </property>
-        </action>
-        <action id="a7d01611-1af7-463f-88d1-729dcad22eda" type="map-to-vjoy">
-            <property type="int">
-                <name>vjoy-device-id</name>
-                <value>1</value>
-            </property>
-            <property type="int">
-                <name>vjoy-input-id</name>
-                <value>115</value>
-            </property>
-            <property type="input_type">
-                <name>vjoy-input-type</name>
-                <value>button</value>
-            </property>
-            <property type="bool">
-                <name>button-inverted</name>
-                <value>False</value>
-            </property>
-            <property type="string">
-                <name>action-label</name>
-                <value>T-COM.down</value>
-            </property>
-            <property type="activation-mode">
-                <name>activation-mode</name>
-                <value>both</value>
-            </property>
-        </action>
-        <action id="26e34043-f8b8-4156-a1b0-cc622d6837fe" type="map-to-vjoy">
-            <property type="int">
-                <name>vjoy-device-id</name>
-                <value>1</value>
-            </property>
-            <property type="int">
-                <name>vjoy-input-id</name>
-                <value>116</value>
-            </property>
-            <property type="input_type">
-                <name>vjoy-input-type</name>
-                <value>button</value>
-            </property>
-            <property type="bool">
-                <name>button-inverted</name>
-                <value>False</value>
-            </property>
-            <property type="string">
-                <name>action-label</name>
-                <value>T-COM.up</value>
-            </property>
-            <property type="activation-mode">
-                <name>activation-mode</name>
-                <value>both</value>
-            </property>
-        </action>
-        <action id="9c52ca97-ab12-4df9-8b47-368e141ec74f" type="map-to-vjoy">
-            <property type="int">
-                <name>vjoy-device-id</name>
-                <value>1</value>
-            </property>
-            <property type="int">
-                <name>vjoy-input-id</name>
-                <value>117</value>
-            </property>
-            <property type="input_type">
-                <name>vjoy-input-type</name>
-                <value>button</value>
-            </property>
-            <property type="bool">
-                <name>button-inverted</name>
-                <value>False</value>
-            </property>
-            <property type="string">
-                <name>action-label</name>
-                <value>T-M1.press-in</value>
-            </property>
-            <property type="activation-mode">
-                <name>activation-mode</name>
-                <value>both</value>
-            </property>
-        </action>
-        <action id="dd8ce2b3-f058-4d35-a17b-c94fe02e0b60" type="map-to-vjoy">
-            <property type="int">
-                <name>vjoy-device-id</name>
-                <value>1</value>
-            </property>
-            <property type="int">
-                <name>vjoy-input-id</name>
-                <value>118</value>
-            </property>
-            <property type="input_type">
-                <name>vjoy-input-type</name>
-                <value>button</value>
-            </property>
-            <property type="bool">
-                <name>button-inverted</name>
-                <value>False</value>
-            </property>
-            <property type="string">
-                <name>action-label</name>
-                <value>T-E3.up</value>
-            </property>
-            <property type="activation-mode">
-                <name>activation-mode</name>
-                <value>both</value>
-            </property>
-        </action>
-        <action id="98153c75-b9da-46a2-9c49-d8daba38c777" type="map-to-vjoy">
-            <property type="int">
-                <name>vjoy-device-id</name>
-                <value>1</value>
-            </property>
-            <property type="int">
-                <name>vjoy-input-id</name>
-                <value>119</value>
-            </property>
-            <property type="input_type">
-                <name>vjoy-input-type</name>
-                <value>button</value>
-            </property>
-            <property type="bool">
-                <name>button-inverted</name>
-                <value>False</value>
-            </property>
-            <property type="string">
-                <name>action-label</name>
-                <value>T-E3.down</value>
             </property>
             <property type="activation-mode">
                 <name>activation-mode</name>
@@ -6725,7 +4801,7 @@
             </property>
             <property type="int">
                 <name>vjoy-input-id</name>
-                <value>37</value>
+                <value>42</value>
             </property>
             <property type="input_type">
                 <name>vjoy-input-type</name>
@@ -6835,7 +4911,7 @@
             </property>
             <property type="int">
                 <name>vjoy-input-id</name>
-                <value>37</value>
+                <value>42</value>
             </property>
             <property type="input_type">
                 <name>vjoy-input-type</name>
@@ -7261,7 +5337,7 @@
             </property>
             <property type="string">
                 <name>action-label</name>
-                <value>Map to vJoy</value>
+                <value>T-E1.left</value>
             </property>
             <property type="activation-mode">
                 <name>activation-mode</name>
@@ -7287,7 +5363,7 @@
             </property>
             <property type="string">
                 <name>action-label</name>
-                <value>Map to vJoy</value>
+                <value>T-E1.right</value>
             </property>
             <property type="activation-mode">
                 <name>activation-mode</name>
@@ -7339,7 +5415,7 @@
             </property>
             <property type="string">
                 <name>action-label</name>
-                <value>T-E2.down</value>
+                <value>T-E2.left</value>
             </property>
             <property type="activation-mode">
                 <name>activation-mode</name>
@@ -7365,7 +5441,7 @@
             </property>
             <property type="string">
                 <name>action-label</name>
-                <value>T-E2.up</value>
+                <value>T-E2.right</value>
             </property>
             <property type="activation-mode">
                 <name>activation-mode</name>
@@ -7685,7 +5761,7 @@
             </property>
             <property type="string">
                 <name>action-label</name>
-                <value>Map to vJoy</value>
+                <value>T-SW4.middle</value>
             </property>
             <property type="activation-mode">
                 <name>activation-mode</name>
@@ -7711,7 +5787,7 @@
             </property>
             <property type="string">
                 <name>action-label</name>
-                <value>Map to vJoy</value>
+                <value>T-SW4.left</value>
             </property>
             <property type="activation-mode">
                 <name>activation-mode</name>
@@ -7737,7 +5813,7 @@
             </property>
             <property type="string">
                 <name>action-label</name>
-                <value>Map to vJoy</value>
+                <value>T-SW4.right</value>
             </property>
             <property type="activation-mode">
                 <name>activation-mode</name>
@@ -7919,7 +5995,7 @@
             </property>
             <property type="string">
                 <name>action-label</name>
-                <value>Map to vJoy</value>
+                <value>T-SPBRK.armed</value>
             </property>
             <property type="activation-mode">
                 <name>activation-mode</name>
@@ -7945,7 +6021,7 @@
             </property>
             <property type="string">
                 <name>action-label</name>
-                <value>Map to vJoy</value>
+                <value>T1.Rev</value>
             </property>
             <property type="activation-mode">
                 <name>activation-mode</name>
@@ -7971,7 +6047,7 @@
             </property>
             <property type="string">
                 <name>action-label</name>
-                <value>Map to vJoy</value>
+                <value>T1.Idle</value>
             </property>
             <property type="activation-mode">
                 <name>activation-mode</name>
@@ -7997,7 +6073,7 @@
             </property>
             <property type="string">
                 <name>action-label</name>
-                <value>Map to vJoy</value>
+                <value>T2.Rev</value>
             </property>
             <property type="activation-mode">
                 <name>activation-mode</name>
@@ -8023,7 +6099,7 @@
             </property>
             <property type="string">
                 <name>action-label</name>
-                <value>Map to vJoy</value>
+                <value>T2.Idle</value>
             </property>
             <property type="activation-mode">
                 <name>activation-mode</name>
@@ -8031,136 +6107,6 @@
             </property>
         </action>
         <action id="cc19863c-1f90-44e0-aa8e-1813bfb35288" type="map-to-vjoy">
-            <property type="int">
-                <name>vjoy-device-id</name>
-                <value>1</value>
-            </property>
-            <property type="int">
-                <name>vjoy-input-id</name>
-                <value>36</value>
-            </property>
-            <property type="input_type">
-                <name>vjoy-input-type</name>
-                <value>button</value>
-            </property>
-            <property type="bool">
-                <name>button-inverted</name>
-                <value>False</value>
-            </property>
-            <property type="string">
-                <name>action-label</name>
-                <value>Map to vJoy</value>
-            </property>
-            <property type="activation-mode">
-                <name>activation-mode</name>
-                <value>both</value>
-            </property>
-        </action>
-        <action id="c8e36658-1569-4dce-815a-5d41116603d3" type="map-to-vjoy">
-            <property type="int">
-                <name>vjoy-device-id</name>
-                <value>1</value>
-            </property>
-            <property type="int">
-                <name>vjoy-input-id</name>
-                <value>37</value>
-            </property>
-            <property type="input_type">
-                <name>vjoy-input-type</name>
-                <value>button</value>
-            </property>
-            <property type="bool">
-                <name>button-inverted</name>
-                <value>False</value>
-            </property>
-            <property type="string">
-                <name>action-label</name>
-                <value>Map to vJoy</value>
-            </property>
-            <property type="activation-mode">
-                <name>activation-mode</name>
-                <value>both</value>
-            </property>
-        </action>
-        <action id="121cf36d-a714-4df4-8903-4c178117a454" type="map-to-vjoy">
-            <property type="int">
-                <name>vjoy-device-id</name>
-                <value>1</value>
-            </property>
-            <property type="int">
-                <name>vjoy-input-id</name>
-                <value>38</value>
-            </property>
-            <property type="input_type">
-                <name>vjoy-input-type</name>
-                <value>button</value>
-            </property>
-            <property type="bool">
-                <name>button-inverted</name>
-                <value>False</value>
-            </property>
-            <property type="string">
-                <name>action-label</name>
-                <value>Map to vJoy</value>
-            </property>
-            <property type="activation-mode">
-                <name>activation-mode</name>
-                <value>both</value>
-            </property>
-        </action>
-        <action id="076d615f-f501-4047-a444-31a8061975bb" type="map-to-vjoy">
-            <property type="int">
-                <name>vjoy-device-id</name>
-                <value>1</value>
-            </property>
-            <property type="int">
-                <name>vjoy-input-id</name>
-                <value>39</value>
-            </property>
-            <property type="input_type">
-                <name>vjoy-input-type</name>
-                <value>button</value>
-            </property>
-            <property type="bool">
-                <name>button-inverted</name>
-                <value>False</value>
-            </property>
-            <property type="string">
-                <name>action-label</name>
-                <value>Map to vJoy</value>
-            </property>
-            <property type="activation-mode">
-                <name>activation-mode</name>
-                <value>both</value>
-            </property>
-        </action>
-        <action id="36b004f5-eb07-4798-bac9-a6adc613ba03" type="map-to-vjoy">
-            <property type="int">
-                <name>vjoy-device-id</name>
-                <value>1</value>
-            </property>
-            <property type="int">
-                <name>vjoy-input-id</name>
-                <value>40</value>
-            </property>
-            <property type="input_type">
-                <name>vjoy-input-type</name>
-                <value>button</value>
-            </property>
-            <property type="bool">
-                <name>button-inverted</name>
-                <value>False</value>
-            </property>
-            <property type="string">
-                <name>action-label</name>
-                <value>Map to vJoy</value>
-            </property>
-            <property type="activation-mode">
-                <name>activation-mode</name>
-                <value>both</value>
-            </property>
-        </action>
-        <action id="86b562aa-6772-4376-b009-0a5546f4ae0e" type="map-to-vjoy">
             <property type="int">
                 <name>vjoy-device-id</name>
                 <value>1</value>
@@ -8179,14 +6125,14 @@
             </property>
             <property type="string">
                 <name>action-label</name>
-                <value>Map to vJoy</value>
+                <value>T1.AB</value>
             </property>
             <property type="activation-mode">
                 <name>activation-mode</name>
                 <value>both</value>
             </property>
         </action>
-        <action id="f2bafc56-7cda-408f-92ba-c492e941a1f0" type="map-to-vjoy">
+        <action id="c8e36658-1569-4dce-815a-5d41116603d3" type="map-to-vjoy">
             <property type="int">
                 <name>vjoy-device-id</name>
                 <value>1</value>
@@ -8205,14 +6151,14 @@
             </property>
             <property type="string">
                 <name>action-label</name>
-                <value>Map to vJoy</value>
+                <value>T2.AB</value>
             </property>
             <property type="activation-mode">
                 <name>activation-mode</name>
                 <value>both</value>
             </property>
         </action>
-        <action id="4f6ac87a-19ed-478a-a9e0-607db4471b99" type="map-to-vjoy">
+        <action id="121cf36d-a714-4df4-8903-4c178117a454" type="map-to-vjoy">
             <property type="int">
                 <name>vjoy-device-id</name>
                 <value>1</value>
@@ -8231,14 +6177,14 @@
             </property>
             <property type="string">
                 <name>action-label</name>
-                <value>Map to vJoy</value>
+                <value>T-SPBRK.down</value>
             </property>
             <property type="activation-mode">
                 <name>activation-mode</name>
                 <value>both</value>
             </property>
         </action>
-        <action id="99969a43-ddd7-45e4-8916-ff7da2eb8d26" type="map-to-vjoy">
+        <action id="076d615f-f501-4047-a444-31a8061975bb" type="map-to-vjoy">
             <property type="int">
                 <name>vjoy-device-id</name>
                 <value>1</value>
@@ -8264,7 +6210,7 @@
                 <value>both</value>
             </property>
         </action>
-        <action id="c8ae096c-e639-4946-a8cb-a1b1065fc858" type="map-to-vjoy">
+        <action id="36b004f5-eb07-4798-bac9-a6adc613ba03" type="map-to-vjoy">
             <property type="int">
                 <name>vjoy-device-id</name>
                 <value>1</value>
@@ -8283,14 +6229,14 @@
             </property>
             <property type="string">
                 <name>action-label</name>
-                <value>T-BRK.right</value>
+                <value>Map to vJoy</value>
             </property>
             <property type="activation-mode">
                 <name>activation-mode</name>
                 <value>both</value>
             </property>
         </action>
-        <action id="e5384cc1-d86f-40b9-a105-110e409baff2" type="map-to-vjoy">
+        <action id="86b562aa-6772-4376-b009-0a5546f4ae0e" type="map-to-vjoy">
             <property type="int">
                 <name>vjoy-device-id</name>
                 <value>1</value>
@@ -8309,7 +6255,137 @@
             </property>
             <property type="string">
                 <name>action-label</name>
-                <value>T-BRK.left</value>
+                <value>Map to vJoy</value>
+            </property>
+            <property type="activation-mode">
+                <name>activation-mode</name>
+                <value>both</value>
+            </property>
+        </action>
+        <action id="f2bafc56-7cda-408f-92ba-c492e941a1f0" type="map-to-vjoy">
+            <property type="int">
+                <name>vjoy-device-id</name>
+                <value>1</value>
+            </property>
+            <property type="int">
+                <name>vjoy-input-id</name>
+                <value>47</value>
+            </property>
+            <property type="input_type">
+                <name>vjoy-input-type</name>
+                <value>button</value>
+            </property>
+            <property type="bool">
+                <name>button-inverted</name>
+                <value>False</value>
+            </property>
+            <property type="string">
+                <name>action-label</name>
+                <value>Map to vJoy</value>
+            </property>
+            <property type="activation-mode">
+                <name>activation-mode</name>
+                <value>both</value>
+            </property>
+        </action>
+        <action id="4f6ac87a-19ed-478a-a9e0-607db4471b99" type="map-to-vjoy">
+            <property type="int">
+                <name>vjoy-device-id</name>
+                <value>1</value>
+            </property>
+            <property type="int">
+                <name>vjoy-input-id</name>
+                <value>48</value>
+            </property>
+            <property type="input_type">
+                <name>vjoy-input-type</name>
+                <value>button</value>
+            </property>
+            <property type="bool">
+                <name>button-inverted</name>
+                <value>False</value>
+            </property>
+            <property type="string">
+                <name>action-label</name>
+                <value>Map to vJoy</value>
+            </property>
+            <property type="activation-mode">
+                <name>activation-mode</name>
+                <value>both</value>
+            </property>
+        </action>
+        <action id="99969a43-ddd7-45e4-8916-ff7da2eb8d26" type="map-to-vjoy">
+            <property type="int">
+                <name>vjoy-device-id</name>
+                <value>1</value>
+            </property>
+            <property type="int">
+                <name>vjoy-input-id</name>
+                <value>49</value>
+            </property>
+            <property type="input_type">
+                <name>vjoy-input-type</name>
+                <value>button</value>
+            </property>
+            <property type="bool">
+                <name>button-inverted</name>
+                <value>False</value>
+            </property>
+            <property type="string">
+                <name>action-label</name>
+                <value>Map to vJoy</value>
+            </property>
+            <property type="activation-mode">
+                <name>activation-mode</name>
+                <value>both</value>
+            </property>
+        </action>
+        <action id="c8ae096c-e639-4946-a8cb-a1b1065fc858" type="map-to-vjoy">
+            <property type="int">
+                <name>vjoy-device-id</name>
+                <value>1</value>
+            </property>
+            <property type="int">
+                <name>vjoy-input-id</name>
+                <value>50</value>
+            </property>
+            <property type="input_type">
+                <name>vjoy-input-type</name>
+                <value>button</value>
+            </property>
+            <property type="bool">
+                <name>button-inverted</name>
+                <value>False</value>
+            </property>
+            <property type="string">
+                <name>action-label</name>
+                <value>T-BRK.forward</value>
+            </property>
+            <property type="activation-mode">
+                <name>activation-mode</name>
+                <value>both</value>
+            </property>
+        </action>
+        <action id="e5384cc1-d86f-40b9-a105-110e409baff2" type="map-to-vjoy">
+            <property type="int">
+                <name>vjoy-device-id</name>
+                <value>1</value>
+            </property>
+            <property type="int">
+                <name>vjoy-input-id</name>
+                <value>51</value>
+            </property>
+            <property type="input_type">
+                <name>vjoy-input-type</name>
+                <value>button</value>
+            </property>
+            <property type="bool">
+                <name>button-inverted</name>
+                <value>False</value>
+            </property>
+            <property type="string">
+                <name>action-label</name>
+                <value>T-BRK.back</value>
             </property>
             <property type="activation-mode">
                 <name>activation-mode</name>
@@ -8323,7 +6399,7 @@
             </property>
             <property type="int">
                 <name>vjoy-input-id</name>
-                <value>47</value>
+                <value>52</value>
             </property>
             <property type="input_type">
                 <name>vjoy-input-type</name>
@@ -8349,7 +6425,7 @@
             </property>
             <property type="int">
                 <name>vjoy-input-id</name>
-                <value>48</value>
+                <value>53</value>
             </property>
             <property type="input_type">
                 <name>vjoy-input-type</name>
@@ -8375,7 +6451,7 @@
             </property>
             <property type="int">
                 <name>vjoy-input-id</name>
-                <value>49</value>
+                <value>54</value>
             </property>
             <property type="input_type">
                 <name>vjoy-input-type</name>
@@ -8387,7 +6463,7 @@
             </property>
             <property type="string">
                 <name>action-label</name>
-                <value>T-WPN.left</value>
+                <value>T-WPN.middle</value>
             </property>
             <property type="activation-mode">
                 <name>activation-mode</name>
@@ -8401,7 +6477,7 @@
             </property>
             <property type="int">
                 <name>vjoy-input-id</name>
-                <value>50</value>
+                <value>55</value>
             </property>
             <property type="input_type">
                 <name>vjoy-input-type</name>
@@ -8427,7 +6503,7 @@
             </property>
             <property type="int">
                 <name>vjoy-input-id</name>
-                <value>51</value>
+                <value>56</value>
             </property>
             <property type="input_type">
                 <name>vjoy-input-type</name>
@@ -8549,7 +6625,7 @@
             </property>
             <property type="int">
                 <name>vjoy-input-id</name>
-                <value>52</value>
+                <value>57</value>
             </property>
             <property type="input_type">
                 <name>vjoy-input-type</name>
@@ -8575,7 +6651,7 @@
             </property>
             <property type="int">
                 <name>vjoy-input-id</name>
-                <value>53</value>
+                <value>58</value>
             </property>
             <property type="input_type">
                 <name>vjoy-input-type</name>
@@ -8601,7 +6677,7 @@
             </property>
             <property type="int">
                 <name>vjoy-input-id</name>
-                <value>54</value>
+                <value>59</value>
             </property>
             <property type="input_type">
                 <name>vjoy-input-type</name>
@@ -8627,7 +6703,7 @@
             </property>
             <property type="int">
                 <name>vjoy-input-id</name>
-                <value>55</value>
+                <value>60</value>
             </property>
             <property type="input_type">
                 <name>vjoy-input-type</name>
@@ -8653,7 +6729,7 @@
             </property>
             <property type="int">
                 <name>vjoy-input-id</name>
-                <value>56</value>
+                <value>61</value>
             </property>
             <property type="input_type">
                 <name>vjoy-input-type</name>
@@ -8679,7 +6755,7 @@
             </property>
             <property type="int">
                 <name>vjoy-input-id</name>
-                <value>57</value>
+                <value>62</value>
             </property>
             <property type="input_type">
                 <name>vjoy-input-type</name>
@@ -8705,7 +6781,7 @@
             </property>
             <property type="int">
                 <name>vjoy-input-id</name>
-                <value>58</value>
+                <value>63</value>
             </property>
             <property type="input_type">
                 <name>vjoy-input-type</name>
@@ -8731,7 +6807,7 @@
             </property>
             <property type="int">
                 <name>vjoy-input-id</name>
-                <value>59</value>
+                <value>64</value>
             </property>
             <property type="input_type">
                 <name>vjoy-input-type</name>
@@ -8770,8 +6846,35 @@
                 <value>both</value>
             </property>
         </action>
+        <action id="b26088b2-9126-4c4f-8fed-3b53bca79671" type="map-to-vjoy">
+            <property type="int">
+                <name>vjoy-device-id</name>
+                <value>1</value>
+            </property>
+            <property type="int">
+                <name>vjoy-input-id</name>
+                <value>36</value>
+            </property>
+            <property type="input_type">
+                <name>vjoy-input-type</name>
+                <value>button</value>
+            </property>
+            <property type="bool">
+                <name>button-inverted</name>
+                <value>False</value>
+            </property>
+            <property type="string">
+                <name>action-label</name>
+                <value>T-FLAP.1</value>
+            </property>
+            <property type="activation-mode">
+                <name>activation-mode</name>
+                <value>both</value>
+            </property>
+        </action>
         <action id="56b97c09-e304-4cc9-8a7e-2652c0d82531" type="root">
             <actions>
+                <action-id>b26088b2-9126-4c4f-8fed-3b53bca79671</action-id>
             </actions>
             <property type="string">
                 <name>action-label</name>
@@ -10015,773 +8118,6 @@
         <action id="1da8f531-90f7-486e-97fa-420ce19608d6" type="root">
             <actions>
                 <action-id>faaabec9-e995-45a4-a97c-35f88c963000</action-id>
-            </actions>
-            <property type="string">
-                <name>action-label</name>
-                <value>Root</value>
-            </property>
-            <property type="activation-mode">
-                <name>activation-mode</name>
-                <value>disallowed</value>
-            </property>
-        </action>
-        <action id="cf23fd62-59e7-4042-b9e2-6a94c7da486c" type="root">
-            <actions>
-                <action-id>5dfa41e4-7a3e-4584-adbb-9ea0030868de</action-id>
-            </actions>
-            <property type="string">
-                <name>action-label</name>
-                <value>Root</value>
-            </property>
-            <property type="activation-mode">
-                <name>activation-mode</name>
-                <value>disallowed</value>
-            </property>
-        </action>
-        <action id="de37dbf0-3fca-416b-a16b-94b8b92625a2" type="root">
-            <actions>
-                <action-id>c164fdb0-6c94-4c8d-b4d4-36553ec31c14</action-id>
-            </actions>
-            <property type="string">
-                <name>action-label</name>
-                <value>Root</value>
-            </property>
-            <property type="activation-mode">
-                <name>activation-mode</name>
-                <value>disallowed</value>
-            </property>
-        </action>
-        <action id="e58ef349-0f25-4145-8739-db0d72d6a014" type="root">
-            <actions>
-                <action-id>2d17cab1-8107-445f-a798-026902d1d297</action-id>
-            </actions>
-            <property type="string">
-                <name>action-label</name>
-                <value>Root</value>
-            </property>
-            <property type="activation-mode">
-                <name>activation-mode</name>
-                <value>disallowed</value>
-            </property>
-        </action>
-        <action id="11914fe1-9ab6-4300-8e98-6fe72e4e3aad" type="root">
-            <actions>
-                <action-id>32f3fc53-6319-427f-b199-8532022c22c4</action-id>
-            </actions>
-            <property type="string">
-                <name>action-label</name>
-                <value>Root</value>
-            </property>
-            <property type="activation-mode">
-                <name>activation-mode</name>
-                <value>disallowed</value>
-            </property>
-        </action>
-        <action id="256931a9-2f1f-4647-ac36-4c732b8ccbfb" type="root">
-            <actions>
-                <action-id>3a075f73-e5e3-4f99-8fd6-6a4327c6a7d2</action-id>
-            </actions>
-            <property type="string">
-                <name>action-label</name>
-                <value>Root</value>
-            </property>
-            <property type="activation-mode">
-                <name>activation-mode</name>
-                <value>disallowed</value>
-            </property>
-        </action>
-        <action id="f9ecd74b-6f21-4924-9fe2-2b49932b0a78" type="root">
-            <actions>
-                <action-id>d664ab8b-f5b7-4e01-bf20-f6d59f07dc90</action-id>
-            </actions>
-            <property type="string">
-                <name>action-label</name>
-                <value>Root</value>
-            </property>
-            <property type="activation-mode">
-                <name>activation-mode</name>
-                <value>disallowed</value>
-            </property>
-        </action>
-        <action id="4d6b3d40-e711-44db-8413-d02c03b014d1" type="root">
-            <actions>
-                <action-id>a3840415-9621-452c-bbc1-2b19900455d8</action-id>
-            </actions>
-            <property type="string">
-                <name>action-label</name>
-                <value>Root</value>
-            </property>
-            <property type="activation-mode">
-                <name>activation-mode</name>
-                <value>disallowed</value>
-            </property>
-        </action>
-        <action id="44f43544-d87b-4551-b87c-8341355f1cfa" type="root">
-            <actions>
-                <action-id>a5bc5de0-2246-46f2-bac7-8c6325f4390c</action-id>
-            </actions>
-            <property type="string">
-                <name>action-label</name>
-                <value>Root</value>
-            </property>
-            <property type="activation-mode">
-                <name>activation-mode</name>
-                <value>disallowed</value>
-            </property>
-        </action>
-        <action id="d43bc675-df0e-4ba0-bed7-f9cbb7d2bf1d" type="root">
-            <actions>
-                <action-id>500e613f-ec55-4777-afe9-41b7c913c27f</action-id>
-            </actions>
-            <property type="string">
-                <name>action-label</name>
-                <value>Root</value>
-            </property>
-            <property type="activation-mode">
-                <name>activation-mode</name>
-                <value>disallowed</value>
-            </property>
-        </action>
-        <action id="a82ea12b-7161-418b-ae32-849ffe9b260f" type="root">
-            <actions>
-                <action-id>d66e7884-ce44-4356-b804-30b4e08889af</action-id>
-            </actions>
-            <property type="string">
-                <name>action-label</name>
-                <value>Root</value>
-            </property>
-            <property type="activation-mode">
-                <name>activation-mode</name>
-                <value>disallowed</value>
-            </property>
-        </action>
-        <action id="6f57cb20-85ed-4785-a2de-790723b08dcc" type="root">
-            <actions>
-                <action-id>a1a92872-651c-4ea7-87d4-bb9e7fca08a5</action-id>
-            </actions>
-            <property type="string">
-                <name>action-label</name>
-                <value>Root</value>
-            </property>
-            <property type="activation-mode">
-                <name>activation-mode</name>
-                <value>disallowed</value>
-            </property>
-        </action>
-        <action id="90e92a14-d832-4a10-8f94-f4da69f06846" type="root">
-            <actions>
-                <action-id>e563ef98-25e4-4ae0-95ef-ef63e3041fe7</action-id>
-            </actions>
-            <property type="string">
-                <name>action-label</name>
-                <value>Root</value>
-            </property>
-            <property type="activation-mode">
-                <name>activation-mode</name>
-                <value>disallowed</value>
-            </property>
-        </action>
-        <action id="f275d365-3f63-4465-a56c-64e711440e6b" type="root">
-            <actions>
-                <action-id>bb33c4ab-a812-45eb-8659-ccfc08a8265a</action-id>
-            </actions>
-            <property type="string">
-                <name>action-label</name>
-                <value>Root</value>
-            </property>
-            <property type="activation-mode">
-                <name>activation-mode</name>
-                <value>disallowed</value>
-            </property>
-        </action>
-        <action id="831c250a-5358-4e71-a4e0-ca4b04bffcad" type="root">
-            <actions>
-                <action-id>fd9dc16e-42e4-43f6-af2d-fc275689514f</action-id>
-            </actions>
-            <property type="string">
-                <name>action-label</name>
-                <value>Root</value>
-            </property>
-            <property type="activation-mode">
-                <name>activation-mode</name>
-                <value>disallowed</value>
-            </property>
-        </action>
-        <action id="dee2c4b0-4651-4d1b-b9bc-b1cd77f01efa" type="root">
-            <actions>
-                <action-id>55ce4685-1954-416d-8c53-ee8d376207b3</action-id>
-            </actions>
-            <property type="string">
-                <name>action-label</name>
-                <value>Root</value>
-            </property>
-            <property type="activation-mode">
-                <name>activation-mode</name>
-                <value>disallowed</value>
-            </property>
-        </action>
-        <action id="861a3556-dfcb-4632-a756-417f9f327ecf" type="root">
-            <actions>
-                <action-id>fe348c1f-58e7-4e3d-aa26-a4e1552aa63f</action-id>
-            </actions>
-            <property type="string">
-                <name>action-label</name>
-                <value>Root</value>
-            </property>
-            <property type="activation-mode">
-                <name>activation-mode</name>
-                <value>disallowed</value>
-            </property>
-        </action>
-        <action id="f28c1c4a-341e-4fce-b810-7b220e0d3131" type="root">
-            <actions>
-                <action-id>99dde20c-6440-482b-9d97-2093723f6be9</action-id>
-            </actions>
-            <property type="string">
-                <name>action-label</name>
-                <value>Root</value>
-            </property>
-            <property type="activation-mode">
-                <name>activation-mode</name>
-                <value>disallowed</value>
-            </property>
-        </action>
-        <action id="f34dda01-f553-4c1b-a20c-85730dacf40e" type="root">
-            <actions>
-                <action-id>f2bb27a1-ceb9-474e-91df-b0256f7a6d1f</action-id>
-            </actions>
-            <property type="string">
-                <name>action-label</name>
-                <value>Root</value>
-            </property>
-            <property type="activation-mode">
-                <name>activation-mode</name>
-                <value>disallowed</value>
-            </property>
-        </action>
-        <action id="d62cf983-fdcc-4445-ad76-1e7e7c79d7f1" type="root">
-            <actions>
-                <action-id>19c1099d-cb3c-4d61-8efa-5ed57307b51c</action-id>
-            </actions>
-            <property type="string">
-                <name>action-label</name>
-                <value>Root</value>
-            </property>
-            <property type="activation-mode">
-                <name>activation-mode</name>
-                <value>disallowed</value>
-            </property>
-        </action>
-        <action id="451674aa-1f8c-4272-9761-51a0adeaf20a" type="root">
-            <actions>
-                <action-id>c5b6a322-3ab4-490b-be38-b0ab657b69e5</action-id>
-            </actions>
-            <property type="string">
-                <name>action-label</name>
-                <value>Root</value>
-            </property>
-            <property type="activation-mode">
-                <name>activation-mode</name>
-                <value>disallowed</value>
-            </property>
-        </action>
-        <action id="299332de-f2ee-450c-963e-43b9895cb22a" type="root">
-            <actions>
-                <action-id>d46d9eb7-b9c8-4773-8fd5-6c455ff00076</action-id>
-            </actions>
-            <property type="string">
-                <name>action-label</name>
-                <value>Root</value>
-            </property>
-            <property type="activation-mode">
-                <name>activation-mode</name>
-                <value>disallowed</value>
-            </property>
-        </action>
-        <action id="e1a8eb0b-7565-45a7-820e-f945b2d82ddb" type="root">
-            <actions>
-                <action-id>14806e43-387c-4910-b943-f9f10a7bedb3</action-id>
-            </actions>
-            <property type="string">
-                <name>action-label</name>
-                <value>Root</value>
-            </property>
-            <property type="activation-mode">
-                <name>activation-mode</name>
-                <value>disallowed</value>
-            </property>
-        </action>
-        <action id="4962d1a2-de5d-4e32-87cf-8d6bc5b4f2ea" type="root">
-            <actions>
-                <action-id>5aa96907-ccae-46cf-b959-90622e81f99b</action-id>
-            </actions>
-            <property type="string">
-                <name>action-label</name>
-                <value>Root</value>
-            </property>
-            <property type="activation-mode">
-                <name>activation-mode</name>
-                <value>disallowed</value>
-            </property>
-        </action>
-        <action id="d536d8bc-7e4c-48e9-847c-c9cc3a0aef3c" type="root">
-            <actions>
-                <action-id>4d2b44cb-4483-4528-b151-84eee1744831</action-id>
-            </actions>
-            <property type="string">
-                <name>action-label</name>
-                <value>Root</value>
-            </property>
-            <property type="activation-mode">
-                <name>activation-mode</name>
-                <value>disallowed</value>
-            </property>
-        </action>
-        <action id="f5dd2aeb-64bf-4602-9334-9f52c54367b1" type="root">
-            <actions>
-                <action-id>2766e752-242a-4815-bd77-3e20fa1ab4f8</action-id>
-            </actions>
-            <property type="string">
-                <name>action-label</name>
-                <value>Root</value>
-            </property>
-            <property type="activation-mode">
-                <name>activation-mode</name>
-                <value>disallowed</value>
-            </property>
-        </action>
-        <action id="2c199fd8-ddc6-4152-97c1-2cca802205ec" type="root">
-            <actions>
-                <action-id>bc67029c-5bb7-442f-8f61-5339086db0d6</action-id>
-            </actions>
-            <property type="string">
-                <name>action-label</name>
-                <value>Root</value>
-            </property>
-            <property type="activation-mode">
-                <name>activation-mode</name>
-                <value>disallowed</value>
-            </property>
-        </action>
-        <action id="f5ee04ad-84fe-42f8-b744-e5a6413667bc" type="root">
-            <actions>
-                <action-id>c6f645f3-9e26-44a0-9512-fd4d1fbf8fe0</action-id>
-            </actions>
-            <property type="string">
-                <name>action-label</name>
-                <value>Root</value>
-            </property>
-            <property type="activation-mode">
-                <name>activation-mode</name>
-                <value>disallowed</value>
-            </property>
-        </action>
-        <action id="3761ae7c-ad5d-414e-87d7-5141a664a73b" type="root">
-            <actions>
-                <action-id>8c6ded73-35e2-45d6-98aa-7e7ddc08c742</action-id>
-            </actions>
-            <property type="string">
-                <name>action-label</name>
-                <value>Root</value>
-            </property>
-            <property type="activation-mode">
-                <name>activation-mode</name>
-                <value>disallowed</value>
-            </property>
-        </action>
-        <action id="34164f58-57c5-413c-9719-644f779334f2" type="root">
-            <actions>
-                <action-id>defccd7e-58d4-4617-99aa-b7f6ca68035e</action-id>
-            </actions>
-            <property type="string">
-                <name>action-label</name>
-                <value>Root</value>
-            </property>
-            <property type="activation-mode">
-                <name>activation-mode</name>
-                <value>disallowed</value>
-            </property>
-        </action>
-        <action id="f77ef695-8fcc-44bb-84bf-9e50e0c622ec" type="root">
-            <actions>
-                <action-id>fed38281-2f8b-4bb7-bc75-961168900924</action-id>
-            </actions>
-            <property type="string">
-                <name>action-label</name>
-                <value>Root</value>
-            </property>
-            <property type="activation-mode">
-                <name>activation-mode</name>
-                <value>disallowed</value>
-            </property>
-        </action>
-        <action id="a1db339c-855f-4170-b340-e2055fcdf84a" type="root">
-            <actions>
-                <action-id>67ab884b-9553-401c-8072-cf1e0d8894ee</action-id>
-            </actions>
-            <property type="string">
-                <name>action-label</name>
-                <value>Root</value>
-            </property>
-            <property type="activation-mode">
-                <name>activation-mode</name>
-                <value>disallowed</value>
-            </property>
-        </action>
-        <action id="cab80e9d-fecd-4ad8-b13e-7c450e1882bf" type="root">
-            <actions>
-                <action-id>9f30e757-2ee6-4406-a2ca-92c34860a1b0</action-id>
-            </actions>
-            <property type="string">
-                <name>action-label</name>
-                <value>Root</value>
-            </property>
-            <property type="activation-mode">
-                <name>activation-mode</name>
-                <value>disallowed</value>
-            </property>
-        </action>
-        <action id="89c5d4e0-deef-4273-90e2-7f9435065cfb" type="root">
-            <actions>
-                <action-id>8fae700e-918a-4786-aa67-b3455ac9e0cf</action-id>
-            </actions>
-            <property type="string">
-                <name>action-label</name>
-                <value>Root</value>
-            </property>
-            <property type="activation-mode">
-                <name>activation-mode</name>
-                <value>disallowed</value>
-            </property>
-        </action>
-        <action id="0380999c-2ad0-4ab8-b7a9-67775d118e8b" type="root">
-            <actions>
-                <action-id>549f1d3c-0a5b-4643-a8cb-87581720f508</action-id>
-            </actions>
-            <property type="string">
-                <name>action-label</name>
-                <value>Root</value>
-            </property>
-            <property type="activation-mode">
-                <name>activation-mode</name>
-                <value>disallowed</value>
-            </property>
-        </action>
-        <action id="08d55a60-ff4e-46fa-b0d9-6b2c98fdb5d6" type="root">
-            <actions>
-                <action-id>63fd7423-3085-43e7-9331-d2c766155843</action-id>
-            </actions>
-            <property type="string">
-                <name>action-label</name>
-                <value>Root</value>
-            </property>
-            <property type="activation-mode">
-                <name>activation-mode</name>
-                <value>disallowed</value>
-            </property>
-        </action>
-        <action id="8013a605-8aa5-4b79-8e8c-ce81a0750846" type="root">
-            <actions>
-                <action-id>070be362-d856-42c4-93ac-3aef2b6b1f65</action-id>
-            </actions>
-            <property type="string">
-                <name>action-label</name>
-                <value>Root</value>
-            </property>
-            <property type="activation-mode">
-                <name>activation-mode</name>
-                <value>disallowed</value>
-            </property>
-        </action>
-        <action id="3c530b0c-9961-4d55-a1d0-03ff2cceb44a" type="root">
-            <actions>
-                <action-id>7e7c9420-5076-4e78-8a36-b7d6bcdcd54f</action-id>
-            </actions>
-            <property type="string">
-                <name>action-label</name>
-                <value>Root</value>
-            </property>
-            <property type="activation-mode">
-                <name>activation-mode</name>
-                <value>disallowed</value>
-            </property>
-        </action>
-        <action id="a3b03346-8417-4875-b276-8779b9e44d34" type="root">
-            <actions>
-                <action-id>176079dc-51e9-4616-82dd-7adc745624c6</action-id>
-            </actions>
-            <property type="string">
-                <name>action-label</name>
-                <value>Root</value>
-            </property>
-            <property type="activation-mode">
-                <name>activation-mode</name>
-                <value>disallowed</value>
-            </property>
-        </action>
-        <action id="a6cd1613-7722-40f5-84ca-c7b95b5b1332" type="root">
-            <actions>
-                <action-id>6c952512-8444-4855-b7f8-4382a4bb5fd3</action-id>
-            </actions>
-            <property type="string">
-                <name>action-label</name>
-                <value>Root</value>
-            </property>
-            <property type="activation-mode">
-                <name>activation-mode</name>
-                <value>disallowed</value>
-            </property>
-        </action>
-        <action id="4b08f027-bb73-4e70-b028-bfe47e2065a7" type="root">
-            <actions>
-                <action-id>ffef133c-106b-4605-8560-95cd2e9825ec</action-id>
-            </actions>
-            <property type="string">
-                <name>action-label</name>
-                <value>Root</value>
-            </property>
-            <property type="activation-mode">
-                <name>activation-mode</name>
-                <value>disallowed</value>
-            </property>
-        </action>
-        <action id="3a495649-cef2-4a2a-84a7-202ff87332c0" type="root">
-            <actions>
-                <action-id>57d5eeec-57e8-40c7-9171-2bddf29f9b06</action-id>
-            </actions>
-            <property type="string">
-                <name>action-label</name>
-                <value>Root</value>
-            </property>
-            <property type="activation-mode">
-                <name>activation-mode</name>
-                <value>disallowed</value>
-            </property>
-        </action>
-        <action id="bfb310c1-620c-4df4-a52e-ae58b79f4483" type="root">
-            <actions>
-                <action-id>3eec368c-e228-43ca-b0f8-4d963b5fa4bc</action-id>
-            </actions>
-            <property type="string">
-                <name>action-label</name>
-                <value>Root</value>
-            </property>
-            <property type="activation-mode">
-                <name>activation-mode</name>
-                <value>disallowed</value>
-            </property>
-        </action>
-        <action id="9a9509ae-144a-46e1-91d7-bf0f3e009a9f" type="root">
-            <actions>
-                <action-id>a12a44ea-a5ac-43f7-89a3-56d09468d6a2</action-id>
-            </actions>
-            <property type="string">
-                <name>action-label</name>
-                <value>Root</value>
-            </property>
-            <property type="activation-mode">
-                <name>activation-mode</name>
-                <value>disallowed</value>
-            </property>
-        </action>
-        <action id="2cee4cfe-75a4-4643-9d16-6db258ca8b63" type="root">
-            <actions>
-                <action-id>e8c9732e-21ab-42e3-a67e-a07cc311a228</action-id>
-            </actions>
-            <property type="string">
-                <name>action-label</name>
-                <value>Root</value>
-            </property>
-            <property type="activation-mode">
-                <name>activation-mode</name>
-                <value>disallowed</value>
-            </property>
-        </action>
-        <action id="9d39f00f-e202-4d15-96a6-df16834c5bab" type="root">
-            <actions>
-                <action-id>79d9b444-dfcc-4792-8b94-a39fcd0529cf</action-id>
-            </actions>
-            <property type="string">
-                <name>action-label</name>
-                <value>Root</value>
-            </property>
-            <property type="activation-mode">
-                <name>activation-mode</name>
-                <value>disallowed</value>
-            </property>
-        </action>
-        <action id="30d2d02e-03f4-41fb-be21-aa71d95af132" type="root">
-            <actions>
-                <action-id>f4590065-65b0-4401-a742-dd5c878bba3b</action-id>
-            </actions>
-            <property type="string">
-                <name>action-label</name>
-                <value>Root</value>
-            </property>
-            <property type="activation-mode">
-                <name>activation-mode</name>
-                <value>disallowed</value>
-            </property>
-        </action>
-        <action id="057610b8-998d-4ce1-b81b-98ebb2120a89" type="root">
-            <actions>
-                <action-id>583cc797-9e84-42ce-8876-189dbabc61bc</action-id>
-            </actions>
-            <property type="string">
-                <name>action-label</name>
-                <value>Root</value>
-            </property>
-            <property type="activation-mode">
-                <name>activation-mode</name>
-                <value>disallowed</value>
-            </property>
-        </action>
-        <action id="29e4a648-2f46-4a4d-b489-ad0dce02a56a" type="root">
-            <actions>
-                <action-id>9b55371e-3af5-4618-aff3-c097a0b8eb66</action-id>
-            </actions>
-            <property type="string">
-                <name>action-label</name>
-                <value>Root</value>
-            </property>
-            <property type="activation-mode">
-                <name>activation-mode</name>
-                <value>disallowed</value>
-            </property>
-        </action>
-        <action id="576931e4-809f-4d6b-85a5-767848e7edaa" type="root">
-            <actions>
-                <action-id>a7c358f1-123d-4212-8b39-e359062e83cd</action-id>
-            </actions>
-            <property type="string">
-                <name>action-label</name>
-                <value>Root</value>
-            </property>
-            <property type="activation-mode">
-                <name>activation-mode</name>
-                <value>disallowed</value>
-            </property>
-        </action>
-        <action id="b06a1f3c-634c-4a73-a15c-d3b0ef8025ee" type="root">
-            <actions>
-                <action-id>625b9bd4-39b7-462a-a2dc-33a5289f69b2</action-id>
-            </actions>
-            <property type="string">
-                <name>action-label</name>
-                <value>Root</value>
-            </property>
-            <property type="activation-mode">
-                <name>activation-mode</name>
-                <value>disallowed</value>
-            </property>
-        </action>
-        <action id="dca20f37-8a6c-4984-bbc4-aaf8d14b906a" type="root">
-            <actions>
-                <action-id>8c9f2299-3ee3-42f8-bb60-29377af8dd86</action-id>
-            </actions>
-            <property type="string">
-                <name>action-label</name>
-                <value>Root</value>
-            </property>
-            <property type="activation-mode">
-                <name>activation-mode</name>
-                <value>disallowed</value>
-            </property>
-        </action>
-        <action id="520b983a-6ca3-42ca-bdaa-f22f1dd1de17" type="root">
-            <actions>
-                <action-id>c2051132-4544-48f6-9652-9993886a40b2</action-id>
-            </actions>
-            <property type="string">
-                <name>action-label</name>
-                <value>Root</value>
-            </property>
-            <property type="activation-mode">
-                <name>activation-mode</name>
-                <value>disallowed</value>
-            </property>
-        </action>
-        <action id="6ae587fb-b19a-438f-b859-46bdcd15b9bc" type="root">
-            <actions>
-                <action-id>fe04e133-dfd4-46bc-b4af-48b121b8acb4</action-id>
-            </actions>
-            <property type="string">
-                <name>action-label</name>
-                <value>Root</value>
-            </property>
-            <property type="activation-mode">
-                <name>activation-mode</name>
-                <value>disallowed</value>
-            </property>
-        </action>
-        <action id="d83cdd2f-5285-4dcd-a7ea-4ac8a775202a" type="root">
-            <actions>
-                <action-id>5b1c24ca-af99-439a-9409-ed4ecc418719</action-id>
-            </actions>
-            <property type="string">
-                <name>action-label</name>
-                <value>Root</value>
-            </property>
-            <property type="activation-mode">
-                <name>activation-mode</name>
-                <value>disallowed</value>
-            </property>
-        </action>
-        <action id="93b91e51-7a06-470c-87f2-e43eae44eb09" type="root">
-            <actions>
-                <action-id>a7d01611-1af7-463f-88d1-729dcad22eda</action-id>
-            </actions>
-            <property type="string">
-                <name>action-label</name>
-                <value>Root</value>
-            </property>
-            <property type="activation-mode">
-                <name>activation-mode</name>
-                <value>disallowed</value>
-            </property>
-        </action>
-        <action id="a56faa94-bb49-437b-b095-0b19c85a99ed" type="root">
-            <actions>
-                <action-id>26e34043-f8b8-4156-a1b0-cc622d6837fe</action-id>
-            </actions>
-            <property type="string">
-                <name>action-label</name>
-                <value>Root</value>
-            </property>
-            <property type="activation-mode">
-                <name>activation-mode</name>
-                <value>disallowed</value>
-            </property>
-        </action>
-        <action id="e6814edb-7f9c-4129-8df6-17758988847a" type="root">
-            <actions>
-                <action-id>9c52ca97-ab12-4df9-8b47-368e141ec74f</action-id>
-            </actions>
-            <property type="string">
-                <name>action-label</name>
-                <value>Root</value>
-            </property>
-            <property type="activation-mode">
-                <name>activation-mode</name>
-                <value>disallowed</value>
-            </property>
-        </action>
-        <action id="1a248cfd-3470-46e5-9c66-fc1a4f000804" type="root">
-            <actions>
-                <action-id>dd8ce2b3-f058-4d35-a17b-c94fe02e0b60</action-id>
-            </actions>
-            <property type="string">
-                <name>action-label</name>
-                <value>Root</value>
-            </property>
-            <property type="activation-mode">
-                <name>activation-mode</name>
-                <value>disallowed</value>
-            </property>
-        </action>
-        <action id="0cd8900c-0ba3-46a1-bf32-34a147922ec7" type="root">
-            <actions>
-                <action-id>98153c75-b9da-46a2-9c49-d8daba38c777</action-id>
             </actions>
             <property type="string">
                 <name>action-label</name>
@@ -12086,6 +9422,786 @@
             <property type="string">
                 <name>action-label</name>
                 <value>Double-Tap - Camera / Reset 3rd Person</value>
+            </property>
+            <property type="activation-mode">
+                <name>activation-mode</name>
+                <value>disallowed</value>
+            </property>
+        </action>
+        <action id="9eb3844c-a976-404a-a7d3-53fe0fec9dcb" type="map-to-vjoy">
+            <property type="int">
+                <name>vjoy-device-id</name>
+                <value>1</value>
+            </property>
+            <property type="int">
+                <name>vjoy-input-id</name>
+                <value>37</value>
+            </property>
+            <property type="input_type">
+                <name>vjoy-input-type</name>
+                <value>button</value>
+            </property>
+            <property type="bool">
+                <name>button-inverted</name>
+                <value>False</value>
+            </property>
+            <property type="string">
+                <name>action-label</name>
+                <value>T-FLAP.2</value>
+            </property>
+            <property type="activation-mode">
+                <name>activation-mode</name>
+                <value>both</value>
+            </property>
+        </action>
+        <action id="745fc8e6-7e02-4a04-aac2-488d67e5f35d" type="root">
+            <actions>
+                <action-id>9eb3844c-a976-404a-a7d3-53fe0fec9dcb</action-id>
+            </actions>
+            <property type="string">
+                <name>action-label</name>
+                <value>Root</value>
+            </property>
+            <property type="activation-mode">
+                <name>activation-mode</name>
+                <value>disallowed</value>
+            </property>
+        </action>
+        <action id="36b2c9ce-a723-45f7-ad3c-903e8d0259be" type="map-to-vjoy">
+            <property type="int">
+                <name>vjoy-device-id</name>
+                <value>1</value>
+            </property>
+            <property type="int">
+                <name>vjoy-input-id</name>
+                <value>38</value>
+            </property>
+            <property type="input_type">
+                <name>vjoy-input-type</name>
+                <value>button</value>
+            </property>
+            <property type="bool">
+                <name>button-inverted</name>
+                <value>False</value>
+            </property>
+            <property type="string">
+                <name>action-label</name>
+                <value>T-FLAP.3</value>
+            </property>
+            <property type="activation-mode">
+                <name>activation-mode</name>
+                <value>both</value>
+            </property>
+        </action>
+        <action id="913348a1-fb3a-4b14-990e-138f7b094b82" type="root">
+            <actions>
+                <action-id>36b2c9ce-a723-45f7-ad3c-903e8d0259be</action-id>
+            </actions>
+            <property type="string">
+                <name>action-label</name>
+                <value>Root</value>
+            </property>
+            <property type="activation-mode">
+                <name>activation-mode</name>
+                <value>disallowed</value>
+            </property>
+        </action>
+        <action id="2baa2887-ee1c-41e6-af09-b09022b87afd" type="map-to-vjoy">
+            <property type="int">
+                <name>vjoy-device-id</name>
+                <value>1</value>
+            </property>
+            <property type="int">
+                <name>vjoy-input-id</name>
+                <value>39</value>
+            </property>
+            <property type="input_type">
+                <name>vjoy-input-type</name>
+                <value>button</value>
+            </property>
+            <property type="bool">
+                <name>button-inverted</name>
+                <value>False</value>
+            </property>
+            <property type="string">
+                <name>action-label</name>
+                <value>T-FLAP.4</value>
+            </property>
+            <property type="activation-mode">
+                <name>activation-mode</name>
+                <value>both</value>
+            </property>
+        </action>
+        <action id="0e0f06f3-e396-4d48-946e-d3b10bbe60f9" type="root">
+            <actions>
+                <action-id>2baa2887-ee1c-41e6-af09-b09022b87afd</action-id>
+            </actions>
+            <property type="string">
+                <name>action-label</name>
+                <value>Root</value>
+            </property>
+            <property type="activation-mode">
+                <name>activation-mode</name>
+                <value>disallowed</value>
+            </property>
+        </action>
+        <action id="54272490-8317-4ba3-9de4-9e3ef17a474c" type="map-to-vjoy">
+            <property type="int">
+                <name>vjoy-device-id</name>
+                <value>1</value>
+            </property>
+            <property type="int">
+                <name>vjoy-input-id</name>
+                <value>40</value>
+            </property>
+            <property type="input_type">
+                <name>vjoy-input-type</name>
+                <value>button</value>
+            </property>
+            <property type="bool">
+                <name>button-inverted</name>
+                <value>False</value>
+            </property>
+            <property type="string">
+                <name>action-label</name>
+                <value>T-FLAP.5</value>
+            </property>
+            <property type="activation-mode">
+                <name>activation-mode</name>
+                <value>both</value>
+            </property>
+        </action>
+        <action id="ba7dc3b0-3bc6-48d6-877f-2f07292e587e" type="root">
+            <actions>
+                <action-id>54272490-8317-4ba3-9de4-9e3ef17a474c</action-id>
+            </actions>
+            <property type="string">
+                <name>action-label</name>
+                <value>Root</value>
+            </property>
+            <property type="activation-mode">
+                <name>activation-mode</name>
+                <value>disallowed</value>
+            </property>
+        </action>
+        <action id="9ae5e9d0-25e7-488f-94ff-f9650f41c6fd" type="map-to-vjoy">
+            <property type="int">
+                <name>vjoy-device-id</name>
+                <value>1</value>
+            </property>
+            <property type="int">
+                <name>vjoy-input-id</name>
+                <value>109</value>
+            </property>
+            <property type="input_type">
+                <name>vjoy-input-type</name>
+                <value>button</value>
+            </property>
+            <property type="bool">
+                <name>button-inverted</name>
+                <value>False</value>
+            </property>
+            <property type="string">
+                <name>action-label</name>
+                <value>Map to vJoy</value>
+            </property>
+            <property type="activation-mode">
+                <name>activation-mode</name>
+                <value>both</value>
+            </property>
+        </action>
+        <action id="e575e5e2-de3d-4786-8642-a711e8a4b72a" type="root">
+            <actions>
+                <action-id>9ae5e9d0-25e7-488f-94ff-f9650f41c6fd</action-id>
+            </actions>
+            <property type="string">
+                <name>action-label</name>
+                <value>Root</value>
+            </property>
+            <property type="activation-mode">
+                <name>activation-mode</name>
+                <value>disallowed</value>
+            </property>
+        </action>
+        <action id="425e0d1f-0450-4486-b531-45b167ff02bd" type="map-to-vjoy">
+            <property type="int">
+                <name>vjoy-device-id</name>
+                <value>1</value>
+            </property>
+            <property type="int">
+                <name>vjoy-input-id</name>
+                <value>110</value>
+            </property>
+            <property type="input_type">
+                <name>vjoy-input-type</name>
+                <value>button</value>
+            </property>
+            <property type="bool">
+                <name>button-inverted</name>
+                <value>False</value>
+            </property>
+            <property type="string">
+                <name>action-label</name>
+                <value>T-BRK.forward</value>
+            </property>
+            <property type="activation-mode">
+                <name>activation-mode</name>
+                <value>both</value>
+            </property>
+        </action>
+        <action id="81cf9e4f-3ba5-4f06-a881-a5536829b10b" type="root">
+            <actions>
+                <action-id>425e0d1f-0450-4486-b531-45b167ff02bd</action-id>
+            </actions>
+            <property type="string">
+                <name>action-label</name>
+                <value>Root</value>
+            </property>
+            <property type="activation-mode">
+                <name>activation-mode</name>
+                <value>disallowed</value>
+            </property>
+        </action>
+        <action id="6456a289-3115-4f53-a29c-4d80555254ad" type="map-to-vjoy">
+            <property type="int">
+                <name>vjoy-device-id</name>
+                <value>1</value>
+            </property>
+            <property type="int">
+                <name>vjoy-input-id</name>
+                <value>111</value>
+            </property>
+            <property type="input_type">
+                <name>vjoy-input-type</name>
+                <value>button</value>
+            </property>
+            <property type="bool">
+                <name>button-inverted</name>
+                <value>False</value>
+            </property>
+            <property type="string">
+                <name>action-label</name>
+                <value>T-BRK.back</value>
+            </property>
+            <property type="activation-mode">
+                <name>activation-mode</name>
+                <value>both</value>
+            </property>
+        </action>
+        <action id="c6f5e043-3f52-482f-a361-ddd7a7ba39a4" type="root">
+            <actions>
+                <action-id>6456a289-3115-4f53-a29c-4d80555254ad</action-id>
+            </actions>
+            <property type="string">
+                <name>action-label</name>
+                <value>Root</value>
+            </property>
+            <property type="activation-mode">
+                <name>activation-mode</name>
+                <value>disallowed</value>
+            </property>
+        </action>
+        <action id="1e5bcdc1-b823-4e2a-9269-2a57b577e57d" type="map-to-vjoy">
+            <property type="int">
+                <name>vjoy-device-id</name>
+                <value>1</value>
+            </property>
+            <property type="int">
+                <name>vjoy-input-id</name>
+                <value>112</value>
+            </property>
+            <property type="input_type">
+                <name>vjoy-input-type</name>
+                <value>button</value>
+            </property>
+            <property type="bool">
+                <name>button-inverted</name>
+                <value>False</value>
+            </property>
+            <property type="string">
+                <name>action-label</name>
+                <value>T-WPN.press-in</value>
+            </property>
+            <property type="activation-mode">
+                <name>activation-mode</name>
+                <value>both</value>
+            </property>
+        </action>
+        <action id="eb53ab69-ce90-416e-8ab1-4ee7b000bfc0" type="root">
+            <actions>
+                <action-id>1e5bcdc1-b823-4e2a-9269-2a57b577e57d</action-id>
+            </actions>
+            <property type="string">
+                <name>action-label</name>
+                <value>Root</value>
+            </property>
+            <property type="activation-mode">
+                <name>activation-mode</name>
+                <value>disallowed</value>
+            </property>
+        </action>
+        <action id="7115723c-8673-4486-9361-d4c98958df38" type="map-to-vjoy">
+            <property type="int">
+                <name>vjoy-device-id</name>
+                <value>1</value>
+            </property>
+            <property type="int">
+                <name>vjoy-input-id</name>
+                <value>113</value>
+            </property>
+            <property type="input_type">
+                <name>vjoy-input-type</name>
+                <value>button</value>
+            </property>
+            <property type="bool">
+                <name>button-inverted</name>
+                <value>False</value>
+            </property>
+            <property type="string">
+                <name>action-label</name>
+                <value>T-WPN.right</value>
+            </property>
+            <property type="activation-mode">
+                <name>activation-mode</name>
+                <value>both</value>
+            </property>
+        </action>
+        <action id="ef28c202-8930-4a4f-b37f-4bbc8ec4d351" type="root">
+            <actions>
+                <action-id>7115723c-8673-4486-9361-d4c98958df38</action-id>
+            </actions>
+            <property type="string">
+                <name>action-label</name>
+                <value>Root</value>
+            </property>
+            <property type="activation-mode">
+                <name>activation-mode</name>
+                <value>disallowed</value>
+            </property>
+        </action>
+        <action id="b891749b-c730-45e4-9c7c-bb7a5ea6f25e" type="map-to-vjoy">
+            <property type="int">
+                <name>vjoy-device-id</name>
+                <value>1</value>
+            </property>
+            <property type="int">
+                <name>vjoy-input-id</name>
+                <value>114</value>
+            </property>
+            <property type="input_type">
+                <name>vjoy-input-type</name>
+                <value>button</value>
+            </property>
+            <property type="bool">
+                <name>button-inverted</name>
+                <value>False</value>
+            </property>
+            <property type="string">
+                <name>action-label</name>
+                <value>T-WPN.middle</value>
+            </property>
+            <property type="activation-mode">
+                <name>activation-mode</name>
+                <value>both</value>
+            </property>
+        </action>
+        <action id="bdd3bae2-f8a0-4323-844c-a045823db781" type="root">
+            <actions>
+                <action-id>b891749b-c730-45e4-9c7c-bb7a5ea6f25e</action-id>
+            </actions>
+            <property type="string">
+                <name>action-label</name>
+                <value>Root</value>
+            </property>
+            <property type="activation-mode">
+                <name>activation-mode</name>
+                <value>disallowed</value>
+            </property>
+        </action>
+        <action id="47df69a5-628a-4545-bb2e-e704b22badd2" type="map-to-vjoy">
+            <property type="int">
+                <name>vjoy-device-id</name>
+                <value>1</value>
+            </property>
+            <property type="int">
+                <name>vjoy-input-id</name>
+                <value>115</value>
+            </property>
+            <property type="input_type">
+                <name>vjoy-input-type</name>
+                <value>button</value>
+            </property>
+            <property type="bool">
+                <name>button-inverted</name>
+                <value>False</value>
+            </property>
+            <property type="string">
+                <name>action-label</name>
+                <value>T-WPN.down</value>
+            </property>
+            <property type="activation-mode">
+                <name>activation-mode</name>
+                <value>both</value>
+            </property>
+        </action>
+        <action id="ffde3245-77ac-4268-a016-f181d919e085" type="root">
+            <actions>
+                <action-id>47df69a5-628a-4545-bb2e-e704b22badd2</action-id>
+            </actions>
+            <property type="string">
+                <name>action-label</name>
+                <value>Root</value>
+            </property>
+            <property type="activation-mode">
+                <name>activation-mode</name>
+                <value>disallowed</value>
+            </property>
+        </action>
+        <action id="c25fea01-d250-410a-9957-6730e0612a62" type="map-to-vjoy">
+            <property type="int">
+                <name>vjoy-device-id</name>
+                <value>1</value>
+            </property>
+            <property type="int">
+                <name>vjoy-input-id</name>
+                <value>116</value>
+            </property>
+            <property type="input_type">
+                <name>vjoy-input-type</name>
+                <value>button</value>
+            </property>
+            <property type="bool">
+                <name>button-inverted</name>
+                <value>False</value>
+            </property>
+            <property type="string">
+                <name>action-label</name>
+                <value>T-WPN.up</value>
+            </property>
+            <property type="activation-mode">
+                <name>activation-mode</name>
+                <value>both</value>
+            </property>
+        </action>
+        <action id="fc8948ec-9c42-46d0-95ba-2c3d0a034ac5" type="root">
+            <actions>
+                <action-id>c25fea01-d250-410a-9957-6730e0612a62</action-id>
+            </actions>
+            <property type="string">
+                <name>action-label</name>
+                <value>Root</value>
+            </property>
+            <property type="activation-mode">
+                <name>activation-mode</name>
+                <value>disallowed</value>
+            </property>
+        </action>
+        <action id="9859e6ef-988f-476d-9630-d57270b52440" type="map-to-vjoy">
+            <property type="int">
+                <name>vjoy-device-id</name>
+                <value>1</value>
+            </property>
+            <property type="int">
+                <name>vjoy-input-id</name>
+                <value>117</value>
+            </property>
+            <property type="input_type">
+                <name>vjoy-input-type</name>
+                <value>button</value>
+            </property>
+            <property type="bool">
+                <name>button-inverted</name>
+                <value>False</value>
+            </property>
+            <property type="string">
+                <name>action-label</name>
+                <value>T-COM.press-in</value>
+            </property>
+            <property type="activation-mode">
+                <name>activation-mode</name>
+                <value>both</value>
+            </property>
+        </action>
+        <action id="dd03afb3-41c8-4cfc-ac3f-e7d9d6f7f44f" type="root">
+            <actions>
+                <action-id>9859e6ef-988f-476d-9630-d57270b52440</action-id>
+            </actions>
+            <property type="string">
+                <name>action-label</name>
+                <value>Root</value>
+            </property>
+            <property type="activation-mode">
+                <name>activation-mode</name>
+                <value>disallowed</value>
+            </property>
+        </action>
+        <action id="18e072f8-10a3-4a74-b117-da50bd7035b6" type="map-to-vjoy">
+            <property type="int">
+                <name>vjoy-device-id</name>
+                <value>1</value>
+            </property>
+            <property type="int">
+                <name>vjoy-input-id</name>
+                <value>118</value>
+            </property>
+            <property type="input_type">
+                <name>vjoy-input-type</name>
+                <value>button</value>
+            </property>
+            <property type="bool">
+                <name>button-inverted</name>
+                <value>False</value>
+            </property>
+            <property type="string">
+                <name>action-label</name>
+                <value>T-COM.right</value>
+            </property>
+            <property type="activation-mode">
+                <name>activation-mode</name>
+                <value>both</value>
+            </property>
+        </action>
+        <action id="1a51085c-a112-4761-9153-ea4ad72d01b4" type="root">
+            <actions>
+                <action-id>18e072f8-10a3-4a74-b117-da50bd7035b6</action-id>
+            </actions>
+            <property type="string">
+                <name>action-label</name>
+                <value>Root</value>
+            </property>
+            <property type="activation-mode">
+                <name>activation-mode</name>
+                <value>disallowed</value>
+            </property>
+        </action>
+        <action id="ea190486-dbbb-4ae2-8245-74c786111576" type="map-to-vjoy">
+            <property type="int">
+                <name>vjoy-device-id</name>
+                <value>1</value>
+            </property>
+            <property type="int">
+                <name>vjoy-input-id</name>
+                <value>119</value>
+            </property>
+            <property type="input_type">
+                <name>vjoy-input-type</name>
+                <value>button</value>
+            </property>
+            <property type="bool">
+                <name>button-inverted</name>
+                <value>False</value>
+            </property>
+            <property type="string">
+                <name>action-label</name>
+                <value>T-COM.left</value>
+            </property>
+            <property type="activation-mode">
+                <name>activation-mode</name>
+                <value>both</value>
+            </property>
+        </action>
+        <action id="18f87d77-7e33-456c-8a39-72779f07550b" type="root">
+            <actions>
+                <action-id>ea190486-dbbb-4ae2-8245-74c786111576</action-id>
+            </actions>
+            <property type="string">
+                <name>action-label</name>
+                <value>Root</value>
+            </property>
+            <property type="activation-mode">
+                <name>activation-mode</name>
+                <value>disallowed</value>
+            </property>
+        </action>
+        <action id="41ddc171-0d60-435a-8b7e-61828598b853" type="map-to-vjoy">
+            <property type="int">
+                <name>vjoy-device-id</name>
+                <value>1</value>
+            </property>
+            <property type="int">
+                <name>vjoy-input-id</name>
+                <value>120</value>
+            </property>
+            <property type="input_type">
+                <name>vjoy-input-type</name>
+                <value>button</value>
+            </property>
+            <property type="bool">
+                <name>button-inverted</name>
+                <value>False</value>
+            </property>
+            <property type="string">
+                <name>action-label</name>
+                <value>T-COM.down</value>
+            </property>
+            <property type="activation-mode">
+                <name>activation-mode</name>
+                <value>both</value>
+            </property>
+        </action>
+        <action id="a85a4002-46e5-4230-99c5-13b77354c144" type="root">
+            <actions>
+                <action-id>41ddc171-0d60-435a-8b7e-61828598b853</action-id>
+            </actions>
+            <property type="string">
+                <name>action-label</name>
+                <value>Root</value>
+            </property>
+            <property type="activation-mode">
+                <name>activation-mode</name>
+                <value>disallowed</value>
+            </property>
+        </action>
+        <action id="d67368e4-5320-4f2a-b2b0-152ce73223e3" type="map-to-vjoy">
+            <property type="int">
+                <name>vjoy-device-id</name>
+                <value>1</value>
+            </property>
+            <property type="int">
+                <name>vjoy-input-id</name>
+                <value>121</value>
+            </property>
+            <property type="input_type">
+                <name>vjoy-input-type</name>
+                <value>button</value>
+            </property>
+            <property type="bool">
+                <name>button-inverted</name>
+                <value>False</value>
+            </property>
+            <property type="string">
+                <name>action-label</name>
+                <value>T-COM.up</value>
+            </property>
+            <property type="activation-mode">
+                <name>activation-mode</name>
+                <value>both</value>
+            </property>
+        </action>
+        <action id="062a7124-53cb-444e-b7da-a9c6ab37a4d2" type="root">
+            <actions>
+                <action-id>d67368e4-5320-4f2a-b2b0-152ce73223e3</action-id>
+            </actions>
+            <property type="string">
+                <name>action-label</name>
+                <value>Root</value>
+            </property>
+            <property type="activation-mode">
+                <name>activation-mode</name>
+                <value>disallowed</value>
+            </property>
+        </action>
+        <action id="04af1cbd-b189-4200-b676-4d70111f2936" type="map-to-vjoy">
+            <property type="int">
+                <name>vjoy-device-id</name>
+                <value>1</value>
+            </property>
+            <property type="int">
+                <name>vjoy-input-id</name>
+                <value>122</value>
+            </property>
+            <property type="input_type">
+                <name>vjoy-input-type</name>
+                <value>button</value>
+            </property>
+            <property type="bool">
+                <name>button-inverted</name>
+                <value>False</value>
+            </property>
+            <property type="string">
+                <name>action-label</name>
+                <value>T-M1.press-in</value>
+            </property>
+            <property type="activation-mode">
+                <name>activation-mode</name>
+                <value>both</value>
+            </property>
+        </action>
+        <action id="95d2c52a-2702-42a6-9b3a-310709e08373" type="root">
+            <actions>
+                <action-id>04af1cbd-b189-4200-b676-4d70111f2936</action-id>
+            </actions>
+            <property type="string">
+                <name>action-label</name>
+                <value>Root</value>
+            </property>
+            <property type="activation-mode">
+                <name>activation-mode</name>
+                <value>disallowed</value>
+            </property>
+        </action>
+        <action id="1af07a48-22ad-4e0d-b7b6-8e7a786a8c13" type="map-to-vjoy">
+            <property type="int">
+                <name>vjoy-device-id</name>
+                <value>1</value>
+            </property>
+            <property type="int">
+                <name>vjoy-input-id</name>
+                <value>123</value>
+            </property>
+            <property type="input_type">
+                <name>vjoy-input-type</name>
+                <value>button</value>
+            </property>
+            <property type="bool">
+                <name>button-inverted</name>
+                <value>False</value>
+            </property>
+            <property type="string">
+                <name>action-label</name>
+                <value>T-E3.up</value>
+            </property>
+            <property type="activation-mode">
+                <name>activation-mode</name>
+                <value>both</value>
+            </property>
+        </action>
+        <action id="b3d35c19-b5c5-443e-9af7-0ae70b8b4190" type="root">
+            <actions>
+                <action-id>1af07a48-22ad-4e0d-b7b6-8e7a786a8c13</action-id>
+            </actions>
+            <property type="string">
+                <name>action-label</name>
+                <value>Root</value>
+            </property>
+            <property type="activation-mode">
+                <name>activation-mode</name>
+                <value>disallowed</value>
+            </property>
+        </action>
+        <action id="db1efcec-6dae-4ccf-aba6-d55791db8ad9" type="map-to-vjoy">
+            <property type="int">
+                <name>vjoy-device-id</name>
+                <value>1</value>
+            </property>
+            <property type="int">
+                <name>vjoy-input-id</name>
+                <value>124</value>
+            </property>
+            <property type="input_type">
+                <name>vjoy-input-type</name>
+                <value>button</value>
+            </property>
+            <property type="bool">
+                <name>button-inverted</name>
+                <value>False</value>
+            </property>
+            <property type="string">
+                <name>action-label</name>
+                <value>T-E3.down</value>
+            </property>
+            <property type="activation-mode">
+                <name>activation-mode</name>
+                <value>both</value>
+            </property>
+        </action>
+        <action id="7a3466f1-1e08-43a9-a492-2b1dcd2fa377" type="root">
+            <actions>
+                <action-id>db1efcec-6dae-4ccf-aba6-d55791db8ad9</action-id>
+            </actions>
+            <property type="string">
+                <name>action-label</name>
+                <value>Root</value>
             </property>
             <property type="activation-mode">
                 <name>activation-mode</name>

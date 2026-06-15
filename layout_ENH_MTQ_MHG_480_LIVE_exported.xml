@@ -38,22 +38,22 @@
  <modifiers />
  <actionmap name="seat_general">
   <action name="v_eject">
-   <rebind input="js1_button104"/>
+   <rebind input="js2_button50"/>
   </action>
   <action name="v_emergency_exit">
-   <rebind input="js1_button106"/>
+   <rebind input="js2_button54"/>
   </action>
   <action name="v_enter_remote_turret_1">
    <rebind input="kb1_up"/>
-   <rebind input="js1_button56"/>
+   <rebind input="js1_button61"/>
   </action>
   <action name="v_enter_remote_turret_2">
    <rebind input="kb1_right"/>
-   <rebind input="js1_button54"/>
+   <rebind input="js1_button59"/>
   </action>
   <action name="v_enter_remote_turret_3">
    <rebind input="kb1_left"/>
-   <rebind input="js1_button53"/>
+   <rebind input="js1_button58"/>
   </action>
   <action name="v_light_amplification_toggle">
    <rebind input="js1_button60"/>
@@ -74,7 +74,7 @@
    <rebind input="js2_button2"/>
   </action>
   <action name="v_view_look_behind">
-   <rebind input="js1_button50"/>
+   <rebind input="js1_button55"/>
   </action>
  </actionmap>
  <actionmap name="spaceship_general">
@@ -85,7 +85,7 @@
    <rebind input="js2_ "/>
   </action>
   <action name="v_flightready">
-   <rebind input="js1_button47"/>
+   <rebind input="js1_button52"/>
   </action>
   <action name="v_self_destruct">
    <rebind input="js2_ "/>
@@ -105,13 +105,13 @@
    <rebind input="js2_ "/>
   </action>
   <action name="v_mfd_interact_cycle_backwards_short">
-   <rebind input="js2_button64"/>
+   <rebind input="js2_button113"/>
   </action>
   <action name="v_mfd_interact_cycle_forwards_long">
    <rebind input="js2_ "/>
   </action>
   <action name="v_mfd_interact_cycle_forwards_short">
-   <rebind input="js2_button68"/>
+   <rebind input="js2_button117"/>
   </action>
   <action name="v_mfd_movement_down_long">
    <rebind input="js2_ "/>
@@ -129,69 +129,69 @@
    <rebind input="js2_button5"/>
   </action>
   <action name="v_mfd_select_view_comms_short">
-   <rebind input="js2_button35"/>
+   <rebind input="js2_button65"/>
   </action>
   <action name="v_mfd_select_view_configuration_short">
-   <rebind input="js2_button34"/>
+   <rebind input="js2_button64"/>
   </action>
   <action name="v_mfd_select_view_diagnostics_short">
-   <rebind input="js2_button37"/>
+   <rebind input="js2_button67"/>
   </action>
   <action name="v_mfd_select_view_ifcs_short">
-   <rebind input="js2_button36"/>
+   <rebind input="js2_button66"/>
   </action>
   <action name="v_mfd_select_view_resource_network_short">
-   <rebind input="js2_button38"/>
+   <rebind input="js2_button68"/>
   </action>
   <action name="v_mfd_select_view_scanning_short">
-   <rebind input="js2_button33"/>
+   <rebind input="js2_button63"/>
   </action>
   <action name="v_mfd_select_view_self_status_short">
-   <rebind input="js2_button31"/>
-  </action>
-  <action name="v_mfd_select_view_target_status_short">
-   <rebind input="js2_button32"/>
-  </action>
-  <action name="v_mfd_soft_select_cast_left_long">
    <rebind input="js2_button61"/>
   </action>
-  <action name="v_mfd_soft_select_cast_right_long">
+  <action name="v_mfd_select_view_target_status_short">
    <rebind input="js2_button62"/>
   </action>
+  <action name="v_mfd_soft_select_cast_left_long">
+   <rebind input="js2_button110"/>
+  </action>
+  <action name="v_mfd_soft_select_cast_right_long">
+   <rebind input="js2_button111"/>
+  </action>
   <action name="v_mfd_soft_select_mfd_1_long">
-   <rebind input="js2_button31"/>
+   <rebind input="js2_button61"/>
   </action>
   <action name="v_mfd_soft_select_mfd_2_long">
-   <rebind input="js2_button32"/>
+   <rebind input="js2_button62"/>
   </action>
   <action name="v_mfd_soft_select_mfd_3_long">
-   <rebind input="js2_button33"/>
+   <rebind input="js2_button63"/>
   </action>
   <action name="v_mfd_soft_select_mfd_4_long">
-   <rebind input="js2_button34"/>
+   <rebind input="js2_button64"/>
   </action>
   <action name="v_mfd_soft_select_mfd_5_long">
-   <rebind input="js2_button35"/>
+   <rebind input="js2_button65"/>
   </action>
   <action name="v_mfd_soft_select_mfd_6_long">
-   <rebind input="js2_button36"/>
+   <rebind input="js2_button66"/>
   </action>
   <action name="v_mfd_soft_select_mfd_7_long">
-   <rebind input="js2_button37"/>
+   <rebind input="js2_button67"/>
   </action>
   <action name="v_mfd_soft_select_mfd_8_long">
-   <rebind input="js2_button38"/>
+   <rebind input="js2_button68"/>
   </action>
  </actionmap>
  <actionmap name="spaceship_view">
   <action name="v_ads_stable_max_zoom_hold">
-   <rebind input="js1_button47"/>
+   <rebind input="js1_button52"/>
   </action>
   <action name="v_ads_toggle">
-   <rebind input="js1_button47" multiTap="2"/>
+   <rebind input="js1_button52" multiTap="2"/>
   </action>
   <action name="v_view_cycle_fwd">
-   <rebind input="js1_button51"/>
+   <rebind input="js1_button56"/>
   </action>
   <action name="v_view_cycle_internal_fwd">
    <rebind input="js2_ "/>
@@ -200,7 +200,7 @@
    <rebind input="js2_ "/>
   </action>
   <action name="v_view_dynamic_zoom_abs_toggle">
-   <rebind input="js1_button48"/>
+   <rebind input="js1_button53"/>
   </action>
   <action name="v_view_dynamic_zoom_rel">
    <rebind input="js2_ "/>
@@ -236,7 +236,7 @@
    <rebind input="js2_ "/>
   </action>
   <action name="v_view_zoom_in">
-   <rebind input="js1_button48"/>
+   <rebind input="js1_button53"/>
   </action>
   <action name="v_view_zoom_out">
    <rebind input="js2_ "/>
@@ -247,7 +247,7 @@
    <rebind input="js1_slider1"/>
   </action>
   <action name="v_afterburner">
-   <rebind input="js1_button37"/>
+   <rebind input="js1_button42"/>
   </action>
   <action name="v_atc_loading_area_request">
    <rebind input="js1_button5" multiTap="2"/>
@@ -268,10 +268,10 @@
    <rebind input="js2_slider1"/>
   </action>
   <action name="v_ifcs_speed_limiter_decrement">
-   <rebind input="js1_button59"/>
+   <rebind input="js1_button64"/>
   </action>
   <action name="v_ifcs_speed_limiter_increment">
-   <rebind input="js1_button58"/>
+   <rebind input="js1_button63"/>
   </action>
   <action name="v_ifcs_speed_limiter_toggle">
    <rebind input="js1_button7" multiTap="2"/>
@@ -322,7 +322,7 @@
    <rebind input="js2_ "/>
   </action>
   <action name="v_space_brake">
-   <rebind input="js1_button45"/>
+   <rebind input="js1_button50"/>
   </action>
   <action name="v_strafe_down">
    <rebind input="js2_ "/>
@@ -395,7 +395,7 @@
  </actionmap>
  <actionmap name="spaceship_docking">
   <action name="v_dock_toggle_view">
-   <rebind input="js1_button51"/>
+   <rebind input="js1_button56"/>
   </action>
   <action name="v_invoke_docking">
    <rebind input="js1_button6"/>
@@ -456,7 +456,7 @@
    <rebind input="js2_button7" multiTap="2"/>
   </action>
   <action name="v_target_cycle_attacker_fwd">
-   <rebind input="js2_button37"/>
+   <rebind input="js2_button67"/>
   </action>
   <action name="v_target_cycle_attacker_reset">
    <rebind input="js2_button7"/>
@@ -486,13 +486,13 @@
    <rebind input="js2_ "/>
   </action>
   <action name="v_target_cycle_subitem_back">
-   <rebind input="js2_button40"/>
+   <rebind input="js2_button70"/>
   </action>
   <action name="v_target_cycle_subitem_fwd">
-   <rebind input="js2_button38"/>
+   <rebind input="js2_button68"/>
   </action>
   <action name="v_target_cycle_subitem_reset">
-   <rebind input="js2_button39"/>
+   <rebind input="js2_button69"/>
   </action>
   <action name="v_target_under_reticle">
    <rebind input="js2_button11"/>
@@ -500,12 +500,12 @@
  </actionmap>
  <actionmap name="spaceship_target_hailing">
   <action name="v_target_hail">
-   <rebind input="js2_button33"/>
+   <rebind input="js2_button63"/>
   </action>
  </actionmap>
  <actionmap name="spaceship_radar">
   <action name="v_invoke_ping">
-   <rebind input="js1_button46"/>
+   <rebind input="js1_button51"/>
   </action>
  </actionmap>
  <actionmap name="spaceship_scanning">
@@ -527,19 +527,19 @@
    <rebind input="js2_ "/>
   </action>
   <action name="v_jettison_volatile_cargo">
-   <rebind input="js2_ "/>
+   <rebind input="js2_button51"/>
   </action>
   <action name="v_mining_throttle">
    <rebind input="js1_slider2"/>
   </action>
   <action name="v_mining_use_consumable1">
-   <rebind input="js2_button47"/>
+   <rebind input="js2_button77"/>
   </action>
   <action name="v_mining_use_consumable2">
-   <rebind input="js2_button50"/>
+   <rebind input="js2_button80"/>
   </action>
   <action name="v_mining_use_consumable3">
-   <rebind input="js2_button48"/>
+   <rebind input="js2_button78"/>
   </action>
   <action name="v_mining_use_permanent_modifier">
    <rebind input="js2_ "/>
@@ -565,13 +565,13 @@
    <rebind input="js2_ "/>
   </action>
   <action name="v_salvage_cycle_modifiers_left">
-   <rebind input="js2_button50"/>
+   <rebind input="js2_button80"/>
   </action>
   <action name="v_salvage_cycle_modifiers_right">
-   <rebind input="js2_button48"/>
+   <rebind input="js2_button78"/>
   </action>
   <action name="v_salvage_cycle_modifiers_structural">
-   <rebind input="js2_button49"/>
+   <rebind input="js2_button79"/>
   </action>
   <action name="v_salvage_focus_all_heads">
    <rebind input="js2_button21"/>
@@ -589,7 +589,7 @@
    <rebind input="js2_button18"/>
   </action>
   <action name="v_salvage_reset_gimbal">
-   <rebind input="js1_button52" activationMode="double_tap"/>
+   <rebind input="js1_button57" activationMode="double_tap"/>
   </action>
   <action name="v_salvage_toggle_beam_spacing_axis">
    <rebind input="js2_button16"/>
@@ -610,12 +610,12 @@
    <rebind input="js2_button13"/>
   </action>
   <action name="v_salvage_toggle_gimbal_mode">
-   <rebind input="js1_button52"/>
+   <rebind input="js1_button57"/>
   </action>
  </actionmap>
  <actionmap name="turret_movement">
   <action name="turret_gyromode">
-   <rebind input="js1_button55"/>
+   <rebind input="js1_button60"/>
   </action>
   <action name="turret_pitch">
    <rebind input="js2_y"/>
@@ -627,10 +627,10 @@
    <rebind input="js2_ "/>
   </action>
   <action name="turret_remote_exit">
-   <rebind input="js1_button46"/>
+   <rebind input="js1_button51"/>
   </action>
   <action name="turret_toggle_mouse_mode">
-   <rebind input="js1_button54"/>
+   <rebind input="js1_button59"/>
   </action>
   <action name="turret_yaw">
    <rebind input="js2_x"/>
@@ -656,18 +656,18 @@
    <rebind input="js1_button7" multiTap="2"/>
   </action>
   <action name="turret_recenter">
-   <rebind input="js1_button52"/>
+   <rebind input="js1_button57"/>
   </action>
  </actionmap>
  <actionmap name="spaceship_weapons">
   <action name="v_weapon_gimbals_state_toggle">
-   <rebind input="js1_button52"/>
+   <rebind input="js1_button57"/>
   </action>
   <action name="v_weapon_pip_prec_line_toggle">
    <rebind input="js2_ "/>
   </action>
   <action name="v_weapon_pip_toggle_lead_lag">
-   <rebind input="js1_button54"/>
+   <rebind input="js1_button59"/>
   </action>
   <action name="v_weapon_preset_attack">
    <rebind input="js2_button1"/>
@@ -712,7 +712,7 @@
    <rebind input="js2_button14" activationMode="double_tap"/>
   </action>
   <action name="v_weapon_staggered_fire_toggle">
-   <rebind input="js1_button56"/>
+   <rebind input="js1_button61"/>
   </action>
  </actionmap>
  <actionmap name="spaceship_missiles">
@@ -747,7 +747,7 @@
    <rebind input="js2_ "/>
   </action>
   <action name="v_weapon_launch_missile_cinematic_hold">
-   <rebind input="js1_button48"/>
+   <rebind input="js1_button53"/>
   </action>
   <action name="v_weapon_reset_max_missiles">
    <rebind input="js2_button16"/>
@@ -788,12 +788,12 @@
    <rebind input="js2_button4"/>
   </action>
   <action name="v_weapon_countermeasure_noise_launch">
-   <rebind input="js2_button34"/>
+   <rebind input="js2_button64"/>
   </action>
  </actionmap>
  <actionmap name="spaceship_power">
   <action name="v_engineering_assignment_engine_decrease">
-   <rebind input="js2_button57"/>
+   <rebind input="js2_button87"/>
   </action>
   <action name="v_engineering_assignment_engine_increase">
    <rebind input="js2_button27"/>
@@ -802,13 +802,13 @@
    <rebind input="js2_button27"/>
   </action>
   <action name="v_engineering_assignment_engine_min">
-   <rebind input="js2_button57"/>
+   <rebind input="js2_button87"/>
   </action>
   <action name="v_engineering_assignment_reset">
    <rebind input="js2_button25"/>
   </action>
   <action name="v_engineering_assignment_shields_decrease">
-   <rebind input="js2_button56"/>
+   <rebind input="js2_button86"/>
   </action>
   <action name="v_engineering_assignment_shields_increase">
    <rebind input="js2_button26"/>
@@ -817,10 +817,10 @@
    <rebind input="js2_button26"/>
   </action>
   <action name="v_engineering_assignment_shields_min">
-   <rebind input="js2_button56"/>
+   <rebind input="js2_button86"/>
   </action>
   <action name="v_engineering_assignment_weapons_decrease">
-   <rebind input="js2_button58"/>
+   <rebind input="js2_button88"/>
   </action>
   <action name="v_engineering_assignment_weapons_increase">
    <rebind input="js2_button28"/>
@@ -829,7 +829,7 @@
    <rebind input="js2_button28"/>
   </action>
   <action name="v_engineering_assignment_weapons_min">
-   <rebind input="js2_button58"/>
+   <rebind input="js2_button88"/>
   </action>
   <action name="v_power_throttle_down">
    <rebind input="js2_ "/>
@@ -847,7 +847,7 @@
    <rebind input="js1_button111"/>
   </action>
   <action name="v_power_toggle_shields">
-   <rebind input="js1_button108"/>
+   <rebind input="js1_button113"/>
   </action>
   <action name="v_power_toggle_thrusters">
    <rebind input="js1_button110"/>
@@ -904,10 +904,10 @@
  </actionmap>
  <actionmap name="stopwatch">
   <action name="stopwatch_reset">
-   <rebind input="js1_button55"/>
+   <rebind input="js1_button60"/>
   </action>
   <action name="stopwatch_trigger">
-   <rebind input="js1_button55"/>
+   <rebind input="js1_button60"/>
   </action>
  </actionmap>
  <actionmap name="player">
@@ -951,7 +951,7 @@
    <rebind input="js2_ "/>
   </action>
   <action name="jump">
-   <rebind input="js1_button57"/>
+   <rebind input="js1_button62"/>
   </action>
   <action name="nextitem">
    <rebind input="js2_ "/>
@@ -975,7 +975,7 @@
    <rebind input="js2_ "/>
   </action>
   <action name="thirdperson">
-   <rebind input="js1_button51"/>
+   <rebind input="js1_button56"/>
   </action>
   <action name="toggleAttachHelmet">
    <rebind input="kb1_h"/>
@@ -1021,10 +1021,10 @@
  </actionmap>
  <actionmap name="zero_gravity_eva">
   <action name="eva_boost">
-   <rebind input="js1_button57"/>
+   <rebind input="js1_button62"/>
   </action>
   <action name="eva_brake">
-   <rebind input="js1_button45"/>
+   <rebind input="js1_button50"/>
   </action>
   <action name="eva_roll">
    <rebind input="js2_rotz"/>
@@ -1097,10 +1097,10 @@
  </actionmap>
  <actionmap name="vehicle_general">
   <action name="v_flightready">
-   <rebind input="js1_button47"/>
+   <rebind input="js1_button52"/>
   </action>
   <action name="v_horn">
-   <rebind input="js1_button50"/>
+   <rebind input="js1_button55"/>
   </action>
   <action name="v_starmap">
    <rebind input="js2_ "/>
@@ -1115,7 +1115,7 @@
    <rebind input="js1_button3"/>
   </action>
   <action name="v_view_cycle_fwd">
-   <rebind input="js1_button51"/>
+   <rebind input="js1_button56"/>
   </action>
   <action name="v_view_pitch">
    <rebind input="js2_y"/>
@@ -1138,10 +1138,10 @@
  </actionmap>
  <actionmap name="vehicle_driver">
   <action name="v_boost">
-   <rebind input="js1_button57"/>
+   <rebind input="js1_button62"/>
   </action>
   <action name="v_brake">
-   <rebind input="js1_button45"/>
+   <rebind input="js1_button50"/>
   </action>
   <action name="v_move">
    <rebind input="js1_roty"/>
@@ -1159,7 +1159,7 @@
    <rebind input="js2_ "/>
   </action>
   <action name="v_view_dynamic_zoom_abs_toggle">
-   <rebind input="js1_button48"/>
+   <rebind input="js1_button53"/>
   </action>
   <action name="v_view_dynamic_zoom_rel">
    <rebind input="js2_ "/>
@@ -1231,13 +1231,13 @@
    <rebind input="js2_ "/>
   </action>
   <action name="notification_accept">
-   <rebind input="js2_button33"/>
+   <rebind input="js2_button63"/>
   </action>
   <action name="notification_decline">
-   <rebind input="js2_button33" activationMode="double_tap"/>
+   <rebind input="js2_button63" activationMode="double_tap"/>
   </action>
   <action name="pl_exit">
-   <rebind input="js2_ "/>
+   <rebind input="js2_button54"/>
   </action>
   <action name="respawn">
    <rebind input="js2_button1"/>
@@ -1370,22 +1370,22 @@
    <rebind input="js2_button3"/>
   </action>
   <action name="foip_pushtotalk_proximity">
-   <rebind input="js2_button33" multiTap="2"/>
+   <rebind input="js2_button63" multiTap="2"/>
   </action>
   <action name="foip_recalibrate">
-   <rebind input="js2_button33" activationMode="double_tap"/>
+   <rebind input="js2_button63" activationMode="double_tap"/>
   </action>
   <action name="foip_viewownplayer">
-   <rebind input="js2_button33"/>
+   <rebind input="js2_button63"/>
   </action>
   <action name="headtrack_camera_enabled">
-   <rebind input="js1_button49"/>
+   <rebind input="js1_button54"/>
   </action>
   <action name="headtrack_enabled">
-   <rebind input="js1_button49"/>
+   <rebind input="js1_button54"/>
   </action>
   <action name="headtrack_recenter_device">
-   <rebind input="js1_button49" activationMode="double_tap"/>
+   <rebind input="js1_button54" activationMode="double_tap"/>
   </action>
  </actionmap>
  <actionmap name="player_choice">
@@ -1437,7 +1437,7 @@
    <rebind input="js2_ "/>
   </action>
   <action name="view_restore_defaults">
-   <rebind input="js1_button51"/>
+   <rebind input="js1_button56"/>
   </action>
  </actionmap>
 </ActionMaps>
