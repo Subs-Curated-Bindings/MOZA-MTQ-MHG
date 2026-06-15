@@ -1,0 +1,3 @@
+# Affinity transient lock files (created while a doc is open)
+*~lock~
+*.af~lock~

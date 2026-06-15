@@ -59,10 +59,10 @@
    <rebind input="js1_button75"/>
   </action>
   <action name="v_operator_mode_cycle_back">
-   <rebind input="js1_button23"/>
+   <rebind input="js1_button11"/>
   </action>
   <action name="v_operator_mode_cycle_forward">
-   <rebind input="js1_button24"/>
+   <rebind input="js1_button12"/>
   </action>
   <action name="v_set_mining_mode">
    <rebind input="js1_button126"/>
@@ -105,13 +105,13 @@
    <rebind input="js2_ "/>
   </action>
   <action name="v_mfd_interact_cycle_backwards_short">
-   <rebind input="js2_button113"/>
+   <rebind input="js2_button112"/>
   </action>
   <action name="v_mfd_interact_cycle_forwards_long">
    <rebind input="js2_ "/>
   </action>
   <action name="v_mfd_interact_cycle_forwards_short">
-   <rebind input="js2_button117"/>
+   <rebind input="js2_button116"/>
   </action>
   <action name="v_mfd_movement_down_long">
    <rebind input="js2_ "/>
@@ -129,58 +129,58 @@
    <rebind input="js2_button5"/>
   </action>
   <action name="v_mfd_select_view_comms_short">
-   <rebind input="js2_button65"/>
+   <rebind input="js2_button53"/>
   </action>
   <action name="v_mfd_select_view_configuration_short">
-   <rebind input="js2_button64"/>
+   <rebind input="js2_button52"/>
   </action>
   <action name="v_mfd_select_view_diagnostics_short">
-   <rebind input="js2_button67"/>
+   <rebind input="js2_button55"/>
   </action>
   <action name="v_mfd_select_view_ifcs_short">
-   <rebind input="js2_button66"/>
+   <rebind input="js2_button54"/>
   </action>
   <action name="v_mfd_select_view_resource_network_short">
-   <rebind input="js2_button68"/>
+   <rebind input="js2_button56"/>
   </action>
   <action name="v_mfd_select_view_scanning_short">
-   <rebind input="js2_button63"/>
+   <rebind input="js2_button51"/>
   </action>
   <action name="v_mfd_select_view_self_status_short">
-   <rebind input="js2_button61"/>
+   <rebind input="js2_button49"/>
   </action>
   <action name="v_mfd_select_view_target_status_short">
-   <rebind input="js2_button62"/>
+   <rebind input="js2_button50"/>
   </action>
   <action name="v_mfd_soft_select_cast_left_long">
-   <rebind input="js2_button110"/>
+   <rebind input="js2_button109"/>
   </action>
   <action name="v_mfd_soft_select_cast_right_long">
-   <rebind input="js2_button111"/>
+   <rebind input="js2_button113"/>
   </action>
   <action name="v_mfd_soft_select_mfd_1_long">
-   <rebind input="js2_button61"/>
+   <rebind input="js2_button49"/>
   </action>
   <action name="v_mfd_soft_select_mfd_2_long">
-   <rebind input="js2_button62"/>
+   <rebind input="js2_button50"/>
   </action>
   <action name="v_mfd_soft_select_mfd_3_long">
-   <rebind input="js2_button63"/>
+   <rebind input="js2_button51"/>
   </action>
   <action name="v_mfd_soft_select_mfd_4_long">
-   <rebind input="js2_button64"/>
+   <rebind input="js2_button52"/>
   </action>
   <action name="v_mfd_soft_select_mfd_5_long">
-   <rebind input="js2_button65"/>
+   <rebind input="js2_button53"/>
   </action>
   <action name="v_mfd_soft_select_mfd_6_long">
-   <rebind input="js2_button66"/>
+   <rebind input="js2_button54"/>
   </action>
   <action name="v_mfd_soft_select_mfd_7_long">
-   <rebind input="js2_button67"/>
+   <rebind input="js2_button55"/>
   </action>
   <action name="v_mfd_soft_select_mfd_8_long">
-   <rebind input="js2_button68"/>
+   <rebind input="js2_button56"/>
   </action>
  </actionmap>
  <actionmap name="spaceship_view">
@@ -844,16 +844,16 @@
    <rebind input="js2_ "/>
   </action>
   <action name="v_power_toggle">
-   <rebind input="js1_button111"/>
+   <rebind input="js1_button116"/>
   </action>
   <action name="v_power_toggle_shields">
    <rebind input="js1_button113"/>
   </action>
   <action name="v_power_toggle_thrusters">
-   <rebind input="js1_button110"/>
+   <rebind input="js1_button115"/>
   </action>
   <action name="v_power_toggle_weapons">
-   <rebind input="js1_button109"/>
+   <rebind input="js1_button114"/>
   </action>
  </actionmap>
  <actionmap name="spaceship_hud">
