@@ -2685,7 +2685,7 @@
             </property>
             <property type="string">
                 <name>action-label</name>
-                <value>R-CTL.right</value>
+                <value>R-CTL.forward</value>
             </property>
             <property type="activation-mode">
                 <name>activation-mode</name>
@@ -2711,7 +2711,7 @@
             </property>
             <property type="string">
                 <name>action-label</name>
-                <value>R-CTL.left</value>
+                <value>R-CTL.back</value>
             </property>
             <property type="activation-mode">
                 <name>activation-mode</name>
@@ -2893,7 +2893,7 @@
             </property>
             <property type="string">
                 <name>action-label</name>
-                <value>Map to vJoy</value>
+                <value>R-BB-1</value>
             </property>
             <property type="activation-mode">
                 <name>activation-mode</name>
@@ -2919,7 +2919,7 @@
             </property>
             <property type="string">
                 <name>action-label</name>
-                <value>R-BB-1</value>
+                <value>R-BB-2</value>
             </property>
             <property type="activation-mode">
                 <name>activation-mode</name>
@@ -3101,7 +3101,7 @@
             </property>
             <property type="string">
                 <name>action-label</name>
-                <value>Map to vJoy</value>
+                <value>R-SLIDER.up</value>
             </property>
             <property type="activation-mode">
                 <name>activation-mode</name>
@@ -3127,7 +3127,7 @@
             </property>
             <property type="string">
                 <name>action-label</name>
-                <value>Map to vJoy</value>
+                <value>R-SLIDER.center</value>
             </property>
             <property type="activation-mode">
                 <name>activation-mode</name>
@@ -3153,7 +3153,7 @@
             </property>
             <property type="string">
                 <name>action-label</name>
-                <value>Map to vJoy</value>
+                <value>R-SLIDER.down</value>
             </property>
             <property type="activation-mode">
                 <name>activation-mode</name>
@@ -9633,7 +9633,7 @@
             </property>
             <property type="string">
                 <name>action-label</name>
-                <value>Map to vJoy</value>
+                <value>T-BRK.center</value>
             </property>
             <property type="activation-mode">
                 <name>activation-mode</name>
