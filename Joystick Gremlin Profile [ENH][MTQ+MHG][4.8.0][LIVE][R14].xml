@@ -455,16 +455,6 @@
             <device-id>00ed3200-d437-11f0-8002-444553540000</device-id>
             <input-type>axis</input-type>
             <mode>SCM Mode</mode>
-            <input-id>7</input-id>
-            <action-configuration>
-                <root-action>411880cf-af86-4496-8248-1a652abe86e1</root-action>
-                <behavior>axis</behavior>
-            </action-configuration>
-        </input>
-        <input>
-            <device-id>00ed3200-d437-11f0-8002-444553540000</device-id>
-            <input-type>axis</input-type>
-            <mode>SCM Mode</mode>
             <input-id>8</input-id>
             <action-configuration>
                 <root-action>7f45385d-2180-446b-b52c-2f778d190dcd</root-action>
@@ -1942,48 +1932,6 @@
                 <value>disallowed</value>
             </property>
         </action>
-        <action id="ae9c3f30-75c3-4809-8548-43e7af15d8c9" type="response-curve">
-            <deadzone>
-                <property type="float">
-                    <name>low</name>
-                    <value>-1.0</value>
-                </property>
-                <property type="float">
-                    <name>center-low</name>
-                    <value>0.0</value>
-                </property>
-                <property type="float">
-                    <name>center-high</name>
-                    <value>0.0</value>
-                </property>
-                <property type="float">
-                    <name>high</name>
-                    <value>1.0</value>
-                </property>
-            </deadzone>
-            <control-points>
-                <property type="point2d">
-                    <name>point</name>
-                    <value>-1.0,-1.0</value>
-                </property>
-                <property type="point2d">
-                    <name>point</name>
-                    <value>1.0,1.0</value>
-                </property>
-            </control-points>
-            <property type="string">
-                <name>curve-type</name>
-                <value>PiecewiseLinear</value>
-            </property>
-            <property type="string">
-                <name>action-label</name>
-                <value>Response Curve</value>
-            </property>
-            <property type="activation-mode">
-                <name>activation-mode</name>
-                <value>disallowed</value>
-            </property>
-        </action>
         <action id="65353e88-5761-404b-8cca-81d8f34579af" type="response-curve">
             <deadzone>
                 <property type="float">
@@ -3394,36 +3342,6 @@
             <property type="string">
                 <name>action-label</name>
                 <value>R-Z-Rotation</value>
-            </property>
-            <property type="activation-mode">
-                <name>activation-mode</name>
-                <value>both</value>
-            </property>
-        </action>
-        <action id="4ded4080-d3a6-4f3c-b828-9b5ed853585c" type="map-to-vjoy">
-            <property type="int">
-                <name>vjoy-device-id</name>
-                <value>2</value>
-            </property>
-            <property type="int">
-                <name>vjoy-input-id</name>
-                <value>7</value>
-            </property>
-            <property type="input_type">
-                <name>vjoy-input-type</name>
-                <value>axis</value>
-            </property>
-            <property type="axis_mode">
-                <name>axis-mode</name>
-                <value>absolute</value>
-            </property>
-            <property type="float">
-                <name>axis-scaling</name>
-                <value>1.0</value>
-            </property>
-            <property type="string">
-                <name>action-label</name>
-                <value>R-Slider</value>
             </property>
             <property type="activation-mode">
                 <name>activation-mode</name>
@@ -7540,35 +7458,6 @@
                 <action-id>bab04780-3120-448b-b5eb-9afd5aca1cb3</action-id>
                 <action-id>fa5b0aaa-3f3d-49dc-88db-89c9f59ac55a</action-id>
                 <action-id>5b149160-104c-4685-8642-f56a7de71899</action-id>
-            </actions>
-            <property type="string">
-                <name>action-label</name>
-                <value>Response Curve (For Inversion)</value>
-            </property>
-            <property type="activation-mode">
-                <name>activation-mode</name>
-                <value>disallowed</value>
-            </property>
-        </action>
-        <action id="626b46ec-67a7-44d9-b275-b0eda348e551" type="description">
-            <property type="string">
-                <name>description</name>
-                <value>A flat 1:1 response curve sits on this axis only so you can reverse its direction with Joystick Gremlin's Invert Curve button if your hardware reads it backwards. No other effect.</value>
-            </property>
-            <property type="string">
-                <name>action-label</name>
-                <value>Description</value>
-            </property>
-            <property type="activation-mode">
-                <name>activation-mode</name>
-                <value>disallowed</value>
-            </property>
-        </action>
-        <action id="411880cf-af86-4496-8248-1a652abe86e1" type="root">
-            <actions>
-                <action-id>ae9c3f30-75c3-4809-8548-43e7af15d8c9</action-id>
-                <action-id>626b46ec-67a7-44d9-b275-b0eda348e551</action-id>
-                <action-id>4ded4080-d3a6-4f3c-b828-9b5ed853585c</action-id>
             </actions>
             <property type="string">
                 <name>action-label</name>
