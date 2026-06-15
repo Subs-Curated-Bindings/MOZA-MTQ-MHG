@@ -6493,7 +6493,7 @@
             </property>
             <property type="string">
                 <name>action-label</name>
-                <value>T-WPN.middle</value>
+                <value>T-WPN.left</value>
             </property>
             <property type="activation-mode">
                 <name>activation-mode</name>
@@ -9828,7 +9828,7 @@
             </property>
             <property type="string">
                 <name>action-label</name>
-                <value>T-WPN.middle</value>
+                <value>T-WPN.left</value>
             </property>
             <property type="activation-mode">
                 <name>activation-mode</name>
