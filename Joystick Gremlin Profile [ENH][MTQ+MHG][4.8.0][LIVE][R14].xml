@@ -5152,7 +5152,7 @@
                 </property>
                 <property type="int">
                     <name>input-id</name>
-                    <value>60</value>
+                    <value>75</value>
                 </property>
                 <property type="bool">
                     <name>value</name>
@@ -5176,7 +5176,7 @@
                 </property>
                 <property type="int">
                     <name>input-id</name>
-                    <value>60</value>
+                    <value>75</value>
                 </property>
                 <property type="bool">
                     <name>value</name>
@@ -6594,7 +6594,7 @@
                 </property>
                 <property type="int">
                     <name>input-id</name>
-                    <value>51</value>
+                    <value>76</value>
                 </property>
                 <property type="bool">
                     <name>value</name>
@@ -6618,7 +6618,7 @@
                 </property>
                 <property type="int">
                     <name>input-id</name>
-                    <value>51</value>
+                    <value>76</value>
                 </property>
                 <property type="bool">
                     <name>value</name>

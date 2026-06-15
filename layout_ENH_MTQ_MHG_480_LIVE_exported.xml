@@ -56,7 +56,7 @@
    <rebind input="js1_button58"/>
   </action>
   <action name="v_light_amplification_toggle">
-   <rebind input="js1_button60"/>
+   <rebind input="js1_button75"/>
   </action>
   <action name="v_operator_mode_cycle_back">
    <rebind input="js1_button23"/>
@@ -1379,7 +1379,7 @@
    <rebind input="js2_button63"/>
   </action>
   <action name="headtrack_camera_enabled">
-   <rebind input="js1_button54"/>
+   <rebind input="js1_button76"/>
   </action>
   <action name="headtrack_enabled">
    <rebind input="js1_button54"/>
