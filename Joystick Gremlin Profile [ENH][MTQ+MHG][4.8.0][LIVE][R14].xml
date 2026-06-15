@@ -915,16 +915,6 @@
             <device-id>b3167000-d436-11f0-8001-444553540000</device-id>
             <input-type>button</input-type>
             <mode>Nav Mode</mode>
-            <input-id>28</input-id>
-            <action-configuration>
-                <root-action>bed4e18a-4362-4e48-8205-e3cd7c5ca5aa</root-action>
-                <behavior>button</behavior>
-            </action-configuration>
-        </input>
-        <input>
-            <device-id>b3167000-d436-11f0-8001-444553540000</device-id>
-            <input-type>button</input-type>
-            <mode>Nav Mode</mode>
             <input-id>36</input-id>
             <action-configuration>
                 <root-action>1cc225b2-8473-4e2a-807d-e3662515bf67</root-action>
@@ -4524,26 +4514,6 @@
             <property type="string">
                 <name>action-label</name>
                 <value>T-B1 "Modifier | Modifier" Hold-only Modifier mode (chord layer). Reverts on release.</value>
-            </property>
-            <property type="activation-mode">
-                <name>activation-mode</name>
-                <value>both</value>
-            </property>
-        </action>
-        <action id="401a5f73-ec24-47a2-a56a-fcb2bacf40f0" type="change-mode">
-            <property type="string">
-                <name>change-type</name>
-                <value>Temporary</value>
-            </property>
-            <target-mode>
-                <property type="string">
-                    <name>name</name>
-                    <value>Modifier</value>
-                </property>
-            </target-mode>
-            <property type="string">
-                <name>action-label</name>
-                <value>T-SW2.down "Modifier | Modifier" NAV only: latched Modifier while the switch is down.</value>
             </property>
             <property type="activation-mode">
                 <name>activation-mode</name>
@@ -8165,34 +8135,6 @@
             <property type="string">
                 <name>action-label</name>
                 <value>Root</value>
-            </property>
-            <property type="activation-mode">
-                <name>activation-mode</name>
-                <value>disallowed</value>
-            </property>
-        </action>
-        <action id="b889fbb5-465d-407d-8def-1f61cb109463" type="description">
-            <property type="string">
-                <name>description</name>
-                <value>In NAV mode only, flipping Config Down (T-SW2) holds the Modifier layer on for as long as the switch stays down - a latched Modifier. It sends nothing to the game by itself; T-B1 keeps working as the held Modifier too.</value>
-            </property>
-            <property type="string">
-                <name>action-label</name>
-                <value>Description</value>
-            </property>
-            <property type="activation-mode">
-                <name>activation-mode</name>
-                <value>disallowed</value>
-            </property>
-        </action>
-        <action id="bed4e18a-4362-4e48-8205-e3cd7c5ca5aa" type="root">
-            <actions>
-                <action-id>b889fbb5-465d-407d-8def-1f61cb109463</action-id>
-                <action-id>401a5f73-ec24-47a2-a56a-fcb2bacf40f0</action-id>
-            </actions>
-            <property type="string">
-                <name>action-label</name>
-                <value>Modifier (NAV layer)</value>
             </property>
             <property type="activation-mode">
                 <name>activation-mode</name>
