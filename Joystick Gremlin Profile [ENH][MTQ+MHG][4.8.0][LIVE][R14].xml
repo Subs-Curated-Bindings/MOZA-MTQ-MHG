@@ -872,6 +872,36 @@
             </action-configuration>
         </input>
         <input>
+            <device-id>00ed3200-d437-11f0-8002-444553540000</device-id>
+            <input-type>button</input-type>
+            <mode>SCM Mode</mode>
+            <input-id>61</input-id>
+            <action-configuration>
+                <root-action>1d53bf50-3bd3-4066-adb0-93a35dc25f88</root-action>
+                <behavior>button</behavior>
+            </action-configuration>
+        </input>
+        <input>
+            <device-id>00ed3200-d437-11f0-8002-444553540000</device-id>
+            <input-type>button</input-type>
+            <mode>SCM Mode</mode>
+            <input-id>60</input-id>
+            <action-configuration>
+                <root-action>0f90f5fb-7495-4d42-b6d2-281c4d5c9c47</root-action>
+                <behavior>button</behavior>
+            </action-configuration>
+        </input>
+        <input>
+            <device-id>00ed3200-d437-11f0-8002-444553540000</device-id>
+            <input-type>button</input-type>
+            <mode>SCM Mode</mode>
+            <input-id>62</input-id>
+            <action-configuration>
+                <root-action>9106654f-0f77-4471-8c16-9c683fea661f</root-action>
+                <behavior>button</behavior>
+            </action-configuration>
+        </input>
+        <input>
             <device-id>b3167000-d436-11f0-8001-444553540000</device-id>
             <input-type>button</input-type>
             <mode>Modifier</mode>
@@ -4005,7 +4035,7 @@
             </property>
             <property type="string">
                 <name>action-label</name>
-                <value>R-CTL.right</value>
+                <value>R-CTL.forward</value>
             </property>
             <property type="activation-mode">
                 <name>activation-mode</name>
@@ -4031,7 +4061,7 @@
             </property>
             <property type="string">
                 <name>action-label</name>
-                <value>R-CTL.left</value>
+                <value>R-CTL.back</value>
             </property>
             <property type="activation-mode">
                 <name>activation-mode</name>
@@ -4421,7 +4451,7 @@
             </property>
             <property type="string">
                 <name>action-label</name>
-                <value>Map to vJoy</value>
+                <value>R-SLIDER.up</value>
             </property>
             <property type="activation-mode">
                 <name>activation-mode</name>
@@ -4447,7 +4477,7 @@
             </property>
             <property type="string">
                 <name>action-label</name>
-                <value>Map to vJoy</value>
+                <value>R-SLIDER.center</value>
             </property>
             <property type="activation-mode">
                 <name>activation-mode</name>
@@ -4473,7 +4503,7 @@
             </property>
             <property type="string">
                 <name>action-label</name>
-                <value>Map to vJoy</value>
+                <value>R-SLIDER.down</value>
             </property>
             <property type="activation-mode">
                 <name>activation-mode</name>
@@ -6333,7 +6363,7 @@
             </property>
             <property type="string">
                 <name>action-label</name>
-                <value>Map to vJoy</value>
+                <value>T-BRK.center</value>
             </property>
             <property type="activation-mode">
                 <name>activation-mode</name>
@@ -10198,6 +10228,123 @@
         <action id="7a3466f1-1e08-43a9-a492-2b1dcd2fa377" type="root">
             <actions>
                 <action-id>db1efcec-6dae-4ccf-aba6-d55791db8ad9</action-id>
+            </actions>
+            <property type="string">
+                <name>action-label</name>
+                <value>Root</value>
+            </property>
+            <property type="activation-mode">
+                <name>activation-mode</name>
+                <value>disallowed</value>
+            </property>
+        </action>
+        <action id="0533b0cb-570f-4b0e-935c-7bda3d52504b" type="map-to-vjoy">
+            <property type="int">
+                <name>vjoy-device-id</name>
+                <value>2</value>
+            </property>
+            <property type="int">
+                <name>vjoy-input-id</name>
+                <value>60</value>
+            </property>
+            <property type="input_type">
+                <name>vjoy-input-type</name>
+                <value>button</value>
+            </property>
+            <property type="bool">
+                <name>button-inverted</name>
+                <value>False</value>
+            </property>
+            <property type="string">
+                <name>action-label</name>
+                <value>R-DIAL.up</value>
+            </property>
+            <property type="activation-mode">
+                <name>activation-mode</name>
+                <value>both</value>
+            </property>
+        </action>
+        <action id="0f90f5fb-7495-4d42-b6d2-281c4d5c9c47" type="root">
+            <actions>
+                <action-id>0533b0cb-570f-4b0e-935c-7bda3d52504b</action-id>
+            </actions>
+            <property type="string">
+                <name>action-label</name>
+                <value>Root</value>
+            </property>
+            <property type="activation-mode">
+                <name>activation-mode</name>
+                <value>disallowed</value>
+            </property>
+        </action>
+        <action id="410a501d-7a04-4192-9150-964e2f43096d" type="map-to-vjoy">
+            <property type="int">
+                <name>vjoy-device-id</name>
+                <value>2</value>
+            </property>
+            <property type="int">
+                <name>vjoy-input-id</name>
+                <value>120</value>
+            </property>
+            <property type="input_type">
+                <name>vjoy-input-type</name>
+                <value>button</value>
+            </property>
+            <property type="bool">
+                <name>button-inverted</name>
+                <value>False</value>
+            </property>
+            <property type="string">
+                <name>action-label</name>
+                <value>R-DIAL.center</value>
+            </property>
+            <property type="activation-mode">
+                <name>activation-mode</name>
+                <value>both</value>
+            </property>
+        </action>
+        <action id="1d53bf50-3bd3-4066-adb0-93a35dc25f88" type="root">
+            <actions>
+                <action-id>410a501d-7a04-4192-9150-964e2f43096d</action-id>
+            </actions>
+            <property type="string">
+                <name>action-label</name>
+                <value>Root</value>
+            </property>
+            <property type="activation-mode">
+                <name>activation-mode</name>
+                <value>disallowed</value>
+            </property>
+        </action>
+        <action id="fb7a08df-6f02-44f7-936c-0fa99e0c6055" type="map-to-vjoy">
+            <property type="int">
+                <name>vjoy-device-id</name>
+                <value>2</value>
+            </property>
+            <property type="int">
+                <name>vjoy-input-id</name>
+                <value>121</value>
+            </property>
+            <property type="input_type">
+                <name>vjoy-input-type</name>
+                <value>button</value>
+            </property>
+            <property type="bool">
+                <name>button-inverted</name>
+                <value>False</value>
+            </property>
+            <property type="string">
+                <name>action-label</name>
+                <value>R-DIAL.down</value>
+            </property>
+            <property type="activation-mode">
+                <name>activation-mode</name>
+                <value>both</value>
+            </property>
+        </action>
+        <action id="9106654f-0f77-4471-8c16-9c683fea661f" type="root">
+            <actions>
+                <action-id>fb7a08df-6f02-44f7-936c-0fa99e0c6055</action-id>
             </actions>
             <property type="string">
                 <name>action-label</name>
