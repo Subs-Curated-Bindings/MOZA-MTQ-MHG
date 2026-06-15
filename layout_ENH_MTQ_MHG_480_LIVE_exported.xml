@@ -38,10 +38,10 @@
  <modifiers />
  <actionmap name="seat_general">
   <action name="v_eject">
-   <rebind input="js2_ "/>
+   <rebind input="js2_button50"/>
   </action>
   <action name="v_emergency_exit">
-   <rebind input="js2_ "/>
+   <rebind input="js2_button54"/>
   </action>
   <action name="v_enter_remote_turret_1">
    <rebind input="kb1_up"/>
@@ -527,7 +527,7 @@
    <rebind input="js2_ "/>
   </action>
   <action name="v_jettison_volatile_cargo">
-   <rebind input="js2_ "/>
+   <rebind input="js2_button51"/>
   </action>
   <action name="v_mining_throttle">
    <rebind input="js1_slider2"/>
@@ -1237,7 +1237,7 @@
    <rebind input="js2_button63" activationMode="double_tap"/>
   </action>
   <action name="pl_exit">
-   <rebind input="js2_ "/>
+   <rebind input="js2_button54"/>
   </action>
   <action name="respawn">
    <rebind input="js2_button1"/>
