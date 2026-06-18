@@ -4762,39 +4762,11 @@
             <control-points>
                 <property type="point2d">
                     <name>point</name>
-                    <value>-1.0,-1.0</value>
+                    <value>-1.0,0.0</value>
                 </property>
                 <property type="point2d">
                     <name>point</name>
-                    <value>-0.948,-0.74</value>
-                </property>
-                <property type="point2d">
-                    <name>point</name>
-                    <value>-0.81,-1.1102230246251565e-16</value>
-                </property>
-                <property type="point2d">
-                    <name>point</name>
-                    <value>-0.76,0.0</value>
-                </property>
-                <property type="point2d">
-                    <name>point</name>
-                    <value>-0.71,-1.1102230246251565e-16</value>
-                </property>
-                <property type="point2d">
-                    <name>point</name>
-                    <value>0.51,1.0</value>
-                </property>
-                <property type="point2d">
-                    <name>point</name>
-                    <value>0.56,1.0</value>
-                </property>
-                <property type="point2d">
-                    <name>point</name>
-                    <value>0.6100000000000001,1.0</value>
-                </property>
-                <property type="point2d">
-                    <name>point</name>
-                    <value>0.852,1.0</value>
+                    <value>0.42,1.0</value>
                 </property>
                 <property type="point2d">
                     <name>point</name>
@@ -4892,39 +4864,11 @@
             <control-points>
                 <property type="point2d">
                     <name>point</name>
-                    <value>-1.0,-1.0</value>
+                    <value>-1.0,0.0</value>
                 </property>
                 <property type="point2d">
                     <name>point</name>
-                    <value>-0.944,-0.704</value>
-                </property>
-                <property type="point2d">
-                    <name>point</name>
-                    <value>-0.8,0.0</value>
-                </property>
-                <property type="point2d">
-                    <name>point</name>
-                    <value>-0.75,0.0</value>
-                </property>
-                <property type="point2d">
-                    <name>point</name>
-                    <value>-0.7,0.0</value>
-                </property>
-                <property type="point2d">
-                    <name>point</name>
-                    <value>0.5199999999999999,1.0</value>
-                </property>
-                <property type="point2d">
-                    <name>point</name>
-                    <value>0.57,1.0</value>
-                </property>
-                <property type="point2d">
-                    <name>point</name>
-                    <value>0.62,1.0</value>
-                </property>
-                <property type="point2d">
-                    <name>point</name>
-                    <value>0.8,1.0</value>
+                    <value>0.42,1.0</value>
                 </property>
                 <property type="point2d">
                     <name>point</name>
